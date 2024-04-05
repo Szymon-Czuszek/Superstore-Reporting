@@ -1,0 +1,4399 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="42" y="42" width="528" height="96" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>This standard macro was created to automate the process of building multiple shortest connections, and providing a report of the most optimal starting city, depending on the amount of routes checked.
+
+Author: Szymon Czuszek
+
+Date: 03/27/2022 - 04/02/2023</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor r="0" g="0" b="85" />
+          <FillColor r="215" g="218" b="253" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1085" y="401" width="164" height="325" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Output</Caption>
+          <Style TextColor="#7d00c8" FillColor="#e8e0fc" BorderColor="#7d00c8" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="5">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="1110" y="546" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Control Output</Name>
+              <Abbrev>C</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>C Output</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="1110" y="642" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Optimal Output</Name>
+              <Abbrev>O</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>O Output</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+        <Node ToolID="18">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="1110" y="450" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Full Output</Name>
+              <Abbrev>F</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>F Output</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="44" y="485" width="142" height="133" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Input</Caption>
+          <Style TextColor="#000055" FillColor="#cbdef5" BorderColor="#000055" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+            <Position x="102" y="534" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UseFileInput value="False" />
+              <Name>Input</Name>
+              <Abbrev />
+              <ShowFieldMap value="False" />
+              <Optional value="False" />
+              <TextInput>
+                <Configuration>
+                  <NumRows value="604" />
+                  <Fields>
+                    <Field name="City" />
+                    <Field name="State" />
+                    <Field name="Latitude" />
+                    <Field name="Longitude" />
+                  </Fields>
+                  <Data>
+                    <r>
+                      <c>Auburn</c>
+                      <c>Alabama</c>
+                      <c>32.6099</c>
+                      <c>-85.4808</c>
+                    </r>
+                    <r>
+                      <c>Decatur</c>
+                      <c>Alabama</c>
+                      <c>34.6059</c>
+                      <c>-86.9833</c>
+                    </r>
+                    <r>
+                      <c>Florence</c>
+                      <c>Alabama</c>
+                      <c>34.7998</c>
+                      <c>-87.6773</c>
+                    </r>
+                    <r>
+                      <c>Hoover</c>
+                      <c>Alabama</c>
+                      <c>33.4054</c>
+                      <c>-86.8114</c>
+                    </r>
+                    <r>
+                      <c>Huntsville</c>
+                      <c>Alabama</c>
+                      <c>34.7304</c>
+                      <c>-86.5861</c>
+                    </r>
+                    <r>
+                      <c>Mobile</c>
+                      <c>Alabama</c>
+                      <c>30.6954</c>
+                      <c>-88.0399</c>
+                    </r>
+                    <r>
+                      <c>Montgomery</c>
+                      <c>Alabama</c>
+                      <c>32.3792</c>
+                      <c>-86.3077</c>
+                    </r>
+                    <r>
+                      <c>Tuscaloosa</c>
+                      <c>Alabama</c>
+                      <c>33.2098</c>
+                      <c>-87.5692</c>
+                    </r>
+                    <r>
+                      <c>Avondale</c>
+                      <c>Arizona</c>
+                      <c>33.4484</c>
+                      <c>-112.3496</c>
+                    </r>
+                    <r>
+                      <c>Bullhead City</c>
+                      <c>Arizona</c>
+                      <c>35.1359</c>
+                      <c>-114.5286</c>
+                    </r>
+                    <r>
+                      <c>Chandler</c>
+                      <c>Arizona</c>
+                      <c>33.3062</c>
+                      <c>-111.8413</c>
+                    </r>
+                    <r>
+                      <c>Gilbert</c>
+                      <c>Arizona</c>
+                      <c>33.3528</c>
+                      <c>-111.789</c>
+                    </r>
+                    <r>
+                      <c>Glendale</c>
+                      <c>Arizona</c>
+                      <c>33.5387</c>
+                      <c>-112.1853</c>
+                    </r>
+                    <r>
+                      <c>Mesa</c>
+                      <c>Arizona</c>
+                      <c>33.4152</c>
+                      <c>-111.8315</c>
+                    </r>
+                    <r>
+                      <c>Peoria</c>
+                      <c>Arizona</c>
+                      <c>33.5806</c>
+                      <c>-112.2374</c>
+                    </r>
+                    <r>
+                      <c>Phoenix</c>
+                      <c>Arizona</c>
+                      <c>33.4484</c>
+                      <c>-112.074</c>
+                    </r>
+                    <r>
+                      <c>Scottsdale</c>
+                      <c>Arizona</c>
+                      <c>33.4942</c>
+                      <c>-111.9261</c>
+                    </r>
+                    <r>
+                      <c>Sierra Vista</c>
+                      <c>Arizona</c>
+                      <c>31.5455</c>
+                      <c>-110.2773</c>
+                    </r>
+                    <r>
+                      <c>Tempe</c>
+                      <c>Arizona</c>
+                      <c>33.4255</c>
+                      <c>-111.94</c>
+                    </r>
+                    <r>
+                      <c>Tucson</c>
+                      <c>Arizona</c>
+                      <c>32.2226</c>
+                      <c>-110.9747</c>
+                    </r>
+                    <r>
+                      <c>Yuma</c>
+                      <c>Arizona</c>
+                      <c>32.6927</c>
+                      <c>-114.6277</c>
+                    </r>
+                    <r>
+                      <c>Conway</c>
+                      <c>Arkansas</c>
+                      <c>35.0887</c>
+                      <c>-92.4421</c>
+                    </r>
+                    <r>
+                      <c>Fayetteville</c>
+                      <c>Arkansas</c>
+                      <c>36.0626</c>
+                      <c>-94.1574</c>
+                    </r>
+                    <r>
+                      <c>Hot Springs</c>
+                      <c>Arkansas</c>
+                      <c>34.5037</c>
+                      <c>-93.0552</c>
+                    </r>
+                    <r>
+                      <c>Jonesboro</c>
+                      <c>Arkansas</c>
+                      <c>35.8423</c>
+                      <c>-90.7043</c>
+                    </r>
+                    <r>
+                      <c>Little Rock</c>
+                      <c>Arkansas</c>
+                      <c>34.7465</c>
+                      <c>-92.2896</c>
+                    </r>
+                    <r>
+                      <c>Pine Bluff</c>
+                      <c>Arkansas</c>
+                      <c>34.2284</c>
+                      <c>-92.0032</c>
+                    </r>
+                    <r>
+                      <c>Rogers</c>
+                      <c>Arkansas</c>
+                      <c>36.332</c>
+                      <c>-94.1185</c>
+                    </r>
+                    <r>
+                      <c>Springdale</c>
+                      <c>Arkansas</c>
+                      <c>36.1867</c>
+                      <c>-94.1288</c>
+                    </r>
+                    <r>
+                      <c>Texarkana</c>
+                      <c>Arkansas</c>
+                      <c>33.4251</c>
+                      <c>-94.0477</c>
+                    </r>
+                    <r>
+                      <c>Anaheim</c>
+                      <c>California</c>
+                      <c>33.8366</c>
+                      <c>-117.9143</c>
+                    </r>
+                    <r>
+                      <c>Antioch</c>
+                      <c>California</c>
+                      <c>38.0049</c>
+                      <c>-121.8058</c>
+                    </r>
+                    <r>
+                      <c>Apple Valley</c>
+                      <c>California</c>
+                      <c>34.5008</c>
+                      <c>-117.1859</c>
+                    </r>
+                    <r>
+                      <c>Bakersfield</c>
+                      <c>California</c>
+                      <c>35.3733</c>
+                      <c>-119.0187</c>
+                    </r>
+                    <r>
+                      <c>Brentwood</c>
+                      <c>California</c>
+                      <c>37.9319</c>
+                      <c>-121.6958</c>
+                    </r>
+                    <r>
+                      <c>Burbank</c>
+                      <c>California</c>
+                      <c>34.1808</c>
+                      <c>-118.309</c>
+                    </r>
+                    <r>
+                      <c>Camarillo</c>
+                      <c>California</c>
+                      <c>34.2164</c>
+                      <c>-119.0376</c>
+                    </r>
+                    <r>
+                      <c>Chico</c>
+                      <c>California</c>
+                      <c>39.7285</c>
+                      <c>-121.8375</c>
+                    </r>
+                    <r>
+                      <c>Chula Vista</c>
+                      <c>California</c>
+                      <c>32.6401</c>
+                      <c>-117.0842</c>
+                    </r>
+                    <r>
+                      <c>Citrus Heights</c>
+                      <c>California</c>
+                      <c>38.7071</c>
+                      <c>-121.2811</c>
+                    </r>
+                    <r>
+                      <c>Coachella</c>
+                      <c>California</c>
+                      <c>33.6803</c>
+                      <c>-116.1739</c>
+                    </r>
+                    <r>
+                      <c>Concord</c>
+                      <c>California</c>
+                      <c>37.9775</c>
+                      <c>-122.0311</c>
+                    </r>
+                    <r>
+                      <c>Costa Mesa</c>
+                      <c>California</c>
+                      <c>33.6412</c>
+                      <c>-117.9187</c>
+                    </r>
+                    <r>
+                      <c>Danville</c>
+                      <c>California</c>
+                      <c>37.8216</c>
+                      <c>-121.9998</c>
+                    </r>
+                    <r>
+                      <c>Davis</c>
+                      <c>California</c>
+                      <c>38.5449</c>
+                      <c>-121.7405</c>
+                    </r>
+                    <r>
+                      <c>Dublin</c>
+                      <c>California</c>
+                      <c>37.7022</c>
+                      <c>-121.9358</c>
+                    </r>
+                    <r>
+                      <c>El Cajon</c>
+                      <c>California</c>
+                      <c>32.7948</c>
+                      <c>-116.9625</c>
+                    </r>
+                    <r>
+                      <c>Encinitas</c>
+                      <c>California</c>
+                      <c>33.0369</c>
+                      <c>-117.2911</c>
+                    </r>
+                    <r>
+                      <c>Escondido</c>
+                      <c>California</c>
+                      <c>33.1192</c>
+                      <c>-117.0864</c>
+                    </r>
+                    <r>
+                      <c>Fairfield</c>
+                      <c>California</c>
+                      <c>38.2494</c>
+                      <c>-122.0405</c>
+                    </r>
+                    <r>
+                      <c>Fresno</c>
+                      <c>California</c>
+                      <c>36.7372</c>
+                      <c>-119.7871</c>
+                    </r>
+                    <r>
+                      <c>Hesperia</c>
+                      <c>California</c>
+                      <c>34.4264</c>
+                      <c>-117.3009</c>
+                    </r>
+                    <r>
+                      <c>Huntington Beach</c>
+                      <c>California</c>
+                      <c>33.6603</c>
+                      <c>-117.9992</c>
+                    </r>
+                    <r>
+                      <c>Inglewood</c>
+                      <c>California</c>
+                      <c>33.9617</c>
+                      <c>-118.3531</c>
+                    </r>
+                    <r>
+                      <c>La Mesa</c>
+                      <c>California</c>
+                      <c>32.7678</c>
+                      <c>-117.0231</c>
+                    </r>
+                    <r>
+                      <c>La Quinta</c>
+                      <c>California</c>
+                      <c>33.6634</c>
+                      <c>-116.31</c>
+                    </r>
+                    <r>
+                      <c>Laguna Niguel</c>
+                      <c>California</c>
+                      <c>33.5225</c>
+                      <c>-117.7076</c>
+                    </r>
+                    <r>
+                      <c>Lake Elsinore</c>
+                      <c>California</c>
+                      <c>33.6681</c>
+                      <c>-117.3273</c>
+                    </r>
+                    <r>
+                      <c>Lake Forest</c>
+                      <c>California</c>
+                      <c>33.6469</c>
+                      <c>-117.6859</c>
+                    </r>
+                    <r>
+                      <c>Lakewood</c>
+                      <c>California</c>
+                      <c>33.8536</c>
+                      <c>-118.1336</c>
+                    </r>
+                    <r>
+                      <c>Lancaster</c>
+                      <c>California</c>
+                      <c>34.6868</c>
+                      <c>-118.1542</c>
+                    </r>
+                    <r>
+                      <c>Lodi</c>
+                      <c>California</c>
+                      <c>38.1341</c>
+                      <c>-121.2722</c>
+                    </r>
+                    <r>
+                      <c>Long Beach</c>
+                      <c>California</c>
+                      <c>33.7701</c>
+                      <c>-118.1937</c>
+                    </r>
+                    <r>
+                      <c>Los Angeles</c>
+                      <c>California</c>
+                      <c>34.0522</c>
+                      <c>-118.2437</c>
+                    </r>
+                    <r>
+                      <c>Manteca</c>
+                      <c>California</c>
+                      <c>37.7974</c>
+                      <c>-121.2161</c>
+                    </r>
+                    <r>
+                      <c>Mission Viejo</c>
+                      <c>California</c>
+                      <c>33.6</c>
+                      <c>-117.6719</c>
+                    </r>
+                    <r>
+                      <c>Modesto</c>
+                      <c>California</c>
+                      <c>37.6391</c>
+                      <c>-120.9969</c>
+                    </r>
+                    <r>
+                      <c>Montebello</c>
+                      <c>California</c>
+                      <c>34.0165</c>
+                      <c>-118.1138</c>
+                    </r>
+                    <r>
+                      <c>Moreno Valley</c>
+                      <c>California</c>
+                      <c>33.9425</c>
+                      <c>-117.2297</c>
+                    </r>
+                    <r>
+                      <c>Morgan Hill</c>
+                      <c>California</c>
+                      <c>37.1305</c>
+                      <c>-121.6544</c>
+                    </r>
+                    <r>
+                      <c>Murrieta</c>
+                      <c>California</c>
+                      <c>33.5539</c>
+                      <c>-117.2139</c>
+                    </r>
+                    <r>
+                      <c>Oakland</c>
+                      <c>California</c>
+                      <c>37.8044</c>
+                      <c>-122.2711</c>
+                    </r>
+                    <r>
+                      <c>Oceanside</c>
+                      <c>California</c>
+                      <c>33.1959</c>
+                      <c>-117.3795</c>
+                    </r>
+                    <r>
+                      <c>Ontario</c>
+                      <c>California</c>
+                      <c>34.0633</c>
+                      <c>-117.6509</c>
+                    </r>
+                    <r>
+                      <c>Oxnard</c>
+                      <c>California</c>
+                      <c>34.1975</c>
+                      <c>-119.1771</c>
+                    </r>
+                    <r>
+                      <c>Pasadena</c>
+                      <c>California</c>
+                      <c>34.1478</c>
+                      <c>-118.1445</c>
+                    </r>
+                    <r>
+                      <c>Pico Rivera</c>
+                      <c>California</c>
+                      <c>33.9831</c>
+                      <c>-118.0967</c>
+                    </r>
+                    <r>
+                      <c>Pomona</c>
+                      <c>California</c>
+                      <c>34.0551</c>
+                      <c>-117.7499</c>
+                    </r>
+                    <r>
+                      <c>Rancho Cucamonga</c>
+                      <c>California</c>
+                      <c>34.1064</c>
+                      <c>-117.5931</c>
+                    </r>
+                    <r>
+                      <c>Redding</c>
+                      <c>California</c>
+                      <c>40.5865</c>
+                      <c>-122.3917</c>
+                    </r>
+                    <r>
+                      <c>Redlands</c>
+                      <c>California</c>
+                      <c>34.0556</c>
+                      <c>-117.1825</c>
+                    </r>
+                    <r>
+                      <c>Redondo Beach</c>
+                      <c>California</c>
+                      <c>33.8492</c>
+                      <c>-118.3884</c>
+                    </r>
+                    <r>
+                      <c>Redwood City</c>
+                      <c>California</c>
+                      <c>37.4852</c>
+                      <c>-122.2364</c>
+                    </r>
+                    <r>
+                      <c>Riverside</c>
+                      <c>California</c>
+                      <c>33.9533</c>
+                      <c>-117.3962</c>
+                    </r>
+                    <r>
+                      <c>Roseville</c>
+                      <c>California</c>
+                      <c>38.7521</c>
+                      <c>-121.288</c>
+                    </r>
+                    <r>
+                      <c>Sacramento</c>
+                      <c>California</c>
+                      <c>38.5816</c>
+                      <c>-121.4944</c>
+                    </r>
+                    <r>
+                      <c>Salinas</c>
+                      <c>California</c>
+                      <c>36.6777</c>
+                      <c>-121.6555</c>
+                    </r>
+                    <r>
+                      <c>San Bernardino</c>
+                      <c>California</c>
+                      <c>34.1083</c>
+                      <c>-117.2898</c>
+                    </r>
+                    <r>
+                      <c>San Clemente</c>
+                      <c>California</c>
+                      <c>33.4269</c>
+                      <c>-117.6119</c>
+                    </r>
+                    <r>
+                      <c>San Diego</c>
+                      <c>California</c>
+                      <c>32.7157</c>
+                      <c>-117.1611</c>
+                    </r>
+                    <r>
+                      <c>San Francisco</c>
+                      <c>California</c>
+                      <c>37.7749</c>
+                      <c>-122.4194</c>
+                    </r>
+                    <r>
+                      <c>San Gabriel</c>
+                      <c>California</c>
+                      <c>34.0961</c>
+                      <c>-118.1058</c>
+                    </r>
+                    <r>
+                      <c>San Jose</c>
+                      <c>California</c>
+                      <c>37.3382</c>
+                      <c>-121.8863</c>
+                    </r>
+                    <r>
+                      <c>San Luis Obispo</c>
+                      <c>California</c>
+                      <c>35.2828</c>
+                      <c>-120.6596</c>
+                    </r>
+                    <r>
+                      <c>San Mateo</c>
+                      <c>California</c>
+                      <c>37.562</c>
+                      <c>-122.3255</c>
+                    </r>
+                    <r>
+                      <c>Santa Ana</c>
+                      <c>California</c>
+                      <c>33.7455</c>
+                      <c>-117.8677</c>
+                    </r>
+                    <r>
+                      <c>Santa Barbara</c>
+                      <c>California</c>
+                      <c>34.4208</c>
+                      <c>-119.6982</c>
+                    </r>
+                    <r>
+                      <c>Santa Clara</c>
+                      <c>California</c>
+                      <c>37.3541</c>
+                      <c>-121.9552</c>
+                    </r>
+                    <r>
+                      <c>Santa Maria</c>
+                      <c>California</c>
+                      <c>34.953</c>
+                      <c>-120.4357</c>
+                    </r>
+                    <r>
+                      <c>Stockton</c>
+                      <c>California</c>
+                      <c>37.9577</c>
+                      <c>-121.2908</c>
+                    </r>
+                    <r>
+                      <c>Sunnyvale</c>
+                      <c>California</c>
+                      <c>37.3688</c>
+                      <c>-122.0363</c>
+                    </r>
+                    <r>
+                      <c>Temecula</c>
+                      <c>California</c>
+                      <c>33.4936</c>
+                      <c>-117.1484</c>
+                    </r>
+                    <r>
+                      <c>Thousand Oaks</c>
+                      <c>California</c>
+                      <c>34.1706</c>
+                      <c>-118.8376</c>
+                    </r>
+                    <r>
+                      <c>Torrance</c>
+                      <c>California</c>
+                      <c>33.8358</c>
+                      <c>-118.3406</c>
+                    </r>
+                    <r>
+                      <c>Vacaville</c>
+                      <c>California</c>
+                      <c>38.3566</c>
+                      <c>-121.9877</c>
+                    </r>
+                    <r>
+                      <c>Vallejo</c>
+                      <c>California</c>
+                      <c>38.1041</c>
+                      <c>-122.2566</c>
+                    </r>
+                    <r>
+                      <c>Visalia</c>
+                      <c>California</c>
+                      <c>36.3302</c>
+                      <c>-119.2921</c>
+                    </r>
+                    <r>
+                      <c>Westminster</c>
+                      <c>California</c>
+                      <c>33.7515</c>
+                      <c>-117.9939</c>
+                    </r>
+                    <r>
+                      <c>Whittier</c>
+                      <c>California</c>
+                      <c>33.9792</c>
+                      <c>-118.0328</c>
+                    </r>
+                    <r>
+                      <c>Woodland</c>
+                      <c>California</c>
+                      <c>38.6785</c>
+                      <c>-121.7733</c>
+                    </r>
+                    <r>
+                      <c>Yucaipa</c>
+                      <c>California</c>
+                      <c>34.0336</c>
+                      <c>-117.0431</c>
+                    </r>
+                    <r>
+                      <c>Arvada</c>
+                      <c>Colorado</c>
+                      <c>39.8028</c>
+                      <c>-105.0875</c>
+                    </r>
+                    <r>
+                      <c>Aurora</c>
+                      <c>Colorado</c>
+                      <c>39.7294</c>
+                      <c>-104.8319</c>
+                    </r>
+                    <r>
+                      <c>Broomfield</c>
+                      <c>Colorado</c>
+                      <c>39.9205</c>
+                      <c>-105.0867</c>
+                    </r>
+                    <r>
+                      <c>Colorado Springs</c>
+                      <c>Colorado</c>
+                      <c>38.8339</c>
+                      <c>-104.8214</c>
+                    </r>
+                    <r>
+                      <c>Commerce City</c>
+                      <c>Colorado</c>
+                      <c>39.8083</c>
+                      <c>-104.9339</c>
+                    </r>
+                    <r>
+                      <c>Denver</c>
+                      <c>Colorado</c>
+                      <c>39.7392</c>
+                      <c>-104.9903</c>
+                    </r>
+                    <r>
+                      <c>Englewood</c>
+                      <c>Colorado</c>
+                      <c>39.6478</c>
+                      <c>-104.9878</c>
+                    </r>
+                    <r>
+                      <c>Fort Collins</c>
+                      <c>Colorado</c>
+                      <c>40.5853</c>
+                      <c>-105.0844</c>
+                    </r>
+                    <r>
+                      <c>Greeley</c>
+                      <c>Colorado</c>
+                      <c>40.4233</c>
+                      <c>-104.7091</c>
+                    </r>
+                    <r>
+                      <c>Littleton</c>
+                      <c>Colorado</c>
+                      <c>39.6133</c>
+                      <c>-105.0166</c>
+                    </r>
+                    <r>
+                      <c>Longmont</c>
+                      <c>Colorado</c>
+                      <c>40.1672</c>
+                      <c>-105.1019</c>
+                    </r>
+                    <r>
+                      <c>Louisville</c>
+                      <c>Colorado</c>
+                      <c>39.9778</c>
+                      <c>-105.1319</c>
+                    </r>
+                    <r>
+                      <c>Loveland</c>
+                      <c>Colorado</c>
+                      <c>40.3978</c>
+                      <c>-105.074</c>
+                    </r>
+                    <r>
+                      <c>Parker</c>
+                      <c>Colorado</c>
+                      <c>39.5186</c>
+                      <c>-104.7614</c>
+                    </r>
+                    <r>
+                      <c>Pueblo</c>
+                      <c>Colorado</c>
+                      <c>38.2544</c>
+                      <c>-104.6091</c>
+                    </r>
+                    <r>
+                      <c>Thornton</c>
+                      <c>Colorado</c>
+                      <c>39.868</c>
+                      <c>-104.9719</c>
+                    </r>
+                    <r>
+                      <c>Bristol</c>
+                      <c>Connecticut</c>
+                      <c>41.6718</c>
+                      <c>-72.9493</c>
+                    </r>
+                    <r>
+                      <c>Danbury</c>
+                      <c>Connecticut</c>
+                      <c>41.3948</c>
+                      <c>-73.454</c>
+                    </r>
+                    <r>
+                      <c>Fairfield</c>
+                      <c>Connecticut</c>
+                      <c>41.1408</c>
+                      <c>-73.2613</c>
+                    </r>
+                    <r>
+                      <c>Manchester</c>
+                      <c>Connecticut</c>
+                      <c>41.7759</c>
+                      <c>-72.5215</c>
+                    </r>
+                    <r>
+                      <c>Meriden</c>
+                      <c>Connecticut</c>
+                      <c>41.5382</c>
+                      <c>-72.807</c>
+                    </r>
+                    <r>
+                      <c>Middletown</c>
+                      <c>Connecticut</c>
+                      <c>41.5623</c>
+                      <c>-72.6506</c>
+                    </r>
+                    <r>
+                      <c>Milford</c>
+                      <c>Connecticut</c>
+                      <c>41.2307</c>
+                      <c>-73.0647</c>
+                    </r>
+                    <r>
+                      <c>Norwich</c>
+                      <c>Connecticut</c>
+                      <c>41.5243</c>
+                      <c>-72.0759</c>
+                    </r>
+                    <r>
+                      <c>Shelton</c>
+                      <c>Connecticut</c>
+                      <c>41.3165</c>
+                      <c>-73.0932</c>
+                    </r>
+                    <r>
+                      <c>Waterbury</c>
+                      <c>Connecticut</c>
+                      <c>41.5582</c>
+                      <c>-73.0515</c>
+                    </r>
+                    <r>
+                      <c>Dover</c>
+                      <c>Delaware</c>
+                      <c>39.1582</c>
+                      <c>-75.5244</c>
+                    </r>
+                    <r>
+                      <c>Newark</c>
+                      <c>Delaware</c>
+                      <c>39.6837</c>
+                      <c>-75.7497</c>
+                    </r>
+                    <r>
+                      <c>Wilmington</c>
+                      <c>Delaware</c>
+                      <c>39.7391</c>
+                      <c>-75.5398</c>
+                    </r>
+                    <r>
+                      <c>Washington</c>
+                      <c>District of Columbia</c>
+                      <c>38.938</c>
+                      <c>-77.0708</c>
+                    </r>
+                    <r>
+                      <c>Apopka</c>
+                      <c>Florida</c>
+                      <c>28.6934</c>
+                      <c>-81.5322</c>
+                    </r>
+                    <r>
+                      <c>Boca Raton</c>
+                      <c>Florida</c>
+                      <c>26.3683</c>
+                      <c>-80.1289</c>
+                    </r>
+                    <r>
+                      <c>Boynton Beach</c>
+                      <c>Florida</c>
+                      <c>26.5253</c>
+                      <c>-80.0664</c>
+                    </r>
+                    <r>
+                      <c>Coral Gables</c>
+                      <c>Florida</c>
+                      <c>25.7215</c>
+                      <c>-80.2684</c>
+                    </r>
+                    <r>
+                      <c>Coral Springs</c>
+                      <c>Florida</c>
+                      <c>26.2712</c>
+                      <c>-80.2706</c>
+                    </r>
+                    <r>
+                      <c>Daytona Beach</c>
+                      <c>Florida</c>
+                      <c>29.2108</c>
+                      <c>-81.0228</c>
+                    </r>
+                    <r>
+                      <c>Delray Beach</c>
+                      <c>Florida</c>
+                      <c>26.4615</c>
+                      <c>-80.0728</c>
+                    </r>
+                    <r>
+                      <c>Deltona</c>
+                      <c>Florida</c>
+                      <c>28.9005</c>
+                      <c>-81.2637</c>
+                    </r>
+                    <r>
+                      <c>Fort Lauderdale</c>
+                      <c>Florida</c>
+                      <c>26.1224</c>
+                      <c>-80.1373</c>
+                    </r>
+                    <r>
+                      <c>Hialeah</c>
+                      <c>Florida</c>
+                      <c>25.8576</c>
+                      <c>-80.2781</c>
+                    </r>
+                    <r>
+                      <c>Hollywood</c>
+                      <c>Florida</c>
+                      <c>26.0112</c>
+                      <c>-80.1495</c>
+                    </r>
+                    <r>
+                      <c>Homestead</c>
+                      <c>Florida</c>
+                      <c>25.4687</c>
+                      <c>-80.4776</c>
+                    </r>
+                    <r>
+                      <c>Jacksonville</c>
+                      <c>Florida</c>
+                      <c>30.3322</c>
+                      <c>-81.6557</c>
+                    </r>
+                    <r>
+                      <c>Jupiter</c>
+                      <c>Florida</c>
+                      <c>26.9342</c>
+                      <c>-80.0942</c>
+                    </r>
+                    <r>
+                      <c>Kissimmee</c>
+                      <c>Florida</c>
+                      <c>28.2916</c>
+                      <c>-81.4076</c>
+                    </r>
+                    <r>
+                      <c>Lakeland</c>
+                      <c>Florida</c>
+                      <c>28.0395</c>
+                      <c>-81.9498</c>
+                    </r>
+                    <r>
+                      <c>Margate</c>
+                      <c>Florida</c>
+                      <c>26.2445</c>
+                      <c>-80.2064</c>
+                    </r>
+                    <r>
+                      <c>Melbourne</c>
+                      <c>Florida</c>
+                      <c>28.0836</c>
+                      <c>-80.6081</c>
+                    </r>
+                    <r>
+                      <c>Miami</c>
+                      <c>Florida</c>
+                      <c>25.7617</c>
+                      <c>-80.1918</c>
+                    </r>
+                    <r>
+                      <c>Miramar</c>
+                      <c>Florida</c>
+                      <c>25.9861</c>
+                      <c>-80.3036</c>
+                    </r>
+                    <r>
+                      <c>North Miami</c>
+                      <c>Florida</c>
+                      <c>25.8901</c>
+                      <c>-80.1867</c>
+                    </r>
+                    <r>
+                      <c>Orlando</c>
+                      <c>Florida</c>
+                      <c>28.5383</c>
+                      <c>-81.3792</c>
+                    </r>
+                    <r>
+                      <c>Ormond Beach</c>
+                      <c>Florida</c>
+                      <c>29.2858</c>
+                      <c>-81.0559</c>
+                    </r>
+                    <r>
+                      <c>Palm Coast</c>
+                      <c>Florida</c>
+                      <c>29.5845</c>
+                      <c>-81.2079</c>
+                    </r>
+                    <r>
+                      <c>Pembroke Pines</c>
+                      <c>Florida</c>
+                      <c>26.0078</c>
+                      <c>-80.2963</c>
+                    </r>
+                    <r>
+                      <c>Pensacola</c>
+                      <c>Florida</c>
+                      <c>30.4213</c>
+                      <c>-87.2169</c>
+                    </r>
+                    <r>
+                      <c>Plantation</c>
+                      <c>Florida</c>
+                      <c>26.1276</c>
+                      <c>-80.2331</c>
+                    </r>
+                    <r>
+                      <c>Pompano Beach</c>
+                      <c>Florida</c>
+                      <c>26.2379</c>
+                      <c>-80.1248</c>
+                    </r>
+                    <r>
+                      <c>Port Orange</c>
+                      <c>Florida</c>
+                      <c>29.1383</c>
+                      <c>-80.9956</c>
+                    </r>
+                    <r>
+                      <c>Port Saint Lucie</c>
+                      <c>Florida</c>
+                      <c>27.273</c>
+                      <c>-80.3582</c>
+                    </r>
+                    <r>
+                      <c>Saint Petersburg</c>
+                      <c>Florida</c>
+                      <c>27.7676</c>
+                      <c>-82.6403</c>
+                    </r>
+                    <r>
+                      <c>Sanford</c>
+                      <c>Florida</c>
+                      <c>28.8029</c>
+                      <c>-81.2695</c>
+                    </r>
+                    <r>
+                      <c>Tallahassee</c>
+                      <c>Florida</c>
+                      <c>30.4383</c>
+                      <c>-84.2807</c>
+                    </r>
+                    <r>
+                      <c>Tamarac</c>
+                      <c>Florida</c>
+                      <c>26.2129</c>
+                      <c>-80.2495</c>
+                    </r>
+                    <r>
+                      <c>Tampa</c>
+                      <c>Florida</c>
+                      <c>27.9506</c>
+                      <c>-82.4572</c>
+                    </r>
+                    <r>
+                      <c>West Palm Beach</c>
+                      <c>Florida</c>
+                      <c>26.7153</c>
+                      <c>-80.0534</c>
+                    </r>
+                    <r>
+                      <c>Athens</c>
+                      <c>Georgia</c>
+                      <c>33.9519</c>
+                      <c>-83.3576</c>
+                    </r>
+                    <r>
+                      <c>Atlanta</c>
+                      <c>Georgia</c>
+                      <c>33.749</c>
+                      <c>-84.388</c>
+                    </r>
+                    <r>
+                      <c>Columbus</c>
+                      <c>Georgia</c>
+                      <c>32.46</c>
+                      <c>-84.9877</c>
+                    </r>
+                    <r>
+                      <c>East Point</c>
+                      <c>Georgia</c>
+                      <c>33.6796</c>
+                      <c>-84.4391</c>
+                    </r>
+                    <r>
+                      <c>Macon</c>
+                      <c>Georgia</c>
+                      <c>32.8407</c>
+                      <c>-83.6324</c>
+                    </r>
+                    <r>
+                      <c>Marietta</c>
+                      <c>Georgia</c>
+                      <c>33.9526</c>
+                      <c>-84.5499</c>
+                    </r>
+                    <r>
+                      <c>Roswell</c>
+                      <c>Georgia</c>
+                      <c>34.0232</c>
+                      <c>-84.3616</c>
+                    </r>
+                    <r>
+                      <c>Sandy Springs</c>
+                      <c>Georgia</c>
+                      <c>33.9304</c>
+                      <c>-84.3733</c>
+                    </r>
+                    <r>
+                      <c>Smyrna</c>
+                      <c>Georgia</c>
+                      <c>33.8839</c>
+                      <c>-84.5144</c>
+                    </r>
+                    <r>
+                      <c>Warner Robins</c>
+                      <c>Georgia</c>
+                      <c>32.6207</c>
+                      <c>-83.6</c>
+                    </r>
+                    <r>
+                      <c>Woodstock</c>
+                      <c>Georgia</c>
+                      <c>34.1015</c>
+                      <c>-84.5194</c>
+                    </r>
+                    <r>
+                      <c>Boise</c>
+                      <c>Idaho</c>
+                      <c>43.615</c>
+                      <c>-116.2023</c>
+                    </r>
+                    <r>
+                      <c>Caldwell</c>
+                      <c>Idaho</c>
+                      <c>43.6629</c>
+                      <c>-116.6874</c>
+                    </r>
+                    <r>
+                      <c>Lewiston</c>
+                      <c>Idaho</c>
+                      <c>46.4165</c>
+                      <c>-117.0177</c>
+                    </r>
+                    <r>
+                      <c>Meridian</c>
+                      <c>Idaho</c>
+                      <c>43.6121</c>
+                      <c>-116.3915</c>
+                    </r>
+                    <r>
+                      <c>Pocatello</c>
+                      <c>Idaho</c>
+                      <c>42.8713</c>
+                      <c>-112.4455</c>
+                    </r>
+                    <r>
+                      <c>Twin Falls</c>
+                      <c>Idaho</c>
+                      <c>42.562</c>
+                      <c>-114.4609</c>
+                    </r>
+                    <r>
+                      <c>Arlington Heights</c>
+                      <c>Illinois</c>
+                      <c>42.0884</c>
+                      <c>-87.9806</c>
+                    </r>
+                    <r>
+                      <c>Aurora</c>
+                      <c>Illinois</c>
+                      <c>41.7606</c>
+                      <c>-88.3201</c>
+                    </r>
+                    <r>
+                      <c>Bloomington</c>
+                      <c>Illinois</c>
+                      <c>40.4842</c>
+                      <c>-88.9937</c>
+                    </r>
+                    <r>
+                      <c>Bolingbrook</c>
+                      <c>Illinois</c>
+                      <c>41.6986</c>
+                      <c>-88.0684</c>
+                    </r>
+                    <r>
+                      <c>Buffalo Grove</c>
+                      <c>Illinois</c>
+                      <c>42.1663</c>
+                      <c>-87.9631</c>
+                    </r>
+                    <r>
+                      <c>Carol Stream</c>
+                      <c>Illinois</c>
+                      <c>41.9125</c>
+                      <c>-88.1348</c>
+                    </r>
+                    <r>
+                      <c>Champaign</c>
+                      <c>Illinois</c>
+                      <c>40.1164</c>
+                      <c>-88.2434</c>
+                    </r>
+                    <r>
+                      <c>Chicago</c>
+                      <c>Illinois</c>
+                      <c>41.8781</c>
+                      <c>-87.6298</c>
+                    </r>
+                    <r>
+                      <c>Danville</c>
+                      <c>Illinois</c>
+                      <c>40.1245</c>
+                      <c>-87.63</c>
+                    </r>
+                    <r>
+                      <c>Decatur</c>
+                      <c>Illinois</c>
+                      <c>39.8403</c>
+                      <c>-88.9548</c>
+                    </r>
+                    <r>
+                      <c>Des Plaines</c>
+                      <c>Illinois</c>
+                      <c>42.0334</c>
+                      <c>-87.8834</c>
+                    </r>
+                    <r>
+                      <c>Elmhurst</c>
+                      <c>Illinois</c>
+                      <c>41.8995</c>
+                      <c>-87.9403</c>
+                    </r>
+                    <r>
+                      <c>Evanston</c>
+                      <c>Illinois</c>
+                      <c>42.0451</c>
+                      <c>-87.6877</c>
+                    </r>
+                    <r>
+                      <c>Frankfort</c>
+                      <c>Illinois</c>
+                      <c>41.4959</c>
+                      <c>-87.8487</c>
+                    </r>
+                    <r>
+                      <c>Freeport</c>
+                      <c>Illinois</c>
+                      <c>42.2967</c>
+                      <c>-89.621</c>
+                    </r>
+                    <r>
+                      <c>Glenview</c>
+                      <c>Illinois</c>
+                      <c>42.0698</c>
+                      <c>-87.7878</c>
+                    </r>
+                    <r>
+                      <c>Highland Park</c>
+                      <c>Illinois</c>
+                      <c>42.1817</c>
+                      <c>-87.8009</c>
+                    </r>
+                    <r>
+                      <c>Naperville</c>
+                      <c>Illinois</c>
+                      <c>41.7508</c>
+                      <c>-88.1535</c>
+                    </r>
+                    <r>
+                      <c>Normal</c>
+                      <c>Illinois</c>
+                      <c>40.5142</c>
+                      <c>-88.9906</c>
+                    </r>
+                    <r>
+                      <c>Oak Park</c>
+                      <c>Illinois</c>
+                      <c>41.885</c>
+                      <c>-87.7845</c>
+                    </r>
+                    <r>
+                      <c>Orland Park</c>
+                      <c>Illinois</c>
+                      <c>41.6303</c>
+                      <c>-87.8539</c>
+                    </r>
+                    <r>
+                      <c>Oswego</c>
+                      <c>Illinois</c>
+                      <c>41.6828</c>
+                      <c>-88.3515</c>
+                    </r>
+                    <r>
+                      <c>Palatine</c>
+                      <c>Illinois</c>
+                      <c>42.1103</c>
+                      <c>-88.0342</c>
+                    </r>
+                    <r>
+                      <c>Park Ridge</c>
+                      <c>Illinois</c>
+                      <c>42.0111</c>
+                      <c>-87.8406</c>
+                    </r>
+                    <r>
+                      <c>Peoria</c>
+                      <c>Illinois</c>
+                      <c>40.6936</c>
+                      <c>-89.588</c>
+                    </r>
+                    <r>
+                      <c>Quincy</c>
+                      <c>Illinois</c>
+                      <c>39.9356</c>
+                      <c>-91.4099</c>
+                    </r>
+                    <r>
+                      <c>Rockford</c>
+                      <c>Illinois</c>
+                      <c>42.2711</c>
+                      <c>-89.0939</c>
+                    </r>
+                    <r>
+                      <c>Romeoville</c>
+                      <c>Illinois</c>
+                      <c>41.6475</c>
+                      <c>-88.0895</c>
+                    </r>
+                    <r>
+                      <c>Saint Charles</c>
+                      <c>Illinois</c>
+                      <c>41.9142</c>
+                      <c>-88.3087</c>
+                    </r>
+                    <r>
+                      <c>Skokie</c>
+                      <c>Illinois</c>
+                      <c>42.0324</c>
+                      <c>-87.7416</c>
+                    </r>
+                    <r>
+                      <c>Tinley Park</c>
+                      <c>Illinois</c>
+                      <c>41.5731</c>
+                      <c>-87.7933</c>
+                    </r>
+                    <r>
+                      <c>Wheeling</c>
+                      <c>Illinois</c>
+                      <c>42.1392</c>
+                      <c>-87.928</c>
+                    </r>
+                    <r>
+                      <c>Woodstock</c>
+                      <c>Illinois</c>
+                      <c>42.3147</c>
+                      <c>-88.4487</c>
+                    </r>
+                    <r>
+                      <c>Bloomington</c>
+                      <c>Indiana</c>
+                      <c>39.1653</c>
+                      <c>-86.5264</c>
+                    </r>
+                    <r>
+                      <c>Columbus</c>
+                      <c>Indiana</c>
+                      <c>39.2014</c>
+                      <c>-85.9214</c>
+                    </r>
+                    <r>
+                      <c>Elkhart</c>
+                      <c>Indiana</c>
+                      <c>41.6819</c>
+                      <c>-85.9767</c>
+                    </r>
+                    <r>
+                      <c>Greenwood</c>
+                      <c>Indiana</c>
+                      <c>39.6137</c>
+                      <c>-86.1067</c>
+                    </r>
+                    <r>
+                      <c>Indianapolis</c>
+                      <c>Indiana</c>
+                      <c>39.7684</c>
+                      <c>-86.1581</c>
+                    </r>
+                    <r>
+                      <c>La Porte</c>
+                      <c>Indiana</c>
+                      <c>41.6086</c>
+                      <c>-86.7341</c>
+                    </r>
+                    <r>
+                      <c>Lafayette</c>
+                      <c>Indiana</c>
+                      <c>40.4167</c>
+                      <c>-86.8753</c>
+                    </r>
+                    <r>
+                      <c>Lawrence</c>
+                      <c>Indiana</c>
+                      <c>39.8387</c>
+                      <c>-86.0253</c>
+                    </r>
+                    <r>
+                      <c>Mishawaka</c>
+                      <c>Indiana</c>
+                      <c>41.6611</c>
+                      <c>-86.1586</c>
+                    </r>
+                    <r>
+                      <c>New Albany</c>
+                      <c>Indiana</c>
+                      <c>38.2856</c>
+                      <c>-85.8241</c>
+                    </r>
+                    <r>
+                      <c>New Castle</c>
+                      <c>Indiana</c>
+                      <c>39.9289</c>
+                      <c>-85.37</c>
+                    </r>
+                    <r>
+                      <c>Noblesville</c>
+                      <c>Indiana</c>
+                      <c>40.0456</c>
+                      <c>-86.0086</c>
+                    </r>
+                    <r>
+                      <c>Portage</c>
+                      <c>Indiana</c>
+                      <c>41.5759</c>
+                      <c>-87.1761</c>
+                    </r>
+                    <r>
+                      <c>Richmond</c>
+                      <c>Indiana</c>
+                      <c>39.8289</c>
+                      <c>-84.8902</c>
+                    </r>
+                    <r>
+                      <c>South Bend</c>
+                      <c>Indiana</c>
+                      <c>41.6764</c>
+                      <c>-86.252</c>
+                    </r>
+                    <r>
+                      <c>Burlington</c>
+                      <c>Iowa</c>
+                      <c>40.8075</c>
+                      <c>-91.1129</c>
+                    </r>
+                    <r>
+                      <c>Cedar Rapids</c>
+                      <c>Iowa</c>
+                      <c>41.9779</c>
+                      <c>-91.6656</c>
+                    </r>
+                    <r>
+                      <c>Des Moines</c>
+                      <c>Iowa</c>
+                      <c>41.5868</c>
+                      <c>-93.625</c>
+                    </r>
+                    <r>
+                      <c>Dubuque</c>
+                      <c>Iowa</c>
+                      <c>42.5006</c>
+                      <c>-90.6646</c>
+                    </r>
+                    <r>
+                      <c>Iowa City</c>
+                      <c>Iowa</c>
+                      <c>41.6611</c>
+                      <c>-91.5302</c>
+                    </r>
+                    <r>
+                      <c>Marion</c>
+                      <c>Iowa</c>
+                      <c>42.0347</c>
+                      <c>-91.5962</c>
+                    </r>
+                    <r>
+                      <c>Urbandale</c>
+                      <c>Iowa</c>
+                      <c>41.6267</c>
+                      <c>-93.7122</c>
+                    </r>
+                    <r>
+                      <c>Waterloo</c>
+                      <c>Iowa</c>
+                      <c>42.4928</c>
+                      <c>-92.3426</c>
+                    </r>
+                    <r>
+                      <c>Garden City</c>
+                      <c>Kansas</c>
+                      <c>37.9717</c>
+                      <c>-100.8727</c>
+                    </r>
+                    <r>
+                      <c>Manhattan</c>
+                      <c>Kansas</c>
+                      <c>39.1836</c>
+                      <c>-96.5717</c>
+                    </r>
+                    <r>
+                      <c>Olathe</c>
+                      <c>Kansas</c>
+                      <c>38.8814</c>
+                      <c>-94.8191</c>
+                    </r>
+                    <r>
+                      <c>Overland Park</c>
+                      <c>Kansas</c>
+                      <c>38.9822</c>
+                      <c>-94.6708</c>
+                    </r>
+                    <r>
+                      <c>Wichita</c>
+                      <c>Kansas</c>
+                      <c>37.6872</c>
+                      <c>-97.3301</c>
+                    </r>
+                    <r>
+                      <c>Bowling Green</c>
+                      <c>Kentucky</c>
+                      <c>36.9903</c>
+                      <c>-86.4436</c>
+                    </r>
+                    <r>
+                      <c>Florence</c>
+                      <c>Kentucky</c>
+                      <c>38.9989</c>
+                      <c>-84.6266</c>
+                    </r>
+                    <r>
+                      <c>Georgetown</c>
+                      <c>Kentucky</c>
+                      <c>38.2098</c>
+                      <c>-84.5588</c>
+                    </r>
+                    <r>
+                      <c>Henderson</c>
+                      <c>Kentucky</c>
+                      <c>37.8362</c>
+                      <c>-87.59</c>
+                    </r>
+                    <r>
+                      <c>Louisville</c>
+                      <c>Kentucky</c>
+                      <c>38.2527</c>
+                      <c>-85.7585</c>
+                    </r>
+                    <r>
+                      <c>Murray</c>
+                      <c>Kentucky</c>
+                      <c>36.6103</c>
+                      <c>-88.3148</c>
+                    </r>
+                    <r>
+                      <c>Owensboro</c>
+                      <c>Kentucky</c>
+                      <c>37.7719</c>
+                      <c>-87.1112</c>
+                    </r>
+                    <r>
+                      <c>Richmond</c>
+                      <c>Kentucky</c>
+                      <c>37.7479</c>
+                      <c>-84.2947</c>
+                    </r>
+                    <r>
+                      <c>Bossier City</c>
+                      <c>Louisiana</c>
+                      <c>32.5159</c>
+                      <c>-93.7321</c>
+                    </r>
+                    <r>
+                      <c>Kenner</c>
+                      <c>Louisiana</c>
+                      <c>30.01</c>
+                      <c>-90.2549</c>
+                    </r>
+                    <r>
+                      <c>Lafayette</c>
+                      <c>Louisiana</c>
+                      <c>30.2241</c>
+                      <c>-92.0198</c>
+                    </r>
+                    <r>
+                      <c>Lake Charles</c>
+                      <c>Louisiana</c>
+                      <c>30.2266</c>
+                      <c>-93.2174</c>
+                    </r>
+                    <r>
+                      <c>Monroe</c>
+                      <c>Louisiana</c>
+                      <c>32.5093</c>
+                      <c>-92.1193</c>
+                    </r>
+                    <r>
+                      <c>Bangor</c>
+                      <c>Maine</c>
+                      <c>44.8012</c>
+                      <c>-68.7783</c>
+                    </r>
+                    <r>
+                      <c>Lewiston</c>
+                      <c>Maine</c>
+                      <c>44.1004</c>
+                      <c>-70.2148</c>
+                    </r>
+                    <r>
+                      <c>Baltimore</c>
+                      <c>Maryland</c>
+                      <c>39.2904</c>
+                      <c>-76.6122</c>
+                    </r>
+                    <r>
+                      <c>Clinton</c>
+                      <c>Maryland</c>
+                      <c>38.7657</c>
+                      <c>-76.8983</c>
+                    </r>
+                    <r>
+                      <c>Columbia</c>
+                      <c>Maryland</c>
+                      <c>39.2037</c>
+                      <c>-76.861</c>
+                    </r>
+                    <r>
+                      <c>Gaithersburg</c>
+                      <c>Maryland</c>
+                      <c>39.1434</c>
+                      <c>-77.2014</c>
+                    </r>
+                    <r>
+                      <c>Hagerstown</c>
+                      <c>Maryland</c>
+                      <c>39.6418</c>
+                      <c>-77.72</c>
+                    </r>
+                    <r>
+                      <c>Laurel</c>
+                      <c>Maryland</c>
+                      <c>39.0993</c>
+                      <c>-76.8483</c>
+                    </r>
+                    <r>
+                      <c>Rockville</c>
+                      <c>Maryland</c>
+                      <c>39.0839</c>
+                      <c>-77.1539</c>
+                    </r>
+                    <r>
+                      <c>Andover</c>
+                      <c>Massachusetts</c>
+                      <c>42.6584</c>
+                      <c>-71.1375</c>
+                    </r>
+                    <r>
+                      <c>Beverly</c>
+                      <c>Massachusetts</c>
+                      <c>42.5584</c>
+                      <c>-70.88</c>
+                    </r>
+                    <r>
+                      <c>Cambridge</c>
+                      <c>Massachusetts</c>
+                      <c>42.3736</c>
+                      <c>-71.1097</c>
+                    </r>
+                    <r>
+                      <c>Everett</c>
+                      <c>Massachusetts</c>
+                      <c>42.4084</c>
+                      <c>-71.0537</c>
+                    </r>
+                    <r>
+                      <c>Franklin</c>
+                      <c>Massachusetts</c>
+                      <c>42.0834</c>
+                      <c>-71.3967</c>
+                    </r>
+                    <r>
+                      <c>Holyoke</c>
+                      <c>Massachusetts</c>
+                      <c>42.2043</c>
+                      <c>-72.6162</c>
+                    </r>
+                    <r>
+                      <c>Lawrence</c>
+                      <c>Massachusetts</c>
+                      <c>42.707</c>
+                      <c>-71.1631</c>
+                    </r>
+                    <r>
+                      <c>Leominster</c>
+                      <c>Massachusetts</c>
+                      <c>42.5257</c>
+                      <c>-71.7598</c>
+                    </r>
+                    <r>
+                      <c>Lowell</c>
+                      <c>Massachusetts</c>
+                      <c>42.6334</c>
+                      <c>-71.3162</c>
+                    </r>
+                    <r>
+                      <c>Malden</c>
+                      <c>Massachusetts</c>
+                      <c>42.4251</c>
+                      <c>-71.0662</c>
+                    </r>
+                    <r>
+                      <c>Marlborough</c>
+                      <c>Massachusetts</c>
+                      <c>42.3459</c>
+                      <c>-71.5523</c>
+                    </r>
+                    <r>
+                      <c>New Bedford</c>
+                      <c>Massachusetts</c>
+                      <c>41.6362</c>
+                      <c>-70.9342</c>
+                    </r>
+                    <r>
+                      <c>Quincy</c>
+                      <c>Massachusetts</c>
+                      <c>42.2529</c>
+                      <c>-71.0023</c>
+                    </r>
+                    <r>
+                      <c>Revere</c>
+                      <c>Massachusetts</c>
+                      <c>42.4084</c>
+                      <c>-71.0119</c>
+                    </r>
+                    <r>
+                      <c>Ann Arbor</c>
+                      <c>Michigan</c>
+                      <c>42.2808</c>
+                      <c>-83.743</c>
+                    </r>
+                    <r>
+                      <c>Canton</c>
+                      <c>Michigan</c>
+                      <c>42.3086</c>
+                      <c>-83.4821</c>
+                    </r>
+                    <r>
+                      <c>Dearborn</c>
+                      <c>Michigan</c>
+                      <c>42.3223</c>
+                      <c>-83.1763</c>
+                    </r>
+                    <r>
+                      <c>Dearborn Heights</c>
+                      <c>Michigan</c>
+                      <c>42.336</c>
+                      <c>-83.2733</c>
+                    </r>
+                    <r>
+                      <c>Detroit</c>
+                      <c>Michigan</c>
+                      <c>42.3314</c>
+                      <c>-83.0458</c>
+                    </r>
+                    <r>
+                      <c>Grand Rapids</c>
+                      <c>Michigan</c>
+                      <c>42.9634</c>
+                      <c>-85.6681</c>
+                    </r>
+                    <r>
+                      <c>Holland</c>
+                      <c>Michigan</c>
+                      <c>42.7875</c>
+                      <c>-86.1089</c>
+                    </r>
+                    <r>
+                      <c>Jackson</c>
+                      <c>Michigan</c>
+                      <c>42.2459</c>
+                      <c>-84.4013</c>
+                    </r>
+                    <r>
+                      <c>Lansing</c>
+                      <c>Michigan</c>
+                      <c>42.7325</c>
+                      <c>-84.5555</c>
+                    </r>
+                    <r>
+                      <c>Lincoln Park</c>
+                      <c>Michigan</c>
+                      <c>42.2506</c>
+                      <c>-83.1785</c>
+                    </r>
+                    <r>
+                      <c>Midland</c>
+                      <c>Michigan</c>
+                      <c>43.6156</c>
+                      <c>-84.2472</c>
+                    </r>
+                    <r>
+                      <c>Mount Pleasant</c>
+                      <c>Michigan</c>
+                      <c>43.5978</c>
+                      <c>-84.7675</c>
+                    </r>
+                    <r>
+                      <c>Oak Park</c>
+                      <c>Michigan</c>
+                      <c>42.4595</c>
+                      <c>-83.1827</c>
+                    </r>
+                    <r>
+                      <c>Rochester Hills</c>
+                      <c>Michigan</c>
+                      <c>42.6584</c>
+                      <c>-83.1499</c>
+                    </r>
+                    <r>
+                      <c>Roseville</c>
+                      <c>Michigan</c>
+                      <c>42.4973</c>
+                      <c>-82.9371</c>
+                    </r>
+                    <r>
+                      <c>Royal Oak</c>
+                      <c>Michigan</c>
+                      <c>42.4895</c>
+                      <c>-83.1446</c>
+                    </r>
+                    <r>
+                      <c>Saginaw</c>
+                      <c>Michigan</c>
+                      <c>43.4195</c>
+                      <c>-83.9508</c>
+                    </r>
+                    <r>
+                      <c>Sterling Heights</c>
+                      <c>Michigan</c>
+                      <c>42.5803</c>
+                      <c>-83.0302</c>
+                    </r>
+                    <r>
+                      <c>Taylor</c>
+                      <c>Michigan</c>
+                      <c>42.2409</c>
+                      <c>-83.2697</c>
+                    </r>
+                    <r>
+                      <c>Trenton</c>
+                      <c>Michigan</c>
+                      <c>42.1395</c>
+                      <c>-83.1857</c>
+                    </r>
+                    <r>
+                      <c>Westland</c>
+                      <c>Michigan</c>
+                      <c>42.3242</c>
+                      <c>-83.4002</c>
+                    </r>
+                    <r>
+                      <c>Apple Valley</c>
+                      <c>Minnesota</c>
+                      <c>44.7319</c>
+                      <c>-93.2177</c>
+                    </r>
+                    <r>
+                      <c>Coon Rapids</c>
+                      <c>Minnesota</c>
+                      <c>45.1732</c>
+                      <c>-93.303</c>
+                    </r>
+                    <r>
+                      <c>Cottage Grove</c>
+                      <c>Minnesota</c>
+                      <c>44.8277</c>
+                      <c>-92.9436</c>
+                    </r>
+                    <r>
+                      <c>Eagan</c>
+                      <c>Minnesota</c>
+                      <c>44.8041</c>
+                      <c>-93.1669</c>
+                    </r>
+                    <r>
+                      <c>Lakeville</c>
+                      <c>Minnesota</c>
+                      <c>44.6497</c>
+                      <c>-93.2427</c>
+                    </r>
+                    <r>
+                      <c>Maple Grove</c>
+                      <c>Minnesota</c>
+                      <c>45.0725</c>
+                      <c>-93.4558</c>
+                    </r>
+                    <r>
+                      <c>Minneapolis</c>
+                      <c>Minnesota</c>
+                      <c>44.9778</c>
+                      <c>-93.265</c>
+                    </r>
+                    <r>
+                      <c>Moorhead</c>
+                      <c>Minnesota</c>
+                      <c>46.8739</c>
+                      <c>-96.7676</c>
+                    </r>
+                    <r>
+                      <c>Rochester</c>
+                      <c>Minnesota</c>
+                      <c>44.0121</c>
+                      <c>-92.4802</c>
+                    </r>
+                    <r>
+                      <c>Roseville</c>
+                      <c>Minnesota</c>
+                      <c>45.0061</c>
+                      <c>-93.1566</c>
+                    </r>
+                    <r>
+                      <c>Saint Cloud</c>
+                      <c>Minnesota</c>
+                      <c>45.5579</c>
+                      <c>-94.1632</c>
+                    </r>
+                    <r>
+                      <c>Saint Paul</c>
+                      <c>Minnesota</c>
+                      <c>44.9537</c>
+                      <c>-93.09</c>
+                    </r>
+                    <r>
+                      <c>Woodbury</c>
+                      <c>Minnesota</c>
+                      <c>44.9239</c>
+                      <c>-92.9594</c>
+                    </r>
+                    <r>
+                      <c>Gulfport</c>
+                      <c>Mississippi</c>
+                      <c>30.3674</c>
+                      <c>-89.0928</c>
+                    </r>
+                    <r>
+                      <c>Hattiesburg</c>
+                      <c>Mississippi</c>
+                      <c>31.3271</c>
+                      <c>-89.2903</c>
+                    </r>
+                    <r>
+                      <c>Jackson</c>
+                      <c>Mississippi</c>
+                      <c>32.2988</c>
+                      <c>-90.1848</c>
+                    </r>
+                    <r>
+                      <c>Southaven</c>
+                      <c>Mississippi</c>
+                      <c>34.9884</c>
+                      <c>-90.0126</c>
+                    </r>
+                    <r>
+                      <c>Columbia</c>
+                      <c>Missouri</c>
+                      <c>38.9517</c>
+                      <c>-92.3341</c>
+                    </r>
+                    <r>
+                      <c>Gladstone</c>
+                      <c>Missouri</c>
+                      <c>39.2134</c>
+                      <c>-94.5593</c>
+                    </r>
+                    <r>
+                      <c>Independence</c>
+                      <c>Missouri</c>
+                      <c>39.0911</c>
+                      <c>-94.4155</c>
+                    </r>
+                    <r>
+                      <c>Jefferson City</c>
+                      <c>Missouri</c>
+                      <c>38.5767</c>
+                      <c>-92.1735</c>
+                    </r>
+                    <r>
+                      <c>Kirkwood</c>
+                      <c>Missouri</c>
+                      <c>38.5834</c>
+                      <c>-90.4068</c>
+                    </r>
+                    <r>
+                      <c>Saint Charles</c>
+                      <c>Missouri</c>
+                      <c>38.7881</c>
+                      <c>-90.4974</c>
+                    </r>
+                    <r>
+                      <c>Saint Louis</c>
+                      <c>Missouri</c>
+                      <c>38.627</c>
+                      <c>-90.1994</c>
+                    </r>
+                    <r>
+                      <c>Saint Peters</c>
+                      <c>Missouri</c>
+                      <c>38.7875</c>
+                      <c>-90.6299</c>
+                    </r>
+                    <r>
+                      <c>Springfield</c>
+                      <c>Missouri</c>
+                      <c>37.2086</c>
+                      <c>-93.2923</c>
+                    </r>
+                    <r>
+                      <c>Billings</c>
+                      <c>Montana</c>
+                      <c>45.7833</c>
+                      <c>-108.5007</c>
+                    </r>
+                    <r>
+                      <c>Bozeman</c>
+                      <c>Montana</c>
+                      <c>45.6769</c>
+                      <c>-111.0429</c>
+                    </r>
+                    <r>
+                      <c>Great Falls</c>
+                      <c>Montana</c>
+                      <c>47.4942</c>
+                      <c>-111.283</c>
+                    </r>
+                    <r>
+                      <c>Helena</c>
+                      <c>Montana</c>
+                      <c>46.5927</c>
+                      <c>-112.0361</c>
+                    </r>
+                    <r>
+                      <c>Missoula</c>
+                      <c>Montana</c>
+                      <c>46.8721</c>
+                      <c>-113.994</c>
+                    </r>
+                    <r>
+                      <c>Fremont</c>
+                      <c>Nebraska</c>
+                      <c>41.4332</c>
+                      <c>-96.498</c>
+                    </r>
+                    <r>
+                      <c>Grand Island</c>
+                      <c>Nebraska</c>
+                      <c>40.9264</c>
+                      <c>-98.342</c>
+                    </r>
+                    <r>
+                      <c>Norfolk</c>
+                      <c>Nebraska</c>
+                      <c>42.0281</c>
+                      <c>-97.4172</c>
+                    </r>
+                    <r>
+                      <c>Omaha</c>
+                      <c>Nebraska</c>
+                      <c>41.2565</c>
+                      <c>-95.9345</c>
+                    </r>
+                    <r>
+                      <c>Henderson</c>
+                      <c>Nevada</c>
+                      <c>35.9528</c>
+                      <c>-114.8676</c>
+                    </r>
+                    <r>
+                      <c>Las Vegas</c>
+                      <c>Nevada</c>
+                      <c>36.1699</c>
+                      <c>-115.1398</c>
+                    </r>
+                    <r>
+                      <c>North Las Vegas</c>
+                      <c>Nevada</c>
+                      <c>36.1989</c>
+                      <c>-115.1175</c>
+                    </r>
+                    <r>
+                      <c>Reno</c>
+                      <c>Nevada</c>
+                      <c>39.5296</c>
+                      <c>-119.8138</c>
+                    </r>
+                    <r>
+                      <c>Sparks</c>
+                      <c>Nevada</c>
+                      <c>39.5349</c>
+                      <c>-119.7526</c>
+                    </r>
+                    <r>
+                      <c>Concord</c>
+                      <c>New Hampshire</c>
+                      <c>43.2081</c>
+                      <c>-71.5376</c>
+                    </r>
+                    <r>
+                      <c>Dover</c>
+                      <c>New Hampshire</c>
+                      <c>43.1979</c>
+                      <c>-70.8737</c>
+                    </r>
+                    <r>
+                      <c>Nashua</c>
+                      <c>New Hampshire</c>
+                      <c>42.7654</c>
+                      <c>-71.4676</c>
+                    </r>
+                    <r>
+                      <c>Atlantic City</c>
+                      <c>New Jersey</c>
+                      <c>39.3643</c>
+                      <c>-74.4229</c>
+                    </r>
+                    <r>
+                      <c>Bayonne</c>
+                      <c>New Jersey</c>
+                      <c>40.6687</c>
+                      <c>-74.1143</c>
+                    </r>
+                    <r>
+                      <c>Belleville</c>
+                      <c>New Jersey</c>
+                      <c>40.7934</c>
+                      <c>-74.1502</c>
+                    </r>
+                    <r>
+                      <c>Bridgeton</c>
+                      <c>New Jersey</c>
+                      <c>39.4274</c>
+                      <c>-75.234</c>
+                    </r>
+                    <r>
+                      <c>Clifton</c>
+                      <c>New Jersey</c>
+                      <c>40.8584</c>
+                      <c>-74.1638</c>
+                    </r>
+                    <r>
+                      <c>East Orange</c>
+                      <c>New Jersey</c>
+                      <c>40.7673</c>
+                      <c>-74.2049</c>
+                    </r>
+                    <r>
+                      <c>Hackensack</c>
+                      <c>New Jersey</c>
+                      <c>40.8859</c>
+                      <c>-74.0435</c>
+                    </r>
+                    <r>
+                      <c>Lakewood</c>
+                      <c>New Jersey</c>
+                      <c>40.0821</c>
+                      <c>-74.2097</c>
+                    </r>
+                    <r>
+                      <c>Linden</c>
+                      <c>New Jersey</c>
+                      <c>40.622</c>
+                      <c>-74.2446</c>
+                    </r>
+                    <r>
+                      <c>Morristown</c>
+                      <c>New Jersey</c>
+                      <c>40.7968</c>
+                      <c>-74.4815</c>
+                    </r>
+                    <r>
+                      <c>New Brunswick</c>
+                      <c>New Jersey</c>
+                      <c>40.4862</c>
+                      <c>-74.4518</c>
+                    </r>
+                    <r>
+                      <c>Orange</c>
+                      <c>New Jersey</c>
+                      <c>40.7701</c>
+                      <c>-74.2329</c>
+                    </r>
+                    <r>
+                      <c>Passaic</c>
+                      <c>New Jersey</c>
+                      <c>40.8568</c>
+                      <c>-74.1285</c>
+                    </r>
+                    <r>
+                      <c>Paterson</c>
+                      <c>New Jersey</c>
+                      <c>40.9168</c>
+                      <c>-74.1718</c>
+                    </r>
+                    <r>
+                      <c>Perth Amboy</c>
+                      <c>New Jersey</c>
+                      <c>40.5068</c>
+                      <c>-74.2654</c>
+                    </r>
+                    <r>
+                      <c>Plainfield</c>
+                      <c>New Jersey</c>
+                      <c>40.6192</c>
+                      <c>-74.4151</c>
+                    </r>
+                    <r>
+                      <c>Vineland</c>
+                      <c>New Jersey</c>
+                      <c>39.4862</c>
+                      <c>-75.0257</c>
+                    </r>
+                    <r>
+                      <c>Westfield</c>
+                      <c>New Jersey</c>
+                      <c>40.6493</c>
+                      <c>-74.3474</c>
+                    </r>
+                    <r>
+                      <c>Albuquerque</c>
+                      <c>New Mexico</c>
+                      <c>35.0845</c>
+                      <c>-106.6511</c>
+                    </r>
+                    <r>
+                      <c>Carlsbad</c>
+                      <c>New Mexico</c>
+                      <c>32.4207</c>
+                      <c>-104.2288</c>
+                    </r>
+                    <r>
+                      <c>Clovis</c>
+                      <c>New Mexico</c>
+                      <c>34.4048</c>
+                      <c>-103.2052</c>
+                    </r>
+                    <r>
+                      <c>Farmington</c>
+                      <c>New Mexico</c>
+                      <c>36.7543</c>
+                      <c>-108.1844</c>
+                    </r>
+                    <r>
+                      <c>Las Cruces</c>
+                      <c>New Mexico</c>
+                      <c>32.3199</c>
+                      <c>-106.7637</c>
+                    </r>
+                    <r>
+                      <c>Rio Rancho</c>
+                      <c>New Mexico</c>
+                      <c>35.2334</c>
+                      <c>-106.6646</c>
+                    </r>
+                    <r>
+                      <c>Santa Fe</c>
+                      <c>New Mexico</c>
+                      <c>35.6869</c>
+                      <c>-105.9378</c>
+                    </r>
+                    <r>
+                      <c>Auburn</c>
+                      <c>New York</c>
+                      <c>42.9317</c>
+                      <c>-76.5661</c>
+                    </r>
+                    <r>
+                      <c>Buffalo</c>
+                      <c>New York</c>
+                      <c>42.8864</c>
+                      <c>-78.8784</c>
+                    </r>
+                    <r>
+                      <c>Freeport</c>
+                      <c>New York</c>
+                      <c>40.6576</c>
+                      <c>-73.5832</c>
+                    </r>
+                    <r>
+                      <c>Hempstead</c>
+                      <c>New York</c>
+                      <c>40.7062</c>
+                      <c>-73.6187</c>
+                    </r>
+                    <r>
+                      <c>Jamestown</c>
+                      <c>New York</c>
+                      <c>42.097</c>
+                      <c>-79.2353</c>
+                    </r>
+                    <r>
+                      <c>Lindenhurst</c>
+                      <c>New York</c>
+                      <c>40.6868</c>
+                      <c>-73.3737</c>
+                    </r>
+                    <r>
+                      <c>Long Beach</c>
+                      <c>New York</c>
+                      <c>40.5884</c>
+                      <c>-73.6579</c>
+                    </r>
+                    <r>
+                      <c>Mount Vernon</c>
+                      <c>New York</c>
+                      <c>40.9126</c>
+                      <c>-73.8371</c>
+                    </r>
+                    <r>
+                      <c>New Rochelle</c>
+                      <c>New York</c>
+                      <c>40.9115</c>
+                      <c>-73.7824</c>
+                    </r>
+                    <r>
+                      <c>New York City</c>
+                      <c>New York</c>
+                      <c>40.7128</c>
+                      <c>-74.006</c>
+                    </r>
+                    <r>
+                      <c>Niagara Falls</c>
+                      <c>New York</c>
+                      <c>43.0962</c>
+                      <c>-79.0377</c>
+                    </r>
+                    <r>
+                      <c>Oceanside</c>
+                      <c>New York</c>
+                      <c>40.6401</c>
+                      <c>-73.6103</c>
+                    </r>
+                    <r>
+                      <c>Rochester</c>
+                      <c>New York</c>
+                      <c>43.161</c>
+                      <c>-77.6109</c>
+                    </r>
+                    <r>
+                      <c>Rome</c>
+                      <c>New York</c>
+                      <c>43.2128</c>
+                      <c>-75.4557</c>
+                    </r>
+                    <r>
+                      <c>Troy</c>
+                      <c>New York</c>
+                      <c>42.7284</c>
+                      <c>-73.6918</c>
+                    </r>
+                    <r>
+                      <c>Utica</c>
+                      <c>New York</c>
+                      <c>43.1009</c>
+                      <c>-75.2327</c>
+                    </r>
+                    <r>
+                      <c>Watertown</c>
+                      <c>New York</c>
+                      <c>43.9748</c>
+                      <c>-75.91</c>
+                    </r>
+                    <r>
+                      <c>Yonkers</c>
+                      <c>New York</c>
+                      <c>40.9312</c>
+                      <c>-73.8987</c>
+                    </r>
+                    <r>
+                      <c>Asheville</c>
+                      <c>North Carolina</c>
+                      <c>35.5951</c>
+                      <c>-82.5515</c>
+                    </r>
+                    <r>
+                      <c>Burlington</c>
+                      <c>North Carolina</c>
+                      <c>36.0957</c>
+                      <c>-79.4378</c>
+                    </r>
+                    <r>
+                      <c>Cary</c>
+                      <c>North Carolina</c>
+                      <c>35.7915</c>
+                      <c>-78.7811</c>
+                    </r>
+                    <r>
+                      <c>Chapel Hill</c>
+                      <c>North Carolina</c>
+                      <c>35.9049</c>
+                      <c>-79.0469</c>
+                    </r>
+                    <r>
+                      <c>Charlotte</c>
+                      <c>North Carolina</c>
+                      <c>35.2271</c>
+                      <c>-80.8431</c>
+                    </r>
+                    <r>
+                      <c>Concord</c>
+                      <c>North Carolina</c>
+                      <c>35.4088</c>
+                      <c>-80.5795</c>
+                    </r>
+                    <r>
+                      <c>Durham</c>
+                      <c>North Carolina</c>
+                      <c>35.994</c>
+                      <c>-78.8986</c>
+                    </r>
+                    <r>
+                      <c>Fayetteville</c>
+                      <c>North Carolina</c>
+                      <c>35.0527</c>
+                      <c>-78.8784</c>
+                    </r>
+                    <r>
+                      <c>Gastonia</c>
+                      <c>North Carolina</c>
+                      <c>35.2621</c>
+                      <c>-81.1873</c>
+                    </r>
+                    <r>
+                      <c>Goldsboro</c>
+                      <c>North Carolina</c>
+                      <c>35.3849</c>
+                      <c>-77.9928</c>
+                    </r>
+                    <r>
+                      <c>Greensboro</c>
+                      <c>North Carolina</c>
+                      <c>36.0726</c>
+                      <c>-79.792</c>
+                    </r>
+                    <r>
+                      <c>Greenville</c>
+                      <c>North Carolina</c>
+                      <c>35.6127</c>
+                      <c>-77.3664</c>
+                    </r>
+                    <r>
+                      <c>Hickory</c>
+                      <c>North Carolina</c>
+                      <c>35.7345</c>
+                      <c>-81.3445</c>
+                    </r>
+                    <r>
+                      <c>Jacksonville</c>
+                      <c>North Carolina</c>
+                      <c>34.7541</c>
+                      <c>-77.4302</c>
+                    </r>
+                    <r>
+                      <c>Monroe</c>
+                      <c>North Carolina</c>
+                      <c>34.9854</c>
+                      <c>-80.5495</c>
+                    </r>
+                    <r>
+                      <c>Raleigh</c>
+                      <c>North Carolina</c>
+                      <c>35.7796</c>
+                      <c>-78.6382</c>
+                    </r>
+                    <r>
+                      <c>Thomasville</c>
+                      <c>North Carolina</c>
+                      <c>35.8826</c>
+                      <c>-80.081</c>
+                    </r>
+                    <r>
+                      <c>Wilmington</c>
+                      <c>North Carolina</c>
+                      <c>34.2257</c>
+                      <c>-77.9447</c>
+                    </r>
+                    <r>
+                      <c>Wilson</c>
+                      <c>North Carolina</c>
+                      <c>35.7213</c>
+                      <c>-77.9155</c>
+                    </r>
+                    <r>
+                      <c>Fargo</c>
+                      <c>North Dakota</c>
+                      <c>46.8772</c>
+                      <c>-96.7898</c>
+                    </r>
+                    <r>
+                      <c>Akron</c>
+                      <c>Ohio</c>
+                      <c>41.0814</c>
+                      <c>-81.519</c>
+                    </r>
+                    <r>
+                      <c>Bowling Green</c>
+                      <c>Ohio</c>
+                      <c>41.3748</c>
+                      <c>-83.6513</c>
+                    </r>
+                    <r>
+                      <c>Cincinnati</c>
+                      <c>Ohio</c>
+                      <c>39.1031</c>
+                      <c>-84.512</c>
+                    </r>
+                    <r>
+                      <c>Cleveland</c>
+                      <c>Ohio</c>
+                      <c>41.4993</c>
+                      <c>-81.6944</c>
+                    </r>
+                    <r>
+                      <c>Columbus</c>
+                      <c>Ohio</c>
+                      <c>39.9612</c>
+                      <c>-82.9988</c>
+                    </r>
+                    <r>
+                      <c>Cuyahoga Falls</c>
+                      <c>Ohio</c>
+                      <c>41.1339</c>
+                      <c>-81.4846</c>
+                    </r>
+                    <r>
+                      <c>Dublin</c>
+                      <c>Ohio</c>
+                      <c>40.0992</c>
+                      <c>-83.1141</c>
+                    </r>
+                    <r>
+                      <c>Elyria</c>
+                      <c>Ohio</c>
+                      <c>41.3684</c>
+                      <c>-82.1077</c>
+                    </r>
+                    <r>
+                      <c>Fairfield</c>
+                      <c>Ohio</c>
+                      <c>39.3459</c>
+                      <c>-84.5603</c>
+                    </r>
+                    <r>
+                      <c>Grove City</c>
+                      <c>Ohio</c>
+                      <c>39.8815</c>
+                      <c>-83.092</c>
+                    </r>
+                    <r>
+                      <c>Hamilton</c>
+                      <c>Ohio</c>
+                      <c>39.3995</c>
+                      <c>-84.5613</c>
+                    </r>
+                    <r>
+                      <c>Kent</c>
+                      <c>Ohio</c>
+                      <c>41.1537</c>
+                      <c>-81.3579</c>
+                    </r>
+                    <r>
+                      <c>Lakewood</c>
+                      <c>Ohio</c>
+                      <c>41.4819</c>
+                      <c>-81.7982</c>
+                    </r>
+                    <r>
+                      <c>Lancaster</c>
+                      <c>Ohio</c>
+                      <c>39.7137</c>
+                      <c>-82.5993</c>
+                    </r>
+                    <r>
+                      <c>Lorain</c>
+                      <c>Ohio</c>
+                      <c>41.4528</c>
+                      <c>-82.1824</c>
+                    </r>
+                    <r>
+                      <c>Marion</c>
+                      <c>Ohio</c>
+                      <c>40.5887</c>
+                      <c>-83.1285</c>
+                    </r>
+                    <r>
+                      <c>Mason</c>
+                      <c>Ohio</c>
+                      <c>39.3601</c>
+                      <c>-84.3099</c>
+                    </r>
+                    <r>
+                      <c>Medina</c>
+                      <c>Ohio</c>
+                      <c>41.1384</c>
+                      <c>-81.8637</c>
+                    </r>
+                    <r>
+                      <c>Mentor</c>
+                      <c>Ohio</c>
+                      <c>41.6662</c>
+                      <c>-81.3396</c>
+                    </r>
+                    <r>
+                      <c>Newark</c>
+                      <c>Ohio</c>
+                      <c>40.0581</c>
+                      <c>-82.4013</c>
+                    </r>
+                    <r>
+                      <c>Parma</c>
+                      <c>Ohio</c>
+                      <c>41.4048</c>
+                      <c>-81.7229</c>
+                    </r>
+                    <r>
+                      <c>Springfield</c>
+                      <c>Ohio</c>
+                      <c>39.9242</c>
+                      <c>-83.8088</c>
+                    </r>
+                    <r>
+                      <c>Toledo</c>
+                      <c>Ohio</c>
+                      <c>41.6639</c>
+                      <c>-83.5552</c>
+                    </r>
+                    <r>
+                      <c>Troy</c>
+                      <c>Ohio</c>
+                      <c>40.0395</c>
+                      <c>-84.203</c>
+                    </r>
+                    <r>
+                      <c>Broken Arrow</c>
+                      <c>Oklahoma</c>
+                      <c>36.0609</c>
+                      <c>-95.797</c>
+                    </r>
+                    <r>
+                      <c>Edmond</c>
+                      <c>Oklahoma</c>
+                      <c>35.6528</c>
+                      <c>-97.4781</c>
+                    </r>
+                    <r>
+                      <c>Lawton</c>
+                      <c>Oklahoma</c>
+                      <c>34.6036</c>
+                      <c>-98.3959</c>
+                    </r>
+                    <r>
+                      <c>Muskogee</c>
+                      <c>Oklahoma</c>
+                      <c>35.7479</c>
+                      <c>-95.3697</c>
+                    </r>
+                    <r>
+                      <c>Norman</c>
+                      <c>Oklahoma</c>
+                      <c>35.2226</c>
+                      <c>-97.4395</c>
+                    </r>
+                    <r>
+                      <c>Oklahoma City</c>
+                      <c>Oklahoma</c>
+                      <c>35.4676</c>
+                      <c>-97.5164</c>
+                    </r>
+                    <r>
+                      <c>Tulsa</c>
+                      <c>Oklahoma</c>
+                      <c>36.154</c>
+                      <c>-95.9928</c>
+                    </r>
+                    <r>
+                      <c>Eugene</c>
+                      <c>Oregon</c>
+                      <c>44.0521</c>
+                      <c>-123.0868</c>
+                    </r>
+                    <r>
+                      <c>Gresham</c>
+                      <c>Oregon</c>
+                      <c>45.510185</c>
+                      <c>-122.452385</c>
+                    </r>
+                    <r>
+                      <c>Hillsboro</c>
+                      <c>Oregon</c>
+                      <c>45.522896</c>
+                      <c>-122.98983</c>
+                    </r>
+                    <r>
+                      <c>Medford</c>
+                      <c>Oregon</c>
+                      <c>42.326515</c>
+                      <c>-122.875595</c>
+                    </r>
+                    <r>
+                      <c>Portland</c>
+                      <c>Oregon</c>
+                      <c>45.523064</c>
+                      <c>-122.676483</c>
+                    </r>
+                    <r>
+                      <c>Redmond</c>
+                      <c>Oregon</c>
+                      <c>44.272621</c>
+                      <c>-121.17392</c>
+                    </r>
+                    <r>
+                      <c>Salem</c>
+                      <c>Oregon</c>
+                      <c>44.942898</c>
+                      <c>-123.035096</c>
+                    </r>
+                    <r>
+                      <c>Springfield</c>
+                      <c>Oregon</c>
+                      <c>44.046236</c>
+                      <c>-123.022028</c>
+                    </r>
+                    <r>
+                      <c>Tigard</c>
+                      <c>Oregon</c>
+                      <c>45.431229</c>
+                      <c>-122.771486</c>
+                    </r>
+                    <r>
+                      <c>Allentown</c>
+                      <c>Pennsylvania</c>
+                      <c>40.573921</c>
+                      <c>-75.50188</c>
+                    </r>
+                    <r>
+                      <c>Altoona</c>
+                      <c>Pennsylvania</c>
+                      <c>40.51868</c>
+                      <c>-78.394736</c>
+                    </r>
+                    <r>
+                      <c>Bethlehem</c>
+                      <c>Pennsylvania</c>
+                      <c>40.625933</c>
+                      <c>-75.370458</c>
+                    </r>
+                    <r>
+                      <c>Chester</c>
+                      <c>Pennsylvania</c>
+                      <c>39.849557</c>
+                      <c>-75.355746</c>
+                    </r>
+                    <r>
+                      <c>Lancaster</c>
+                      <c>Pennsylvania</c>
+                      <c>40.037875</c>
+                      <c>-76.305514</c>
+                    </r>
+                    <r>
+                      <c>Philadelphia</c>
+                      <c>Pennsylvania</c>
+                      <c>40.033162</c>
+                      <c>-75.120855</c>
+                    </r>
+                    <r>
+                      <c>Reading</c>
+                      <c>Pennsylvania</c>
+                      <c>40.335648</c>
+                      <c>-75.926874</c>
+                    </r>
+                    <r>
+                      <c>York</c>
+                      <c>Pennsylvania</c>
+                      <c>39.94961</c>
+                      <c>-76.728717</c>
+                    </r>
+                    <r>
+                      <c>Cranston</c>
+                      <c>Rhode Island</c>
+                      <c>41.779822</c>
+                      <c>-71.437279</c>
+                    </r>
+                    <r>
+                      <c>Providence</c>
+                      <c>Rhode Island</c>
+                      <c>41.823989</c>
+                      <c>-71.412834</c>
+                    </r>
+                    <r>
+                      <c>Warwick</c>
+                      <c>Rhode Island</c>
+                      <c>41.700101</c>
+                      <c>-71.416167</c>
+                    </r>
+                    <r>
+                      <c>Woonsocket</c>
+                      <c>Rhode Island</c>
+                      <c>42.002876</c>
+                      <c>-71.514783</c>
+                    </r>
+                    <r>
+                      <c>Columbia</c>
+                      <c>South Carolina</c>
+                      <c>34.045372</c>
+                      <c>-81.038888</c>
+                    </r>
+                    <r>
+                      <c>Florence</c>
+                      <c>South Carolina</c>
+                      <c>34.195433</c>
+                      <c>-79.762562</c>
+                    </r>
+                    <r>
+                      <c>Mount Pleasant</c>
+                      <c>South Carolina</c>
+                      <c>32.832322</c>
+                      <c>-79.828425</c>
+                    </r>
+                    <r>
+                      <c>North Charleston</c>
+                      <c>South Carolina</c>
+                      <c>32.918476</c>
+                      <c>-80.043755</c>
+                    </r>
+                    <r>
+                      <c>Rock Hill</c>
+                      <c>South Carolina</c>
+                      <c>34.924867</c>
+                      <c>-81.025078</c>
+                    </r>
+                    <r>
+                      <c>Summerville</c>
+                      <c>South Carolina</c>
+                      <c>33.018503</c>
+                      <c>-80.175648</c>
+                    </r>
+                    <r>
+                      <c>Aberdeen</c>
+                      <c>South Dakota</c>
+                      <c>45.464684</c>
+                      <c>-98.486178</c>
+                    </r>
+                    <r>
+                      <c>Rapid City</c>
+                      <c>South Dakota</c>
+                      <c>44.080543</c>
+                      <c>-103.231015</c>
+                    </r>
+                    <r>
+                      <c>Sioux Falls</c>
+                      <c>South Dakota</c>
+                      <c>43.529742</c>
+                      <c>-96.741515</c>
+                    </r>
+                    <r>
+                      <c>Bartlett</c>
+                      <c>Tennessee</c>
+                      <c>35.204533</c>
+                      <c>-89.849164</c>
+                    </r>
+                    <r>
+                      <c>Bristol</c>
+                      <c>Tennessee</c>
+                      <c>36.595106</c>
+                      <c>-82.188744</c>
+                    </r>
+                    <r>
+                      <c>Chattanooga</c>
+                      <c>Tennessee</c>
+                      <c>35.028309</c>
+                      <c>-85.14996</c>
+                    </r>
+                    <r>
+                      <c>Clarksville</c>
+                      <c>Tennessee</c>
+                      <c>36.569617</c>
+                      <c>-87.342773</c>
+                    </r>
+                    <r>
+                      <c>Columbia</c>
+                      <c>Tennessee</c>
+                      <c>35.615072</c>
+                      <c>-87.035283</c>
+                    </r>
+                    <r>
+                      <c>Franklin</c>
+                      <c>Tennessee</c>
+                      <c>35.925064</c>
+                      <c>-86.868889</c>
+                    </r>
+                    <r>
+                      <c>Hendersonville</c>
+                      <c>Tennessee</c>
+                      <c>36.304773</c>
+                      <c>-86.619995</c>
+                    </r>
+                    <r>
+                      <c>Jackson</c>
+                      <c>Tennessee</c>
+                      <c>35.6145</c>
+                      <c>-88.814</c>
+                    </r>
+                    <r>
+                      <c>Johnson City</c>
+                      <c>Tennessee</c>
+                      <c>36.3162</c>
+                      <c>-82.353</c>
+                    </r>
+                    <r>
+                      <c>Knoxville</c>
+                      <c>Tennessee</c>
+                      <c>35.9647</c>
+                      <c>-83.9265</c>
+                    </r>
+                    <r>
+                      <c>Lebanon</c>
+                      <c>Tennessee</c>
+                      <c>36.2081</c>
+                      <c>-86.2913</c>
+                    </r>
+                    <r>
+                      <c>Memphis</c>
+                      <c>Tennessee</c>
+                      <c>35.1175</c>
+                      <c>-89.9711</c>
+                    </r>
+                    <r>
+                      <c>Murfreesboro</c>
+                      <c>Tennessee</c>
+                      <c>35.846</c>
+                      <c>-86.3903</c>
+                    </r>
+                    <r>
+                      <c>Nashville</c>
+                      <c>Tennessee</c>
+                      <c>36.1627</c>
+                      <c>-86.7816</c>
+                    </r>
+                    <r>
+                      <c>Smyrna</c>
+                      <c>Tennessee</c>
+                      <c>35.9828</c>
+                      <c>-86.5186</c>
+                    </r>
+                    <r>
+                      <c>Abilene</c>
+                      <c>Texas</c>
+                      <c>32.4487</c>
+                      <c>-99.7331</c>
+                    </r>
+                    <r>
+                      <c>Allen</c>
+                      <c>Texas</c>
+                      <c>33.1032</c>
+                      <c>-96.6706</c>
+                    </r>
+                    <r>
+                      <c>Amarillo</c>
+                      <c>Texas</c>
+                      <c>35.2072</c>
+                      <c>-101.8339</c>
+                    </r>
+                    <r>
+                      <c>Arlington</c>
+                      <c>Texas</c>
+                      <c>32.6664</c>
+                      <c>-97.1251</c>
+                    </r>
+                    <r>
+                      <c>Austin</c>
+                      <c>Texas</c>
+                      <c>30.1989</c>
+                      <c>-97.7873</c>
+                    </r>
+                    <r>
+                      <c>Baytown</c>
+                      <c>Texas</c>
+                      <c>29.7355</c>
+                      <c>-94.9774</c>
+                    </r>
+                    <r>
+                      <c>Beaumont</c>
+                      <c>Texas</c>
+                      <c>30.086</c>
+                      <c>-94.1755</c>
+                    </r>
+                    <r>
+                      <c>Bedford</c>
+                      <c>Texas</c>
+                      <c>32.844</c>
+                      <c>-97.1431</c>
+                    </r>
+                    <r>
+                      <c>Brownsville</c>
+                      <c>Texas</c>
+                      <c>25.9017</c>
+                      <c>-97.4975</c>
+                    </r>
+                    <r>
+                      <c>Bryan</c>
+                      <c>Texas</c>
+                      <c>30.6744</c>
+                      <c>-96.3699</c>
+                    </r>
+                    <r>
+                      <c>Carrollton</c>
+                      <c>Texas</c>
+                      <c>32.9756</c>
+                      <c>-96.89</c>
+                    </r>
+                    <r>
+                      <c>Cedar Hill</c>
+                      <c>Texas</c>
+                      <c>32.5885</c>
+                      <c>-96.9561</c>
+                    </r>
+                    <r>
+                      <c>College Station</c>
+                      <c>Texas</c>
+                      <c>30.628</c>
+                      <c>-96.3344</c>
+                    </r>
+                    <r>
+                      <c>Conroe</c>
+                      <c>Texas</c>
+                      <c>30.3119</c>
+                      <c>-95.4561</c>
+                    </r>
+                    <r>
+                      <c>Coppell</c>
+                      <c>Texas</c>
+                      <c>32.9635</c>
+                      <c>-96.9909</c>
+                    </r>
+                    <r>
+                      <c>Corpus Christi</c>
+                      <c>Texas</c>
+                      <c>27.7172</c>
+                      <c>-97.3755</c>
+                    </r>
+                    <r>
+                      <c>Dallas</c>
+                      <c>Texas</c>
+                      <c>32.9482</c>
+                      <c>-96.7297</c>
+                    </r>
+                    <r>
+                      <c>Deer Park</c>
+                      <c>Texas</c>
+                      <c>29.7052</c>
+                      <c>-95.1238</c>
+                    </r>
+                    <r>
+                      <c>Edinburg</c>
+                      <c>Texas</c>
+                      <c>26.3017</c>
+                      <c>-98.1633</c>
+                    </r>
+                    <r>
+                      <c>El Paso</c>
+                      <c>Texas</c>
+                      <c>31.746</c>
+                      <c>-106.3247</c>
+                    </r>
+                    <r>
+                      <c>Fort Worth</c>
+                      <c>Texas</c>
+                      <c>32.788</c>
+                      <c>-97.3453</c>
+                    </r>
+                    <r>
+                      <c>Frisco</c>
+                      <c>Texas</c>
+                      <c>33.1507</c>
+                      <c>-96.8236</c>
+                    </r>
+                    <r>
+                      <c>Garland</c>
+                      <c>Texas</c>
+                      <c>32.8801</c>
+                      <c>-96.6205</c>
+                    </r>
+                    <r>
+                      <c>Grand Prairie</c>
+                      <c>Texas</c>
+                      <c>32.7467</c>
+                      <c>-97.0068</c>
+                    </r>
+                    <r>
+                      <c>Grapevine</c>
+                      <c>Texas</c>
+                      <c>32.9343</c>
+                      <c>-97.0781</c>
+                    </r>
+                    <r>
+                      <c>Haltom City</c>
+                      <c>Texas</c>
+                      <c>32.7996</c>
+                      <c>-97.2692</c>
+                    </r>
+                    <r>
+                      <c>Harlingen</c>
+                      <c>Texas</c>
+                      <c>26.1906</c>
+                      <c>-97.6961</c>
+                    </r>
+                    <r>
+                      <c>Houston</c>
+                      <c>Texas</c>
+                      <c>29.6827</c>
+                      <c>-95.5401</c>
+                    </r>
+                    <r>
+                      <c>Huntsville</c>
+                      <c>Texas</c>
+                      <c>30.7235</c>
+                      <c>-95.5508</c>
+                    </r>
+                    <r>
+                      <c>Irving</c>
+                      <c>Texas</c>
+                      <c>32.8135</c>
+                      <c>-96.9489</c>
+                    </r>
+                    <r>
+                      <c>Keller</c>
+                      <c>Texas</c>
+                      <c>32.9342</c>
+                      <c>-97.2297</c>
+                    </r>
+                    <r>
+                      <c>La Porte</c>
+                      <c>Texas</c>
+                      <c>29.6658</c>
+                      <c>-95.0194</c>
+                    </r>
+                    <r>
+                      <c>Laredo</c>
+                      <c>Texas</c>
+                      <c>27.5064</c>
+                      <c>-99.5075</c>
+                    </r>
+                    <r>
+                      <c>League City</c>
+                      <c>Texas</c>
+                      <c>29.5075</c>
+                      <c>-95.0949</c>
+                    </r>
+                    <r>
+                      <c>Lubbock</c>
+                      <c>Texas</c>
+                      <c>33.5481</c>
+                      <c>-101.9207</c>
+                    </r>
+                    <r>
+                      <c>Mansfield</c>
+                      <c>Texas</c>
+                      <c>32.5632</c>
+                      <c>-97.1417</c>
+                    </r>
+                    <r>
+                      <c>Mcallen</c>
+                      <c>Texas</c>
+                      <c>26.2034</c>
+                      <c>-98.23</c>
+                    </r>
+                    <r>
+                      <c>Mesquite</c>
+                      <c>Texas</c>
+                      <c>32.7668</c>
+                      <c>-96.5992</c>
+                    </r>
+                    <r>
+                      <c>Missouri City</c>
+                      <c>Texas</c>
+                      <c>29.5715</c>
+                      <c>-95.5227</c>
+                    </r>
+                    <r>
+                      <c>Odessa</c>
+                      <c>Texas</c>
+                      <c>31.8838</c>
+                      <c>-102.3404</c>
+                    </r>
+                    <r>
+                      <c>Pasadena</c>
+                      <c>Texas</c>
+                      <c>29.6911</c>
+                      <c>-95.2091</c>
+                    </r>
+                    <r>
+                      <c>Pearland</c>
+                      <c>Texas</c>
+                      <c>29.5636</c>
+                      <c>-95.286</c>
+                    </r>
+                    <r>
+                      <c>Pharr</c>
+                      <c>Texas</c>
+                      <c>26.1948</c>
+                      <c>-98.1836</c>
+                    </r>
+                    <r>
+                      <c>Plano</c>
+                      <c>Texas</c>
+                      <c>33.0556</c>
+                      <c>-96.7367</c>
+                    </r>
+                    <r>
+                      <c>Port Arthur</c>
+                      <c>Texas</c>
+                      <c>29.8988</c>
+                      <c>-93.9286</c>
+                    </r>
+                    <r>
+                      <c>Richardson</c>
+                      <c>Texas</c>
+                      <c>32.9695</c>
+                      <c>-96.7216</c>
+                    </r>
+                    <r>
+                      <c>Round Rock</c>
+                      <c>Texas</c>
+                      <c>30.5083</c>
+                      <c>-97.6789</c>
+                    </r>
+                    <r>
+                      <c>San Angelo</c>
+                      <c>Texas</c>
+                      <c>31.4638</c>
+                      <c>-100.437</c>
+                    </r>
+                    <r>
+                      <c>San Antonio</c>
+                      <c>Texas</c>
+                      <c>29.4241</c>
+                      <c>-98.4936</c>
+                    </r>
+                    <r>
+                      <c>San Marcos</c>
+                      <c>Texas</c>
+                      <c>29.8833</c>
+                      <c>-97.9414</c>
+                    </r>
+                    <r>
+                      <c>Texas City</c>
+                      <c>Texas</c>
+                      <c>29.3839</c>
+                      <c>-94.9027</c>
+                    </r>
+                    <r>
+                      <c>The Colony</c>
+                      <c>Texas</c>
+                      <c>33.089</c>
+                      <c>-96.8864</c>
+                    </r>
+                    <r>
+                      <c>Tyler</c>
+                      <c>Texas</c>
+                      <c>32.3513</c>
+                      <c>-95.3011</c>
+                    </r>
+                    <r>
+                      <c>Waco</c>
+                      <c>Texas</c>
+                      <c>31.5493</c>
+                      <c>-97.1467</c>
+                    </r>
+                    <r>
+                      <c>Draper</c>
+                      <c>Utah</c>
+                      <c>40.5247</c>
+                      <c>-111.8638</c>
+                    </r>
+                    <r>
+                      <c>Layton</c>
+                      <c>Utah</c>
+                      <c>41.0602</c>
+                      <c>-111.9711</c>
+                    </r>
+                    <r>
+                      <c>Lehi</c>
+                      <c>Utah</c>
+                      <c>40.3916</c>
+                      <c>-111.8508</c>
+                    </r>
+                    <r>
+                      <c>Logan</c>
+                      <c>Utah</c>
+                      <c>41.7367</c>
+                      <c>-111.8338</c>
+                    </r>
+                    <r>
+                      <c>Murray</c>
+                      <c>Utah</c>
+                      <c>40.6669</c>
+                      <c>-111.8879</c>
+                    </r>
+                    <r>
+                      <c>Orem</c>
+                      <c>Utah</c>
+                      <c>40.2969</c>
+                      <c>-111.6946</c>
+                    </r>
+                    <r>
+                      <c>Pleasant Grove</c>
+                      <c>Utah</c>
+                      <c>40.3641</c>
+                      <c>-111.7385</c>
+                    </r>
+                    <r>
+                      <c>Provo</c>
+                      <c>Utah</c>
+                      <c>40.2338</c>
+                      <c>-111.6585</c>
+                    </r>
+                    <r>
+                      <c>Salt Lake City</c>
+                      <c>Utah</c>
+                      <c>40.7259</c>
+                      <c>-111.8506</c>
+                    </r>
+                    <r>
+                      <c>West Jordan</c>
+                      <c>Utah</c>
+                      <c>40.6097</c>
+                      <c>-111.9391</c>
+                    </r>
+                    <r>
+                      <c>Burlington</c>
+                      <c>Vermont</c>
+                      <c>44.4877</c>
+                      <c>-73.2314</c>
+                    </r>
+                    <r>
+                      <c>Alexandria</c>
+                      <c>Virginia</c>
+                      <c>38.8156</c>
+                      <c>-77.1126</c>
+                    </r>
+                    <r>
+                      <c>Arlington</c>
+                      <c>Virginia</c>
+                      <c>38.8607</c>
+                      <c>-77.0969</c>
+                    </r>
+                    <r>
+                      <c>Charlottesville</c>
+                      <c>Virginia</c>
+                      <c>38.0293</c>
+                      <c>-78.4767</c>
+                    </r>
+                    <r>
+                      <c>Chesapeake</c>
+                      <c>Virginia</c>
+                      <c>36.7682</c>
+                      <c>-76.2875</c>
+                    </r>
+                    <r>
+                      <c>Hampton</c>
+                      <c>Virginia</c>
+                      <c>37.0299</c>
+                      <c>-76.3452</c>
+                    </r>
+                    <r>
+                      <c>Harrisonburg</c>
+                      <c>Virginia</c>
+                      <c>38.4496</c>
+                      <c>-78.8689</c>
+                    </r>
+                    <r>
+                      <c>Newport News</c>
+                      <c>Virginia</c>
+                      <c>37.1162</c>
+                      <c>-76.5089</c>
+                    </r>
+                    <r>
+                      <c>Richmond</c>
+                      <c>Virginia</c>
+                      <c>37.5407</c>
+                      <c>-77.436</c>
+                    </r>
+                    <r>
+                      <c>Salem</c>
+                      <c>Virginia</c>
+                      <c>37.2935</c>
+                      <c>-80.0548</c>
+                    </r>
+                    <r>
+                      <c>Springfield</c>
+                      <c>Virginia</c>
+                      <c>38.7759</c>
+                      <c>-77.1798</c>
+                    </r>
+                    <r>
+                      <c>Suffolk</c>
+                      <c>Virginia</c>
+                      <c>36.7282</c>
+                      <c>-76.5836</c>
+                    </r>
+                    <r>
+                      <c>Virginia Beach</c>
+                      <c>Virginia</c>
+                      <c>36.7848</c>
+                      <c>-76.1139</c>
+                    </r>
+                    <r>
+                      <c>Waynesboro</c>
+                      <c>Virginia</c>
+                      <c>38.0685</c>
+                      <c>-78.8895</c>
+                    </r>
+                    <r>
+                      <c>Auburn</c>
+                      <c>Washington</c>
+                      <c>47.3073</c>
+                      <c>-122.2285</c>
+                    </r>
+                    <r>
+                      <c>Bellevue</c>
+                      <c>Washington</c>
+                      <c>47.5601</c>
+                      <c>-122.1206</c>
+                    </r>
+                    <r>
+                      <c>Bellingham</c>
+                      <c>Washington</c>
+                      <c>48.7519</c>
+                      <c>-122.4787</c>
+                    </r>
+                    <r>
+                      <c>Covington</c>
+                      <c>Washington</c>
+                      <c>47.3651</c>
+                      <c>-122.1016</c>
+                    </r>
+                    <r>
+                      <c>Des Moines</c>
+                      <c>Washington</c>
+                      <c>47.3913</c>
+                      <c>-122.3171</c>
+                    </r>
+                    <r>
+                      <c>Edmonds</c>
+                      <c>Washington</c>
+                      <c>47.8107</c>
+                      <c>-122.3774</c>
+                    </r>
+                    <r>
+                      <c>Everett</c>
+                      <c>Washington</c>
+                      <c>47.9132</c>
+                      <c>-122.303</c>
+                    </r>
+                    <r>
+                      <c>Kent</c>
+                      <c>Washington</c>
+                      <c>47.3809</c>
+                      <c>-122.2348</c>
+                    </r>
+                    <r>
+                      <c>Longview</c>
+                      <c>Washington</c>
+                      <c>46.1382</c>
+                      <c>-122.9364</c>
+                    </r>
+                    <r>
+                      <c>Marysville</c>
+                      <c>Washington</c>
+                      <c>48.0518</c>
+                      <c>-122.1771</c>
+                    </r>
+                    <r>
+                      <c>Olympia</c>
+                      <c>Washington</c>
+                      <c>47.0379</c>
+                      <c>-122.9007</c>
+                    </r>
+                    <r>
+                      <c>Pasco</c>
+                      <c>Washington</c>
+                      <c>46.2396</c>
+                      <c>-119.1006</c>
+                    </r>
+                    <r>
+                      <c>Redmond</c>
+                      <c>Washington</c>
+                      <c>47.6739</c>
+                      <c>-122.1215</c>
+                    </r>
+                    <r>
+                      <c>Renton</c>
+                      <c>Washington</c>
+                      <c>47.4829</c>
+                      <c>-122.2171</c>
+                    </r>
+                    <r>
+                      <c>Seattle</c>
+                      <c>Washington</c>
+                      <c>47.6733</c>
+                      <c>-122.3412</c>
+                    </r>
+                    <r>
+                      <c>Spokane</c>
+                      <c>Washington</c>
+                      <c>47.6928</c>
+                      <c>-117.4231</c>
+                    </r>
+                    <r>
+                      <c>Vancouver</c>
+                      <c>Washington</c>
+                      <c>45.6399</c>
+                      <c>-122.6357</c>
+                    </r>
+                    <r>
+                      <c>Wheeling</c>
+                      <c>West Virginia</c>
+                      <c>40.063</c>
+                      <c>-80.7209</c>
+                    </r>
+                    <r>
+                      <c>Appleton</c>
+                      <c>Wisconsin</c>
+                      <c>44.2619</c>
+                      <c>-88.4154</c>
+                    </r>
+                    <r>
+                      <c>Eau Claire</c>
+                      <c>Wisconsin</c>
+                      <c>44.8113</c>
+                      <c>-91.4985</c>
+                    </r>
+                    <r>
+                      <c>Franklin</c>
+                      <c>Wisconsin</c>
+                      <c>42.8858</c>
+                      <c>-88.0103</c>
+                    </r>
+                    <r>
+                      <c>Green Bay</c>
+                      <c>Wisconsin</c>
+                      <c>44.5142</c>
+                      <c>-87.9669</c>
+                    </r>
+                    <r>
+                      <c>Kenosha</c>
+                      <c>Wisconsin</c>
+                      <c>42.5847</c>
+                      <c>-87.8212</c>
+                    </r>
+                    <r>
+                      <c>La Crosse</c>
+                      <c>Wisconsin</c>
+                      <c>43.8014</c>
+                      <c>-91.2396</c>
+                    </r>
+                    <r>
+                      <c>Madison</c>
+                      <c>Wisconsin</c>
+                      <c>43.0411</c>
+                      <c>-89.5033</c>
+                    </r>
+                    <r>
+                      <c>Milwaukee</c>
+                      <c>Wisconsin</c>
+                      <c>43.0897</c>
+                      <c>-87.9434</c>
+                    </r>
+                    <r>
+                      <c>Sheboygan</c>
+                      <c>Wisconsin</c>
+                      <c>43.7508</c>
+                      <c>-87.7145</c>
+                    </r>
+                    <r>
+                      <c>Superior</c>
+                      <c>Wisconsin</c>
+                      <c>46.7208</c>
+                      <c>-92.1041</c>
+                    </r>
+                    <r>
+                      <c>Waukesha</c>
+                      <c>Wisconsin</c>
+                      <c>43.0117</c>
+                      <c>-88.2315</c>
+                    </r>
+                    <r>
+                      <c>Wausau</c>
+                      <c>Wisconsin</c>
+                      <c>44.9591</c>
+                      <c>-89.6301</c>
+                    </r>
+                    <r>
+                      <c>West Allis</c>
+                      <c>Wisconsin</c>
+                      <c>43.0167</c>
+                      <c>-88.007</c>
+                    </r>
+                    <r>
+                      <c>Cheyenne</c>
+                      <c>Wyoming</c>
+                      <c>41.1399</c>
+                      <c>-104.8202</c>
+                    </r>
+                  </Data>
+                </Configuration>
+              </TextInput>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Input</DefaultAnnotationText>
+              <Left value="True" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="Latitude" source="TextInput:" type="Double" />
+                <Field name="Longitude" source="TextInput:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="232" y="485" width="808" height="332" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Data Prep/Joins: Running The Batch Macro &amp; Organizing Results</Caption>
+          <Style TextColor="#155a0a" FillColor="#b8f2b7" BorderColor="#155a0a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="6">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="546" y="546" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="City" action="GroupBy" rename="City" />
+                <SummarizeField field="State" action="GroupBy" rename="State" />
+                <SummarizeField field="DistanceMiles" action="Sum" rename="SumDistanceMiles" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Group By City &amp; State, Sum Distance Miles.</AnnotationText>
+              <DefaultAnnotationText><![CDATA[Group By City & State, ]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="SumDistanceMiles" source="Summarize: Sum - DistanceMiles" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="7">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="678" y="546" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="SumDistanceMiles" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>SumDistanceMiles - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="SumDistanceMiles" source="Summarize: Sum - DistanceMiles" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="918" y="642" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="City" />
+                <Field field="State" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="City" />
+                <Field field="State" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="True" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Left_City" selected="True" input="Left_" />
+                    <SelectField field="Left_State" selected="True" input="Left_" />
+                    <SelectField field="Right_Connection" selected="True" input="Right_" />
+                    <SelectField field="Right_DistanceMiles" selected="True" input="Right_" />
+                    <SelectField field="Right_City" selected="False" rename="Right_City" input="Right_" />
+                    <SelectField field="Right_State" selected="False" rename="Right_State" input="Right_" />
+                    <SelectField field="Right_Latitude" selected="False" input="Right_" />
+                    <SelectField field="Right_Longitude" selected="False" input="Right_" />
+                    <SelectField field="Left_SumDistanceMiles" selected="True" input="Left_" />
+                    <SelectField field="Right_Left_Latitude" selected="True" input="Right_" />
+                    <SelectField field="Right_Left_Longitude" selected="True" input="Right_" />
+                    <SelectField field="Right_Right_Latitude" selected="True" input="Right_" />
+                    <SelectField field="Right_Right_Longitude" selected="True" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Join by City &amp; State, and remove the duplicated columns created by Join Tool.</AnnotationText>
+              <DefaultAnnotationText><![CDATA[Join ]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Left">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="SumDistanceMiles" source="Summarize: Sum - DistanceMiles" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="Join">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="Connection" size="1073741823" source="Formula: [City] + &quot; (&quot; + [State] + &quot;) - &quot; + [Universe_City] + &quot; (&quot; + [Universe_State] + &quot;)&quot;" type="V_WString" />
+                <Field name="DistanceMiles" source="FindNearest: Distance Units=Miles" type="Double" />
+                <Field name="SumDistanceMiles" source="Summarize: Sum - DistanceMiles" type="Double" />
+                <Field name="Left_Latitude" source="TextInput:" type="Double" />
+                <Field name="Left_Longitude" source="TextInput:" type="Double" />
+                <Field name="Right_Latitude" source="TextInput:" type="Double" />
+                <Field name="Right_Longitude" source="TextInput:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="Right">
+              <RecordInfo>
+                <Field name="Connection" size="1073741823" source="Formula: [City] + &quot; (&quot; + [State] + &quot;) - &quot; + [Universe_City] + &quot; (&quot; + [Universe_State] + &quot;)&quot;" type="V_WString" />
+                <Field name="DistanceMiles" source="FindNearest: Distance Units=Miles" type="Double" />
+                <Field name="Left_Latitude" source="TextInput:" type="Double" />
+                <Field name="Left_Longitude" source="TextInput:" type="Double" />
+                <Field name="Right_Latitude" source="TextInput:" type="Double" />
+                <Field name="Right_Longitude" source="TextInput:" type="Double" />
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="Latitude" source="TextInput:" type="Double" />
+                <Field name="Longitude" source="TextInput:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+            <Position x="810" y="630" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>First</Mode>
+              <N>1</N>
+              <GroupFields orderChanged="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>First 1</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="SumDistanceMiles" source="Summarize: Sum - DistanceMiles" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+        </Node>
+        <Node ToolID="10">
+          <GuiSettings>
+            <Position x="257" y="534" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Number">False</Value>
+              <Value name="NNumber">30</Value>
+              <Value name="Percent">True</Value>
+              <Value name="NPercent">2</Value>
+              <Value name="Deterministic">True</Value>
+              <Value name="Seed">1</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Randomly drop a set % of records.</AnnotationText>
+              <DefaultAnnotationText>Randomly drop a set % of records.</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="Latitude" source="TextInput:" type="Double" />
+                <Field name="Longitude" source="TextInput:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings Macro="RandomRecords.yxmc" />
+        </Node>
+        <Node ToolID="34">
+          <GuiSettings>
+            <Position x="402" y="546" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="BatchMacroGroupBy" />
+              <Value name="ControlParams"><![CDATA[Control Parameter (12)=City
+Control Parameter (13)=State
+]]></Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name>Shortest Route Batch (1)</Name>
+              <AnnotationText>This batch macro was created to automate the process of building multiple shortest connections, depending on the starting locations in the batch input.</AnnotationText>
+              <DefaultAnnotationText>This batch macro was created to automate the process of building multiple shortest connections, depending on the starting locations in the batch input.</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Connection" size="1073741823" source="Formula: [City] + &quot; (&quot; + [State] + &quot;) - &quot; + [Universe_City] + &quot; (&quot; + [Universe_State] + &quot;)&quot;" type="V_WString" />
+                <Field name="DistanceMiles" source="FindNearest: Distance Units=Miles" type="Double" />
+                <Field name="Left_Latitude" source="TextInput:" type="Double" />
+                <Field name="Left_Longitude" source="TextInput:" type="Double" />
+                <Field name="Right_Latitude" source="TextInput:" type="Double" />
+                <Field name="Right_Longitude" source="TextInput:" type="Double" />
+                <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="State" size="2147483647" source="TextInput:" type="V_String" />
+                <Field name="Latitude" source="TextInput:" type="Double" />
+                <Field name="Longitude" source="TextInput:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings Macro=".\Shortest Route Batch.yxmc" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="221" y="172" width="546" height="253" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Interface: Random % Sample</Caption>
+          <Style TextColor="#000000" FillColor="#ffffff" BorderColor="#000000" Transparency="80" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="20">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.CheckBoxGroup.CheckBoxGroup">
+            <Position x="594" y="222" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Deterministic Output</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="21">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="606" y="342" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Update Value</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.NumericUpDown.NumericUpDown">
+            <Position x="246" y="221" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Percent of Records</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.NumericUpDown.NumericUpDown">
+            <Position x="414" y="222" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Random Seed</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="24">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="426" y="342" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Update Value</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="25">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="258" y="342" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Update Value</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="34" Connection="Control" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="Update Deterministic Output Choice" Wireless="True">
+      <Origin ToolID="21" Connection="Action" />
+      <Destination ToolID="10" Connection="Action" />
+    </Connection>
+    <Connection name="Update Random Seed" Wireless="True">
+      <Origin ToolID="24" Connection="Action" />
+      <Destination ToolID="10" Connection="Action" />
+    </Connection>
+    <Connection name="Update % Of Records Used" Wireless="True">
+      <Origin ToolID="25" Connection="Action" />
+      <Destination ToolID="10" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Join" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="11" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="11" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection name="Check Box Result">
+      <Origin ToolID="20" Connection="Question" />
+      <Destination ToolID="21" Connection="Question" />
+    </Connection>
+    <Connection name="Numeric Up Down Result">
+      <Origin ToolID="22" Connection="Question" />
+      <Destination ToolID="25" Connection="Question" />
+    </Connection>
+    <Connection name="Numeric Up Down Result">
+      <Origin ToolID="23" Connection="Question" />
+      <Destination ToolID="24" Connection="Question" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Numeric Up Down (22)</Name>
+        <Value>2</Value>
+        <IsNumeric value="True" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Numeric Up Down (23)</Name>
+        <Value>1</Value>
+        <IsNumeric value="True" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Check Box (20)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Shortest Route Checker</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="eb33b17f-3f5d-4bde-b190-80a197559142" />
+      <Telemetry>
+        <PreviousWorkflowId value="f5956fed-baef-4838-a683-decaccf5bb20" />
+        <OriginWorkflowId value="e2b63e30-0bb3-4c6a-a35e-5a8ea58b7bc5" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions>
+        <NoCondition>
+          <Type>NoCondition</Type>
+          <Description>(Always Run)</Description>
+          <True>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="21" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>10/Value[@name='Deterministic']</Destination>
+            </Action>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="24" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>10/Value[@name='Seed']</Destination>
+            </Action>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="25" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>10/Value[@name='NPercent']</Destination>
+            </Action>
+          </True>
+        </NoCondition>
+      </Actions>
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (15)</Name>
+          <ToolId value="15" />
+          <Questions>
+            <Question>
+              <Type>NumericUpDown</Type>
+              <Description>Percent of Records</Description>
+              <Name>Numeric Up Down (22)</Name>
+              <ToolId value="22" />
+              <Minimum value="1" />
+              <Maximum value="100" />
+              <Increment value="1" />
+              <Default value="10" />
+              <Decimals value="0" />
+            </Question>
+            <Question>
+              <Type>BooleanGroup</Type>
+              <Description>Deterministic Output</Description>
+              <Name>Check Box (20)</Name>
+              <ToolId value="20" />
+              <Questions>
+                <Question>
+                  <Type>NumericUpDown</Type>
+                  <Description>Random Seed</Description>
+                  <Name>Numeric Up Down (23)</Name>
+                  <ToolId value="23" />
+                  <Minimum value="1" />
+                  <Maximum value="1000000000" />
+                  <Increment value="1097" />
+                  <Default value="458676342" />
+                  <Decimals value="0" />
+                </Question>
+              </Questions>
+              <Default value="True" />
+              <Collapsable value="False" />
+            </Question>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description />
+              <Name>Macro Input (4)</Name>
+              <ToolId value="4" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description />
+              <Name>Macro Output (14)</Name>
+              <ToolId value="14" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description />
+              <Name>Macro Output (5)</Name>
+              <ToolId value="5" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description />
+              <Name>Macro Output (18)</Name>
+              <ToolId value="18" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="True" />
+      <MacroImageStd value="31" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="4" Selected="True" />
+        <Tool ToolId="5" Selected="True" />
+        <Tool ToolId="10" Selected="True" />
+        <Tool ToolId="14" Selected="True" />
+        <Tool ToolId="18" Selected="True" />
+        <Tool ToolId="34" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
