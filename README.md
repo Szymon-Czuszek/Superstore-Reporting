@@ -9,3 +9,6 @@ This macro uses batch process to find the nearest location using spatial analyti
 
 ## Standard Macro used in "Superstore" project.
 This macro feeds iterative and batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it's limitation is the longer run times, depending on the amount of locations it needs to connect and check.
+
+## Project "Superstore" - Analytic Application only.
+An app containing the user interface, spatial, reporting, macros, and other advanced functionalities.
