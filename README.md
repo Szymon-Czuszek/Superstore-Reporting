@@ -12,3 +12,6 @@ This macro feeds iterative and batch process to find the nearest location using 
 
 ## Project "Superstore" - Analytic Application only.
 An app containing the user interface, spatial, reporting, macros, and other advanced functionalities.
+
+## Workflow-Screens Folder
+The folder contains screens of the workflow, as is in the file.
