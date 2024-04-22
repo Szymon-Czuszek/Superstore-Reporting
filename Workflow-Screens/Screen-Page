@@ -1,3 +1,7 @@
+Action.png
+Alteryx Interface Tool
+Using Action Tool in Alteryx
+
 WF1.png
 Workflow graphical representation: Loading Data.
 Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
@@ -21,3 +25,4 @@ Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 WF6.png
 Workflow graphical representation: Spatial Analysis.
 Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
+
