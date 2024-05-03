@@ -16,186 +16,186 @@ An app containing the user interface, spatial, reporting, macros, and other adva
 ## Workflow-Screens Folder
 The folder contains screens of the workflow, as is in the file.
 
-### Action.png
+**Action.png**
 Alteryx Interface Tool Group
 Using Action Tool in Alteryx
 
-### Append.png
+**Append.png**
 Alteryx Join Tool Group
 Using Append Fields Tool in Alteryx
 
-### Auto1.png
+**Auto1.png**
 Alteryx Preparation Tool Group
 Using Auto Field Tool in Alteryx - Input
 
-### Auto2.png
+**Auto2.png**
 Alteryx Preparation Tool Group
 Using Auto Field Tool in Alteryx - Output
 
-### BasicDataProfile.png
+**BasicDataProfile.png**
 Alteryx Data Investigation Group
 Using Basic Data Profile Tool in Alteryx
 
-### BatchMacro.png
+**BatchMacro.png**
 Alteryx Custom Made Macro Group
 Using Custom Made Batch Macro
 
-### Browse.png
+**Browse.png**
 Alteryx In/Out Group
 Using Browse Tool in Alteryx
 
-### BuildingSequenceLine.png
+**BuildingSequenceLine.png**
 Alteryx Spatial Group
 Using Poly-Build Tool in Alteryx
 
-### Chart.png
+**Chart.png**
 Alteryx Reporting group
 Using Interactive Chart Tool in Alteryx
 
-### ControlParameter.png
+**ControlParameter.png**
 Alteryx Interface Group
 Using Control Parameter Tool in Alteryx
 
-### Count.png
+**Count.png**
 Alteryx Transformation Group
 Using Count Records Tool in Alteryx
 
-### CustomMacro.png
+**CustomMacro.png**
 Alteryx Custom Made Macro Group
 Using Custom Made Standard Macro
 
-### CustomMacro2.png
+**CustomMacro2.png**
 Alteryx Custom Made Macro Group
 Using Custom Made Batch Macro
 
-### CustomMacro3.png
+**CustomMacro3.png**
 Alteryx Custom Made Macro Group
 Using Custom Made Iterative Macro
 
-### DateParse.png
+**DateParse.png**
 Alteryx Parse Group
 Using Date Parse Tool in Alteryx
 
-### FieldSummary.png
+**FieldSummary.png**
 Alteryx Data Investigation Group
 Using Field Summary Tool in Alteryx
 
-### Filter.png
+**Filter.png**
 Alteryx Preparation Group
 Using Filter Tool in Alteryx
 
-### Foot.png
+**Foot.png**
 Alteryx Reporting Group
 Using Report Footer Tool in Alteryx
 
-### Formula.png
+**Formula.png**
 Alteryx Preparation Group
 Using Formula Tool in Alteryx
 
-### Head.png
+**Head.png**
 Alteryx Reporting Group
 Using Report Header Tool in Alteryx
 
-### IterativeMacro.png
+**IterativeMacro.png**
 Alteryx Custom Macro Group
 Using Custom Made Iterative Macro
 
-### Join.png
+**Join.png**
 Alteryx Join Tool Group
 Using Join Tool in Alteryx
 
-### Layout.png
+**Layout.png**
 Alteryx Reporting Group
 Using Report Header Tool in Alteryx
 
-### Msg.png
+**Msg.png**
 Alteryx Developer Tool Group
 Using Message Tool in Alteryx
 
-### NumericUpDown.png
+**NumericUpDown.png**
 Alteryx Interface Tool Group
 Using Numeric Up Down Tool in Alteryx
 
-### Pearson.png
+**Pearson.png**
 Alteryx Data Investigation Group
 Using Pearson Correlation Tool in Alteryx
 
-### Random.png
+**Random.png**
 Alteryx Data Preparation Group
 Using Random Sample Tool in Alteryx
 
-### Record ID.png
+**Record ID.png**
 Alteryx Data Preparation Group
 Using Record ID Tool in Alteryx
 
-### Render.png
+**Render.png**
 Alteryx Reporting Group
 Using Render Tool in Alteryx
 
-### ReportMap.png
+**ReportMap.png**
 Alteryx Reporting Group
 Using Report Map Tool in Alteryx
 
-### ReportText.png
+**ReportText.png**
 Alteryx Reporting Group
 Using Report Text Tool in Alteryx
 
-### RunningTotal.png
+**RunningTotal.png**
 Alteryx Transformation Group
 Using Running Total Tool in Alteryx
 
-### Select.png
+**Select.png**
 Alteryx Data Preparation Group
 Using Select Tool in Alteryx
 
-### SelectDynamic.png
+**SelectDynamic.png**
 Alteryx Developer Tool Group
 Using Dynamic Select Tool in Alteryx
 
-### Sort.png
+**Sort.png**
 Alteryx Data Preparation Group
 Using Sort Tool in Alteryx
 
-### Spearman.png
+**Spearman.png**
 Alteryx Data Investigation Group
 Using Spearman Correlation Tool in Alteryx
 
-### StandardMacro.png
+**StandardMacro.png**
 Alteryx Custom Made Macro Group
 Using Custom Made Standard Macro
 
-### Summarize.png
+**Summarize.png**
 Alteryx Transformation Group
 Using Summarize Tool in Alteryx
 
-### Table.png
+**Table.png**
 Alteryx Reporting Group
 Using Table Tool in Alteryx
 
-### UnionTool.png
+**UnionTool.png**
 Alteryx Join Tool Group
 Using Union Tool in Alteryx
 
-### WF1.png
+**WF1.png**
 Workflow graphical representation: Loading Data.
 Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
 
-### WF2.png
+**WF2.png**
 Workflow graphical representation: Data manipulation.
 Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
 
-### WF3.png
+**WF3.png**
 Workflow graphical representation: Aggregation and reporting.
 Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
-### WF4.png
+**WF4.png**
 Workflow graphical representation: Aggregation and reporting.
 Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
-### WF5.png
+**WF5.png**
 Workflow graphical representation: Data Investigation.
 Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 
-### WF6.png
+**WF6.png**
 Workflow graphical representation: Spatial Analysis.
 Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
