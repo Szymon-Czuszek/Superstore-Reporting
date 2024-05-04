@@ -1,5 +1,5 @@
 # Superstore-Reporting
-This project aims to show capabilities of Alteryx software on the Kaggle data named "Superstore".
+This project aims to show capabilities of Alteryx software on the Kaggle data named "Superstore". The project includes creation of an analytic application, spatial analysis, creating report visualisations, exploratory data analysis, and a unique Alteryx approach to the traveling salesman problem.
 
 ## Iterative Macro used in the "Superstore" project.
 This macro uses iterative process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it needs an upstream macro that will run this process for other combination of starting points, which is further solved in "Shortest Route Batch" Macro.
@@ -24,77 +24,149 @@ The folder contains screens of the workflow, as is in the file.
 
 **Auto2.png** - Alteryx Preparation Tool Group: Using Auto Field Tool in Alteryx - Output
 
-**BasicDataProfile.png** - Alteryx Data Investigation Group: Using Basic Data Profile Tool in Alteryx
+**BasicDataProfile.png**
+- Alteryx Data Investigation Group
+- Using Basic Data Profile Tool in Alteryx
 
-**BatchMacro.png** - Alteryx Custom Made Macro Group: Using Custom Made Batch Macro
+**BatchMacro.png**
+- Alteryx Custom Made Macro Group
+- Using Custom Made Batch Macro
 
-**Browse.png** - Alteryx In/Out Group: Using Browse Tool in Alteryx
+**Browse.png**
+- Alteryx In/Out Group
+- Using Browse Tool in Alteryx
 
-**BuildingSequenceLine.png** - Alteryx Spatial Group: Using Poly-Build Tool in Alteryx
+**BuildingSequenceLine.png**
+- Alteryx Spatial Group
+- Using Poly-Build Tool in Alteryx
 
-**Chart.png** - Alteryx Reporting group: Using Interactive Chart Tool in Alteryx
+**Chart.png**
+- Alteryx Reporting Group
+- Using Interactive Chart Tool in Alteryx
 
-**ControlParameter.png** - Alteryx Interface Group: Using Control Parameter Tool in Alteryx
+**ControlParameter.png**
+- Alteryx Interface Group
+- Using Control Parameter Tool in Alteryx
 
-**Count.png** - Alteryx Transformation Group: Using Count Records Tool in Alteryx
+**Count.png**
+- Alteryx Transformation Group
+- Using Count Records Tool in Alteryx
 
-**CustomMacro.png** - Alteryx Custom Made Macro Group: Using Custom Made Standard Macro
+**CustomMacro.png**
+- Alteryx Custom Made Macro Group
+- Using Custom Made Standard Macro
 
-**CustomMacro2.png** - Alteryx Custom Made Macro Group: Using Custom Made Batch Macro
+**CustomMacro2.png**
+- Alteryx Custom Made Macro Group
+- Using Custom Made Batch Macro
 
-**CustomMacro3.png** - Alteryx Custom Made Macro Group: Using Custom Made Iterative Macro
+**CustomMacro3.png**
+- Alteryx Custom Made Macro Group
+- Using Custom Made Iterative Macro
 
-**DateParse.png** - Alteryx Parse Group: Using Date Parse Tool in Alteryx
+**DateParse.png**
+- Alteryx Parse Group
+- Using Date Parse Tool in Alteryx
 
-**FieldSummary.png** - Alteryx Data Investigation Group: Using Field Summary Tool in Alteryx
+**FieldSummary.png**
+- Alteryx Data Investigation Group
+- Using Field Summary Tool in Alteryx
 
-**Filter.png** - Alteryx Preparation Group: Using Filter Tool in Alteryx
+**Filter.png**
+- Alteryx Preparation Group
+- Using Filter Tool in Alteryx
 
-**Foot.png** - Alteryx Reporting Group: Using Report Footer Tool in Alteryx
+**Foot.png**
+- Alteryx Reporting Group
+- Using Report Footer Tool in Alteryx
 
-**Formula.png** - Alteryx Preparation Group: Using Formula Tool in Alteryx
+**Formula.png**
+- Alteryx Preparation Group
+- Using Formula Tool in Alteryx
 
-**Head.png** - Alteryx Reporting Group: Using Report Header Tool in Alteryx
+**Head.png**
+- Alteryx Reporting Group
+- Using Report Header Tool in Alteryx
 
-**IterativeMacro.png** - Alteryx Custom Macro Group: Using Custom Made Iterative Macro
+**IterativeMacro.png**
+- Alteryx Custom Macro Group
+- Using Custom Made Iterative Macro
 
-**Join.png** - Alteryx Join Tool Group: Using Join Tool in Alteryx
+**Join.png**
+- Alteryx Join Tool Group
+- Using Join Tool in Alteryx
 
-**Layout.png** - Alteryx Reporting Group: Using Report Header Tool in Alteryx
+**Layout.png**
+- Alteryx Reporting Group
+- Using Report Header Tool in Alteryx
 
-**Msg.png** - Alteryx Developer Tool Group: Using Message Tool in Alteryx
+**Msg.png**
+- Alteryx Developer Tool Group
+- Using Message Tool in Alteryx
 
-**NumericUpDown.png** - Alteryx Interface Tool Group: Using Numeric Up Down Tool in Alteryx
+**NumericUpDown.png**
+- Alteryx Interface Tool Group
+- Using Numeric Up Down Tool in Alteryx
 
-**Pearson.png** - Alteryx Data Investigation Group: Using Pearson Correlation Tool in Alteryx
+**Pearson.png**
+- Alteryx Data Investigation Group
+- Using Pearson Correlation Tool in Alteryx
 
-**Random.png** - Alteryx Data Preparation Group: Using Random Sample Tool in Alteryx
+**Random.png**
+- Alteryx Data Preparation Group
+- Using Random Sample Tool in Alteryx
 
-**Record ID.png** - Alteryx Data Preparation Group: Using Record ID Tool in Alteryx
+**Record ID.png**
+- Alteryx Data Preparation Group
+- Using Record ID Tool in Alteryx
 
-**Render.png** - Alteryx Reporting Group: Using Render Tool in Alteryx
+**Render.png**
+- Alteryx Reporting Group
+- Using Render Tool in Alteryx
 
-**ReportMap.png** - Alteryx Reporting Group: Using Report Map Tool in Alteryx
+**ReportMap.png**
+- Alteryx Reporting Group
+- Using Report Map Tool in Alteryx
 
-**ReportText.png** - Alteryx Reporting Group: Using Report Text Tool in Alteryx
+**ReportText.png**
+- Alteryx Reporting Group
+- Using Report Text Tool in Alteryx
 
-**RunningTotal.png** - Alteryx Transformation Group: Using Running Total Tool in Alteryx
+**RunningTotal.png**
+- Alteryx Transformation Group
+- Using Running Total Tool in Alteryx
 
-**Select.png** - Alteryx Data Preparation Group: Using Select Tool in Alteryx
+**Select.png**
+- Alteryx Data Preparation Group
+- Using Select Tool in Alteryx
 
-**SelectDynamic.png** - Alteryx Developer Tool Group: Using Dynamic Select Tool in Alteryx
+**SelectDynamic.png**
+- Alteryx Developer Tool Group
+- Using Dynamic Select Tool in Alteryx
 
-**Sort.png** - Alteryx Data Preparation Group: Using Sort Tool in Alteryx
+**Sort.png**
+- Alteryx Data Preparation Group
+- Using Sort Tool in Alteryx
 
-**Spearman.png** - Alteryx Data Investigation Group: Using Spearman Correlation Tool in Alteryx
+**Spearman.png**
+- Alteryx Data Investigation Group
+- Using Spearman Correlation Tool in Alteryx
 
-**StandardMacro.png** - Alteryx Custom Made Macro Group: Using Custom Made Standard Macro
+**StandardMacro.png**
+- Alteryx Custom Made Macro Group
+- Using Custom Made Standard Macro
 
-**Summarize.png** - Alteryx Transformation Group: Using Summarize Tool in Alteryx
+**Summarize.png**
+- Alteryx Transformation Group
+- Using Summarize Tool in Alteryx
 
-**Table.png** - Alteryx Reporting Group: Using Table Tool in Alteryx
+**Table.png**
+- Alteryx Reporting Group
+- Using Table Tool in Alteryx
 
-**UnionTool.png** - Alteryx Join Tool Group: Using Union Tool in Alteryx
+**UnionTool.png**
+- Alteryx Join Tool Group
+- Using Union Tool in Alteryx
 
 **WF1.png**
 - Workflow graphical representation: Loading Data.
