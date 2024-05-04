@@ -97,25 +97,25 @@ The folder contains screens of the workflow, as is in the file.
 **UnionTool.png** - Alteryx Join Tool Group: Using Union Tool in Alteryx
 
 **WF1.png**
-Workflow graphical representation: Loading Data.
-Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
+- Workflow graphical representation: Loading Data.
+- Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
 
 **WF2.png**
-Workflow graphical representation: Data manipulation.
-Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
+- Workflow graphical representation: Data manipulation.
+- Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
 
 **WF3.png**
-Workflow graphical representation: Aggregation and reporting.
-Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
+- Workflow graphical representation: Aggregation and reporting.
+- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
 **WF4.png**
-Workflow graphical representation: Aggregation and reporting.
-Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
+- Workflow graphical representation: Aggregation and reporting.
+- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
 **WF5.png**
-Workflow graphical representation: Data Investigation.
-Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
+- Workflow graphical representation: Data Investigation.
+- Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 
 **WF6.png**
-Workflow graphical representation: Spatial Analysis.
-Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
+- Workflow graphical representation: Spatial Analysis.
+- Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
