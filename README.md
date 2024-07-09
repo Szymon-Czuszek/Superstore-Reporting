@@ -16,7 +16,9 @@ An app containing the user interface, spatial, reporting, macros, and other adva
 ## Workflow-Screens Folder
 The folder contains screens of the workflow, as is in the file.
 
-**Action.png** - Alteryx Interface Tool Group: Using Action Tool in Alteryx
+**[Action.png](Workflow-Screens/Action.png)**
+- Alteryx Interface Tool Group
+- Using Action Tool in Alteryx
 
 **Append.png** - Alteryx Join Tool Group: Using Append Fields Tool in Alteryx
 
