@@ -40,7 +40,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Custom Made Macro Group
 - Using Custom Made Batch Macro
 
-**Browse.png**
+**[Browse.png](Workflow-Screens/Browse.png)**
 - Alteryx In/Out Group
 - Using Browse Tool in Alteryx
 
