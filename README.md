@@ -32,7 +32,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Preparation Tool Group
 - Using Auto Field Tool in Alteryx - Output
 
-**BasicDataProfile.png**
+**[BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 - Alteryx Data Investigation Group
 - Using Basic Data Profile Tool in Alteryx
 
