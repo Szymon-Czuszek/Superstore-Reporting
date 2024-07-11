@@ -44,7 +44,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx In/Out Group
 - Using Browse Tool in Alteryx
 
-**BuildingSequenceLine.png**
+**[BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
 - Alteryx Spatial Group
 - Using Poly-Build Tool in Alteryx
 
