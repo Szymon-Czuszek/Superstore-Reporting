@@ -56,7 +56,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Interface Group
 - Using Control Parameter Tool in Alteryx
 
-**Count.png**
+**[Count.png](Workflow-Screens/Count.png)**
 - Alteryx Transformation Group
 - Using Count Records Tool in Alteryx
 
