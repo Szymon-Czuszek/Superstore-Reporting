@@ -48,7 +48,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Spatial Group
 - Using Poly-Build Tool in Alteryx
 
-**Chart.png**
+**[Chart.png](Workflow-Screens/Chart.png)**
 - Alteryx Reporting Group
 - Using Interactive Chart Tool in Alteryx
 
