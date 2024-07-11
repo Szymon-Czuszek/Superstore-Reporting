@@ -52,7 +52,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Interactive Chart Tool in Alteryx
 
-**ControlParameter.png**
+**[ControlParameter.png](Workflow-Screens/ControlParameter.png)**
 - Alteryx Interface Group
 - Using Control Parameter Tool in Alteryx
 
