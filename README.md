@@ -68,11 +68,11 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Custom Made Macro Group
 - Using Custom Made Batch Macro
 
-**[CustomMacro3](Workflow-Screens/CustomMacro3).png**
+**[CustomMacro3.png](Workflow-Screens/CustomMacro3.png)**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Iterative Macro
 
-**DateParse.png**
+**[DateParse.png](Workflow-Screens/DateParse.png)**
 - Alteryx Parse Group
 - Using Date Parse Tool in Alteryx
 
