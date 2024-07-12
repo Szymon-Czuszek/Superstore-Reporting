@@ -64,7 +64,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Custom Made Macro Group
 - Using Custom Made Standard Macro
 
-**CustomMacro2.png**
+**[CustomMacro2](Workflow-Screens/CustomMacro2.png).png**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Batch Macro
 
