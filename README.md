@@ -60,7 +60,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Transformation Group
 - Using Count Records Tool in Alteryx
 
-**CustomMacro.png**
+**[CustomMacro.png](Workflow-Screens/CustomMacro.png)**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Standard Macro
 
