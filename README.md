@@ -80,7 +80,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Investigation Group
 - Using Field Summary Tool in Alteryx
 
-**Filter.png**
+**[Filter.png](Workflow-Screens/Filter.png)**
 - Alteryx Preparation Group
 - Using Filter Tool in Alteryx
 
