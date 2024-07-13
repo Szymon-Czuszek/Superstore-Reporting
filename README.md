@@ -88,7 +88,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Report Footer Tool in Alteryx
 
-**Formula.png**
+**[Formula.png](Workflow-Screens/Formula.png)**
 - Alteryx Preparation Group
 - Using Formula Tool in Alteryx
 
