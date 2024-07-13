@@ -76,7 +76,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Parse Group
 - Using Date Parse Tool in Alteryx
 
-**FieldSummary.png**
+**[FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 - Alteryx Data Investigation Group
 - Using Field Summary Tool in Alteryx
 
