@@ -84,7 +84,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Preparation Group
 - Using Filter Tool in Alteryx
 
-**Foot.png**
+**[Foot.png](Workflow-Screens/Foot.png)**
 - Alteryx Reporting Group
 - Using Report Footer Tool in Alteryx
 
