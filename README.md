@@ -100,7 +100,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Custom Macro Group
 - Using Custom Made Iterative Macro
 
-**Join.png**
+**[Join.png](Workflow-Screens/Join.png)**
 - Alteryx Join Tool Group
 - Using Join Tool in Alteryx
 
