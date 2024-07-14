@@ -92,7 +92,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Preparation Group
 - Using Formula Tool in Alteryx
 
-**Head.png**
+**[Head.png](Workflow-Screens/Head.png)**
 - Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 
