@@ -104,7 +104,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Join Tool Group
 - Using Join Tool in Alteryx
 
-**Layout.png**
+**[Layout.png](Workflow-Screens/Layout.png)**
 - Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 
