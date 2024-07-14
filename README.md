@@ -96,7 +96,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 
-**IterativeMacro.png**
+**[IterativeMacro.png](Workflow-Screens/IterativeMacro.png)**
 - Alteryx Custom Macro Group
 - Using Custom Made Iterative Macro
 
