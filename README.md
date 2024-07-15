@@ -120,7 +120,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Investigation Group
 - Using Pearson Correlation Tool in Alteryx
 
-**Random.png**
+**[Random.png](Workflow-Screens/Random.png)**
 - Alteryx Data Preparation Group
 - Using Random Sample Tool in Alteryx
 
