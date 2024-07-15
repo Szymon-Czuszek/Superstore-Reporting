@@ -108,7 +108,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 
-**Msg.png**
+**[Msg.png](Workflow-Screens/Msg.png)**
 - Alteryx Developer Tool Group
 - Using Message Tool in Alteryx
 
