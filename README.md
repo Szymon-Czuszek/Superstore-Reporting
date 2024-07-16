@@ -124,11 +124,11 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Preparation Group
 - Using Random Sample Tool in Alteryx
 
-**[Record ID.png](Workflow-Screens/Record ID.png)**
+**[Record ID.png](Workflow-Screens/Record%20ID.png)**
 - Alteryx Data Preparation Group
 - Using Record ID Tool in Alteryx
 
-**Render.png**
+**[Render.png](Workflow-Screens/Render.png)**
 - Alteryx Reporting Group
 - Using Render Tool in Alteryx
 
