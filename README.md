@@ -132,7 +132,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Render Tool in Alteryx
 
-**ReportMap.png**
+**[ReportMap.png](Workflow-Screens/ReportMap.png)**
 - Alteryx Reporting Group
 - Using Report Map Tool in Alteryx
 
