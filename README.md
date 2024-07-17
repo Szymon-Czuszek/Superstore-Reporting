@@ -140,7 +140,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Report Text Tool in Alteryx
 
-**RunningTotal.png**
+**[RunningTotal.png](Workflow-Screens/RunningTotal.png)**
 - Alteryx Transformation Group
 - Using Running Total Tool in Alteryx
 
