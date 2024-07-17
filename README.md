@@ -152,7 +152,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Developer Tool Group
 - Using Dynamic Select Tool in Alteryx
 
-**Sort.png**
+**[Sort.png](Workflow-Screens/Sort.png)**
 - Alteryx Data Preparation Group
 - Using Sort Tool in Alteryx
 
