@@ -144,7 +144,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Transformation Group
 - Using Running Total Tool in Alteryx
 
-**Select.png**
+**[Select.png](Workflow-Screens/Select.png)**
 - Alteryx Data Preparation Group
 - Using Select Tool in Alteryx
 
