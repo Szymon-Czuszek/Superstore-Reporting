@@ -148,7 +148,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Preparation Group
 - Using Select Tool in Alteryx
 
-**SelectDynamic.png**
+**[SelectDynamic.png](Workflow-Screens/SelectDynamic.png)**
 - Alteryx Developer Tool Group
 - Using Dynamic Select Tool in Alteryx
 
