@@ -160,7 +160,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Investigation Group
 - Using Spearman Correlation Tool in Alteryx
 
-**StandardMacro.png**
+**[StandardMacro.png](Workflow-Screens/StandardMacro.png)**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Standard Macro
 
