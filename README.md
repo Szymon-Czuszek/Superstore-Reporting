@@ -156,15 +156,15 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Data Preparation Group
 - Using Sort Tool in Alteryx
 
-**[Spearman.png](Workflow-Screens/Spearman.png)**
+**[Spearman Tool](Workflow-Screens/Spearman.png)**
 - Alteryx Data Investigation Group
 - Using Spearman Correlation Tool in Alteryx
 
-**[StandardMacro.png](Workflow-Screens/StandardMacro.png)**
+**[Custom-Made Standard Macro](Workflow-Screens/StandardMacro.png)**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Standard Macro
 
-**Summarize.png**
+**[Summarize Tool](Workflow-Screens/Summarize.png)**
 - Alteryx Transformation Group
 - Using Summarize Tool in Alteryx
 
