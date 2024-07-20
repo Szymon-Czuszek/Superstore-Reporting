@@ -176,7 +176,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Join Tool Group
 - Using Union Tool in Alteryx
 
-**WF1.png**
+**[WF1.png](Workflow-Screens/WF1.png)**
 - Workflow graphical representation: Loading Data.
 - Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
 
