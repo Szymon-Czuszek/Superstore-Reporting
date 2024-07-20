@@ -168,7 +168,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Transformation Group
 - Using Summarize Tool in Alteryx
 
-**Table.png**
+**[Table.png](Workflow-Screens/Table.png)**
 - Alteryx Reporting Group
 - Using Table Tool in Alteryx
 
