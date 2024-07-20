@@ -172,7 +172,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Reporting Group
 - Using Table Tool in Alteryx
 
-**UnionTool.png**
+**[UnionTool.png](Workflow-Screens/UnionTool.png)**
 - Alteryx Join Tool Group
 - Using Union Tool in Alteryx
 
