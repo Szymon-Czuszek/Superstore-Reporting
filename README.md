@@ -184,7 +184,7 @@ The folder contains screens of the workflow, as is in the file.
 - Workflow graphical representation: Data manipulation.
 - Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
 
-**WF3.png**
+**[WF3.png](Workflow-Screens/WF3.png)**
 - Workflow graphical representation: Aggregation and reporting.
 - Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
