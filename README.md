@@ -196,6 +196,6 @@ The folder contains screens of the workflow, as is in the file.
 - Workflow graphical representation: Data Investigation.
 - Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 
-**WF6.png**
+**[WF6.png](Workflow-Screens/WF6.png)**
 - Workflow graphical representation: Spatial Analysis.
 - Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
