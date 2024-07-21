@@ -192,7 +192,7 @@ The folder contains screens of the workflow, as is in the file.
 - Workflow graphical representation: Aggregation and reporting.
 - Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 
-**WF5.png**
+**[WF5.png](Workflow-Screens/WF5.png)**
 - Workflow graphical representation: Data Investigation.
 - Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 
