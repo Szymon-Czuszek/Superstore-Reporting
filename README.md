@@ -24,15 +24,15 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
 
-### ![pic](https://community.alteryx.com/t5/image/serverpage/image-id/13686i8C7DFB7FE4CCD355?v=v2) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Auto Field Tool
+### ![pic](https://community.alteryx.com/t5/image/serverpage/image-id/13686i8C7DFB7FE4CCD355?v=v2) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
 
+#### Using Auto Field Tool in Alteryx - Input
+- Screen-shot below presents the configuration of the auto filed tool. The metadata tab is selected on purpouse, as the tool will convert the string data types, as in the output anchor. The configuration of the tool comes down only to selection of the fileds, of which types we whish to adjust.
 **![Auto1.png](Workflow-Screens/Auto1.png)** 
-- Alteryx Preparation Tool Group
-- Using Auto Field Tool in Alteryx - Input
 
+#### Using Auto Field Tool in Alteryx - Output
+- Screen-shot below presents the output anchor of the auto field tool, with already converted file types. As seen, some types like double or byte were easily recognizable by the tool, and got changed from string.
 **![Auto2.png](Workflow-Screens/Auto2.png)**
-- Alteryx Preparation Tool Group
-- Using Auto Field Tool in Alteryx - Output
 
 **[BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 - Alteryx Data Investigation Group
