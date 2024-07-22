@@ -24,7 +24,7 @@ The folder contains screens of the workflow, as is in the file.
 - Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
 
-**[Auto1.png](Workflow-Screens/Auto1.png)**
+**[Auto1.png](Workflow-Screens/Auto1.png)** ![pic](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355)
 - Alteryx Preparation Tool Group
 - Using Auto Field Tool in Alteryx - Input
 
