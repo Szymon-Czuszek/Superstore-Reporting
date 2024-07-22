@@ -201,3 +201,6 @@ The folder contains screens of the workflow, as is in the file.
 **[WF6.png](Workflow-Screens/WF6.png)**
 - Workflow graphical representation: Spatial Analysis.
 - Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
+
+## Disclaimer
+The images used in this README are the property of Alteryx, Inc. and are used here for informational purposes only. All rights to these images are retained by Alteryx, Inc. No copyright infringement is intended.
