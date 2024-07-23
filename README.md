@@ -9,9 +9,9 @@ This project aims to show capabilities of Alteryx software on the Kaggle data na
 - Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
 **![WF2.png](Workflow-Screens/WF2.png)**
 
-**[WF3.png](Workflow-Screens/WF3.png)**
-- Workflow graphical representation: Aggregation and reporting.
+### Workflow graphical representation: Aggregation and reporting.
 - Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
+**![WF3.png](Workflow-Screens/WF3.png)**
 
 **[WF4.png](Workflow-Screens/WF4.png)**
 - Workflow graphical representation: Aggregation and reporting.
