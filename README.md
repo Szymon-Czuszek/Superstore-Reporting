@@ -1,6 +1,30 @@
 # Superstore-Reporting
 This project aims to show capabilities of Alteryx software on the Kaggle data named "Superstore". The project includes creation of an analytic application, spatial analysis, creating report visualisations, exploratory data analysis, and a unique Alteryx approach to the traveling salesman problem.
 
+### Workflow graphical representation: Loading Data.
+- Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
+**![WF1.png](Workflow-Screens/WF1.png)**
+
+**[WF2.png](Workflow-Screens/WF2.png)**
+- Workflow graphical representation: Data manipulation.
+- Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
+
+**[WF3.png](Workflow-Screens/WF3.png)**
+- Workflow graphical representation: Aggregation and reporting.
+- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
+
+**[WF4.png](Workflow-Screens/WF4.png)**
+- Workflow graphical representation: Aggregation and reporting.
+- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
+
+**[WF5.png](Workflow-Screens/WF5.png)**
+- Workflow graphical representation: Data Investigation.
+- Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
+
+**[WF6.png](Workflow-Screens/WF6.png)**
+- Workflow graphical representation: Spatial Analysis.
+- Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
+
 ## Iterative Macro used in the "Superstore" project.
 This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it needs an upstream macro that will run this process for other combination of starting points, which is further solved in "Shortest Route Batch" Macro.
 
@@ -177,30 +201,6 @@ The folder contains screens of the workflow, as is in the file.
 **[UnionTool.png](Workflow-Screens/UnionTool.png)**
 - Alteryx Join Tool Group
 - Using Union Tool in Alteryx
-
-**[WF1.png](Workflow-Screens/WF1.png)**
-- Workflow graphical representation: Loading Data.
-- Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
-
-**[WF2.png](Workflow-Screens/WF2.png)**
-- Workflow graphical representation: Data manipulation.
-- Using Alteryx Tools: Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
-
-**[WF3.png](Workflow-Screens/WF3.png)**
-- Workflow graphical representation: Aggregation and reporting.
-- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
-
-**[WF4.png](Workflow-Screens/WF4.png)**
-- Workflow graphical representation: Aggregation and reporting.
-- Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
-
-**[WF5.png](Workflow-Screens/WF5.png)**
-- Workflow graphical representation: Data Investigation.
-- Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
-
-**[WF6.png](Workflow-Screens/WF6.png)**
-- Workflow graphical representation: Spatial Analysis.
-- Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
 
 ## Disclaimer
 The images used in this README are the property of Alteryx, Inc. and are used here for informational purposes only. All rights to these images are retained by Alteryx, Inc. No copyright infringement is intended.
