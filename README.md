@@ -28,6 +28,10 @@ This project aims to show capabilities of Alteryx software on the Kaggle data na
 ## Iterative Macro used in the "Superstore" project.
 This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it needs an upstream macro that will run this process for other combination of starting points, which is further solved in "Shortest Route Batch" Macro.
 
+### Alteryx Custom Made Macro Group
+- Using Custom Made Iterative Macro
+**![CustomMacro3.png](Workflow-Screens/CustomMacro3.png)**
+
 ## Batch Macro used in the "Superstore" Project.
 This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", and it is used to produce many outputs using batches. It needs an upstream macro, that will actually find the most optimal route, using MIN function, which is tackled further in the "Shortest Route Checker" Standard Macro.
 
@@ -93,10 +97,6 @@ The folder contains screens of the workflow, as is in the file.
 **[CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
 - Alteryx Custom Made Macro Group
 - Using Custom Made Batch Macro
-
-**[CustomMacro3.png](Workflow-Screens/CustomMacro3.png)**
-- Alteryx Custom Made Macro Group
-- Using Custom Made Iterative Macro
 
 **[DateParse.png](Workflow-Screens/DateParse.png)**
 - Alteryx Parse Group
