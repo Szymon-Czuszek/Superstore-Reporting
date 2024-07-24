@@ -17,9 +17,9 @@ This project aims to show capabilities of Alteryx software on the Kaggle data na
 - Using Alteryx Tools: Union Tool, Interactive Chart Tool, Layout Tool, and more
 **![WF4.png](Workflow-Screens/WF4.png)**
 
-**[WF5.png](Workflow-Screens/WF5.png)**
-- Workflow graphical representation: Data Investigation.
+### Workflow graphical representation: Data Investigation.
 - Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
+**![WF5.png](Workflow-Screens/WF5.png)**
 
 **[WF6.png](Workflow-Screens/WF6.png)**
 - Workflow graphical representation: Spatial Analysis.
