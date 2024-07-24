@@ -35,8 +35,16 @@ This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the
 ## Batch Macro used in the "Superstore" Project.
 This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", and it is used to produce many outputs using batches. It needs an upstream macro, that will actually find the most optimal route, using MIN function, which is tackled further in the "Shortest Route Checker" Standard Macro.
 
+### Alteryx Custom Made Macro Group
+- Using Custom Made Batch Macro
+**![CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
+
 ## Standard Macro used in "Superstore" project.
 This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it's limitation is the longer run times, depending on the amount of locations it needs to connect and check.
+
+### Alteryx Custom Made Macro Group
+- Using Custom Made Standard Macro
+**![CustomMacro.png](Workflow-Screens/CustomMacro.png)**
 
 ## Project "Superstore" - Analytic Application only.
 An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial, reporting, macros, and other advanced functionalities.
@@ -89,14 +97,6 @@ The folder contains screens of the workflow, as is in the file.
 **[Count.png](Workflow-Screens/Count.png)**
 - Alteryx Transformation Group
 - Using Count Records Tool in Alteryx
-
-**[CustomMacro.png](Workflow-Screens/CustomMacro.png)**
-- Alteryx Custom Made Macro Group
-- Using Custom Made Standard Macro
-
-**[CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
-- Alteryx Custom Made Macro Group
-- Using Custom Made Batch Macro
 
 **[DateParse.png](Workflow-Screens/DateParse.png)**
 - Alteryx Parse Group
