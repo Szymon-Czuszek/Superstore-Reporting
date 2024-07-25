@@ -43,6 +43,10 @@ This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the
 - Using Custom Made Batch Macro
 **![CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
 
+### Alteryx Custom Made Macro Group
+- Investigating Custom Made Batch Macro
+**[BatchMacro.png](Workflow-Screens/BatchMacro.png)**
+
 ## Standard Macro used in "Superstore" project.
 This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it's limitation is the longer run times, depending on the amount of locations it needs to connect and check.
 
@@ -81,10 +85,6 @@ The folder contains screens of the workflow, as is in the file.
 **[BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 - Alteryx Data Investigation Group
 - Using Basic Data Profile Tool in Alteryx
-
-**[BatchMacro.png](Workflow-Screens/BatchMacro.png)**
-- Alteryx Custom Made Macro Group
-- Using Custom Made Batch Macro
 
 **[Browse.png](Workflow-Screens/Browse.png)**
 - Alteryx In/Out Group
