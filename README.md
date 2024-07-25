@@ -50,6 +50,10 @@ This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch
 - Using Custom Made Standard Macro
 **![CustomMacro.png](Workflow-Screens/CustomMacro.png)**
 
+### Alteryx Custom Made Macro Group
+- Investigating Custom Made Standard Macro
+**![Custom-Made Standard Macro](Workflow-Screens/StandardMacro.png)**
+
 ## Project "Superstore" - Analytic Application only.
 An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial, reporting, macros, and other advanced functionalities.
 
@@ -185,10 +189,6 @@ The folder contains screens of the workflow, as is in the file.
 **[Spearman Tool](Workflow-Screens/Spearman.png)**
 - Alteryx Data Investigation Group
 - Using Spearman Correlation Tool in Alteryx
-
-**[Custom-Made Standard Macro](Workflow-Screens/StandardMacro.png)**
-- Alteryx Custom Made Macro Group
-- Using Custom Made Standard Macro
 
 **[Summarize Tool](Workflow-Screens/Summarize.png)**
 - Alteryx Transformation Group
