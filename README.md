@@ -64,9 +64,9 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial
 ## Workflow-Screens Folder
 The folder contains screens of the workflow, as is in the file.
 
-**[Action.png](Workflow-Screens/Action.png)**
-- Alteryx Interface Tool Group
+#### Alteryx Interface Tool Group
 - Using Action Tool in Alteryx
+**![Action.png](Workflow-Screens/Action.png)**
 
 #### Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
