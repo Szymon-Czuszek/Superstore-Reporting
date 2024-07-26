@@ -82,9 +82,9 @@ The folder contains screens of the workflow, as is in the file.
 - Screen-shot below presents the output anchor of the auto field tool, with already converted file types. As seen, some types like double or byte were easily recognizable by the tool, and got changed from string.
 **![Auto2.png](Workflow-Screens/Auto2.png)**
 
-**[BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
-- Alteryx Data Investigation Group
+#### Alteryx Data Investigation Group
 - Using Basic Data Profile Tool in Alteryx
+**![BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 
 **[Browse.png](Workflow-Screens/Browse.png)**
 - Alteryx In/Out Group
