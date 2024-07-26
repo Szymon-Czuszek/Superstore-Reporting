@@ -86,9 +86,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Basic Data Profile Tool in Alteryx
 **![BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 
-**[Browse.png](Workflow-Screens/Browse.png)**
-- Alteryx In/Out Group
+#### Alteryx In/Out Group
 - Using Browse Tool in Alteryx
+**![Browse.png](Workflow-Screens/Browse.png)**
 
 **[BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
 - Alteryx Spatial Group
