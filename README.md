@@ -90,9 +90,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Browse Tool in Alteryx
 **![Browse.png](Workflow-Screens/Browse.png)**
 
-**[BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
-- Alteryx Spatial Group
+#### Alteryx Spatial Group
 - Using Poly-Build Tool in Alteryx
+**![BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
 
 **[Chart.png](Workflow-Screens/Chart.png)**
 - Alteryx Reporting Group
