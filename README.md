@@ -102,9 +102,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Control Parameter Tool in Alteryx
 **![ControlParameter.png](Workflow-Screens/ControlParameter.png)**
 
-**[Count.png](Workflow-Screens/Count.png)**
-- Alteryx Transformation Group
+#### Alteryx Transformation Group
 - Using Count Records Tool in Alteryx
+**![Count.png](Workflow-Screens/Count.png)**
 
 **[DateParse.png](Workflow-Screens/DateParse.png)**
 - Alteryx Parse Group
