@@ -98,9 +98,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Interactive Chart Tool in Alteryx
 **![Chart.png](Workflow-Screens/Chart.png)**
 
-**[ControlParameter.png](Workflow-Screens/ControlParameter.png)**
-- Alteryx Interface Group
+#### Alteryx Interface Group
 - Using Control Parameter Tool in Alteryx
+**![ControlParameter.png](Workflow-Screens/ControlParameter.png)**
 
 **[Count.png](Workflow-Screens/Count.png)**
 - Alteryx Transformation Group
