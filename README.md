@@ -118,9 +118,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Filter Tool in Alteryx
 **![Filter.png](Workflow-Screens/Filter.png)**
 
-**[Foot.png](Workflow-Screens/Foot.png)**
-- Alteryx Reporting Group
+#### Alteryx Reporting Group
 - Using Report Footer Tool in Alteryx
+**![Foot.png](Workflow-Screens/Foot.png)**
 
 **[Formula.png](Workflow-Screens/Formula.png)**
 - Alteryx Preparation Group
