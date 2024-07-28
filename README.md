@@ -106,9 +106,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Count Records Tool in Alteryx
 **![Count.png](Workflow-Screens/Count.png)**
 
-**[DateParse.png](Workflow-Screens/DateParse.png)**
-- Alteryx Parse Group
+#### Alteryx Parse Group
 - Using Date Parse Tool in Alteryx
+**![DateParse.png](Workflow-Screens/DateParse.png)**
 
 **[FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 - Alteryx Data Investigation Group
