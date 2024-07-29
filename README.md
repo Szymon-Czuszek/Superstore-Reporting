@@ -126,9 +126,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Formula Tool in Alteryx
 **![Formula.png](Workflow-Screens/Formula.png)**
 
-**[Head.png](Workflow-Screens/Head.png)**
-- Alteryx Reporting Group
+#### Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
+**![Head.png](Workflow-Screens/Head.png)**
 
 **[Join.png](Workflow-Screens/Join.png)**
 - Alteryx Join Tool Group
