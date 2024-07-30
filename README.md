@@ -146,9 +146,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Numeric Up Down Tool in Alteryx
 **![NumericUpDown.png](Workflow-Screens/NumericUpDown.png)**
 
-**[Pearson.png](Workflow-Screens/Pearson.png)**
-- Alteryx Data Investigation Group
+#### Alteryx Data Investigation Group
 - Using Pearson Correlation Tool in Alteryx
+**[Pearson.png](Workflow-Screens/Pearson.png)**
 
 **[Random.png](Workflow-Screens/Random.png)**
 - Alteryx Data Preparation Group
