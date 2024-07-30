@@ -148,11 +148,11 @@ The folder contains screens of the workflow, as is in the file.
 
 #### Alteryx Data Investigation Group
 - Using Pearson Correlation Tool in Alteryx
-**[Pearson.png](Workflow-Screens/Pearson.png)**
+**![Pearson.png](Workflow-Screens/Pearson.png)**
 
-**[Random.png](Workflow-Screens/Random.png)**
-- Alteryx Data Preparation Group
+#### Alteryx Data Preparation Group
 - Using Random Sample Tool in Alteryx
+**![Random.png](Workflow-Screens/Random.png)**
 
 **[Record ID.png](Workflow-Screens/Record%20ID.png)**
 - Alteryx Data Preparation Group
