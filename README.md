@@ -142,9 +142,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Message Tool in Alteryx
 **![Msg.png](Workflow-Screens/Msg.png)**
 
-**[NumericUpDown.png](Workflow-Screens/NumericUpDown.png)**
-- Alteryx Interface Tool Group
+#### Alteryx Interface Tool Group
 - Using Numeric Up Down Tool in Alteryx
+**![NumericUpDown.png](Workflow-Screens/NumericUpDown.png)**
 
 **[Pearson.png](Workflow-Screens/Pearson.png)**
 - Alteryx Data Investigation Group
