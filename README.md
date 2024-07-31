@@ -166,9 +166,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Map Tool in Alteryx
 **![ReportMap.png](Workflow-Screens/ReportMap.png)**
 
-**[ReportText.png](Workflow-Screens/ReportText.png)**
-- Alteryx Reporting Group
+#### Alteryx Reporting Group
 - Using Report Text Tool in Alteryx
+**![ReportText.png](Workflow-Screens/ReportText.png)**
 
 **[RunningTotal.png](Workflow-Screens/RunningTotal.png)**
 - Alteryx Transformation Group
