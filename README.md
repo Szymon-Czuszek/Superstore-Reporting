@@ -162,9 +162,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Render Tool in Alteryx
 **![Render.png](Workflow-Screens/Render.png)**
 
-**[ReportMap.png](Workflow-Screens/ReportMap.png)**
-- Alteryx Reporting Group
+#### Alteryx Reporting Group
 - Using Report Map Tool in Alteryx
+**![ReportMap.png](Workflow-Screens/ReportMap.png)**
 
 **[ReportText.png](Workflow-Screens/ReportText.png)**
 - Alteryx Reporting Group
