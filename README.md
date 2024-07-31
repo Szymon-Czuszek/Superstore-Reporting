@@ -154,9 +154,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Random Sample Tool in Alteryx
 **![Random.png](Workflow-Screens/Random.png)**
 
-**[Record ID.png](Workflow-Screens/Record%20ID.png)**
-- Alteryx Data Preparation Group
+#### Alteryx Data Preparation Group
 - Using Record ID Tool in Alteryx
+**![Record ID.png](Workflow-Screens/Record%20ID.png)**
 
 **[Render.png](Workflow-Screens/Render.png)**
 - Alteryx Reporting Group
