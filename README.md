@@ -182,9 +182,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Dynamic Select Tool in Alteryx
 **![SelectDynamic.png](Workflow-Screens/SelectDynamic.png)**
 
-**[Sort.png](Workflow-Screens/Sort.png)**
-- Alteryx Data Preparation Group
+#### Alteryx Data Preparation Group
 - Using Sort Tool in Alteryx
+**![Sort.png](Workflow-Screens/Sort.png)**
 
 **[Spearman Tool](Workflow-Screens/Spearman.png)**
 - Alteryx Data Investigation Group
