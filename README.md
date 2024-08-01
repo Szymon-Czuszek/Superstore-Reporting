@@ -170,9 +170,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Text Tool in Alteryx
 **![ReportText.png](Workflow-Screens/ReportText.png)**
 
-**[RunningTotal.png](Workflow-Screens/RunningTotal.png)**
-- Alteryx Transformation Group
+#### Alteryx Transformation Group
 - Using Running Total Tool in Alteryx
+**![RunningTotal.png](Workflow-Screens/RunningTotal.png)**
 
 **[Select.png](Workflow-Screens/Select.png)**
 - Alteryx Data Preparation Group
