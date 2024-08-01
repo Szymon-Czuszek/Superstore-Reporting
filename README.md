@@ -174,9 +174,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Running Total Tool in Alteryx
 **![RunningTotal.png](Workflow-Screens/RunningTotal.png)**
 
-**[Select.png](Workflow-Screens/Select.png)**
-- Alteryx Data Preparation Group
+#### Alteryx Data Preparation Group
 - Using Select Tool in Alteryx
+**![Select.png](Workflow-Screens/Select.png)**
 
 **[SelectDynamic.png](Workflow-Screens/SelectDynamic.png)**
 - Alteryx Developer Tool Group
