@@ -186,9 +186,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Sort Tool in Alteryx
 **![Sort.png](Workflow-Screens/Sort.png)**
 
-**[Spearman Tool](Workflow-Screens/Spearman.png)**
-- Alteryx Data Investigation Group
+#### Alteryx Data Investigation Group
 - Using Spearman Correlation Tool in Alteryx
+**![Spearman Tool](Workflow-Screens/Spearman.png)**
 
 **[Summarize Tool](Workflow-Screens/Summarize.png)**
 - Alteryx Transformation Group
