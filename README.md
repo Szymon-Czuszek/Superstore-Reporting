@@ -198,9 +198,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Table Tool in Alteryx
 **![Table.png](Workflow-Screens/Table.png)**
 
-**[UnionTool.png](Workflow-Screens/UnionTool.png)**
-- Alteryx Join Tool Group
+#### Alteryx Join Tool Group
 - Using Union Tool in Alteryx
+**![UnionTool.png](Workflow-Screens/UnionTool.png)**
 
 ## Disclaimer
 The images used in this README are the property of Alteryx, Inc. and are used here for informational purposes only. All rights to these images are retained by Alteryx, Inc. No copyright infringement is intended.
