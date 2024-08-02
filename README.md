@@ -190,9 +190,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Spearman Correlation Tool in Alteryx
 **![Spearman Tool](Workflow-Screens/Spearman.png)**
 
-**[Summarize Tool](Workflow-Screens/Summarize.png)**
-- Alteryx Transformation Group
+#### Alteryx Transformation Group
 - Using Summarize Tool in Alteryx
+**![Summarize Tool](Workflow-Screens/Summarize.png)**
 
 **[Table.png](Workflow-Screens/Table.png)**
 - Alteryx Reporting Group
