@@ -194,9 +194,9 @@ The folder contains screens of the workflow, as is in the file.
 - Using Summarize Tool in Alteryx
 **![Summarize Tool](Workflow-Screens/Summarize.png)**
 
-**[Table.png](Workflow-Screens/Table.png)**
-- Alteryx Reporting Group
+#### Alteryx Reporting Group
 - Using Table Tool in Alteryx
+**![Table.png](Workflow-Screens/Table.png)**
 
 **[UnionTool.png](Workflow-Screens/UnionTool.png)**
 - Alteryx Join Tool Group
