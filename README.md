@@ -64,6 +64,8 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial
 ## Workflow-Screens Folder
 The folder contains screens of the workflow, as is in the file.
 
+### ![Action Tool Picture](https://community.alteryx.com/t5/image/serverpage/image-id/9469i39AD90998C11FF7D/image-size/original?v=v2&px=-1) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Action/ta-p/35500) | Alteryx Interface Tool Group | Action Tool
+
 #### Alteryx Interface Tool Group
 - Using Action Tool in Alteryx
 **![Action.png](Workflow-Screens/Action.png)**
@@ -72,7 +74,7 @@ The folder contains screens of the workflow, as is in the file.
 - Using Append Fields Tool in Alteryx
 **![Append.png](Workflow-Screens/Append.png)**
 
-### ![pic](https://community.alteryx.com/t5/image/serverpage/image-id/13686i8C7DFB7FE4CCD355?v=v2) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
+### ![Auto Field Tool Picture](https://community.alteryx.com/t5/image/serverpage/image-id/13686i8C7DFB7FE4CCD355?v=v2) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
 
 #### Using Auto Field Tool in Alteryx - Input
 - Screen-shot below presents the configuration of the auto filed tool. The metadata tab is selected on purpouse, as the tool will convert the string data types, as in the output anchor. The configuration of the tool comes down only to selection of the fileds, of which types we whish to adjust.
