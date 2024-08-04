@@ -104,6 +104,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Poly-Build Tool in Alteryx
 **![BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-e3bb418c-d6cc-4b4b-136c-8d60034b6242.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/reporting/interactive-chart-tool.html) | Alteryx Reporting Tool Group | Interactive Chart Tool
+
 #### Alteryx Reporting Group
 - Using Interactive Chart Tool in Alteryx
 **![Chart.png](Workflow-Screens/Chart.png)**
