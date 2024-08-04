@@ -64,7 +64,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial
 ## Workflow-Screens Folder
 The folder contains screens of the workflow, as is in the file.
 
-### ![Action Tool Picture](https://community.alteryx.com/t5/image/serverpage/image-id/9469i39AD90998C11FF7D/image-size/original?v=v2&px=-1) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Action/ta-p/35500) | Alteryx Interface Tool Group | Action Tool
+### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/9469i39AD90998C11FF7D/image-size/original?v=v2&px=-1" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Action/ta-p/35500) | Alteryx Interface Tool Group | Action Tool
 
 #### Alteryx Interface Tool Group
 - Using Action Tool in Alteryx
@@ -97,6 +97,8 @@ The folder contains screens of the workflow, as is in the file.
 #### Alteryx In/Out Group
 - Using Browse Tool in Alteryx
 **![Browse.png](Workflow-Screens/Browse.png)**
+
+### <img src="https://help.alteryx.com/current/en/image/uuid-da6558a8-7881-c24f-4dbd-23ab3ba4ada1.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/spatial/poly-build-tool.html#poly-build-tool) | Alteryx Spatial Tool Group | Poly-Build Tool
 
 #### Alteryx Spatial Group
 - Using Poly-Build Tool in Alteryx
