@@ -92,7 +92,7 @@ The folder contains screens of the workflow, as is in the file.
 - Using Basic Data Profile Tool in Alteryx
 **![BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 
-### ![Browse Tool Picture](https://community.alteryx.com/t5/image/serverpage/image-id/9900iAB3EC61959EFE81D/image-size/large?v=v2&px=999) [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Browse/ta-p/1208) | Alteryx In/Out Tool Group | Browse Tool
+### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/9900iAB3EC61959EFE81D/image-size/large?v=v2&px=999" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Browse/ta-p/1208) | Alteryx In/Out Tool Group | Browse Tool
 
 #### Alteryx In/Out Group
 - Using Browse Tool in Alteryx
