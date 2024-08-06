@@ -140,6 +140,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Filter Tool in Alteryx
 **![Filter.png](Workflow-Screens/Filter.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-4da60bda-dd8b-31d5-aa21-adfa8a201b08.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/reporting/report-footer-tool.html) | Alteryx Reporting Tool Group | Report Footer Tool
+
 #### Alteryx Reporting Group
 - Using Report Footer Tool in Alteryx
 **![Foot.png](Workflow-Screens/Foot.png)**
