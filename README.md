@@ -122,8 +122,10 @@ The folder contains screens of the workflow, as is in the file.
 - Using Count Records Tool in Alteryx
 **![Count.png](Workflow-Screens/Count.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-b9c2ec12-3d7e-1bc1-541b-08e82f62ad23.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/parse/datetime-tool.html) | Alteryx Transform Tool Group | DateTime Tool
+
 #### Alteryx Parse Group
-- Using Date Parse Tool in Alteryx
+- Using DateTime Tool in Alteryx
 **![DateParse.png](Workflow-Screens/DateParse.png)**
 
 #### Alteryx Data Investigation Group
