@@ -134,6 +134,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Field Summary Tool in Alteryx
 **![FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-69122228-92d1-770a-c737-0ffe904b58ad.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | Alteryx Preparation Tool Group | Filter Tool
+
 #### Alteryx Preparation Group
 - Using Filter Tool in Alteryx
 **![Filter.png](Workflow-Screens/Filter.png)**
