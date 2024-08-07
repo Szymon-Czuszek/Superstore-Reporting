@@ -70,7 +70,7 @@ The folder contains screens of the workflow, as is in the file.
 - Using Action Tool in Alteryx
 **![Action.png](Workflow-Screens/Action.png)**
 
-### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/7937iD0AEDC3A57737F47/image-size/large?v=v2&px=999" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Join/ta-p/29814) | Alteryx Join Tool Group | Join Tool
+### <img src="[https://community.alteryx.com/t5/image/serverpage/image-id/7937iD0AEDC3A57737F47/image-size/large?v=v2&px=999](https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png)" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | Alteryx Join Tool Group | Append Fields Tool
 
 #### Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
