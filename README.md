@@ -146,6 +146,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Footer Tool in Alteryx
 **![Foot.png](Workflow-Screens/Foot.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-9dc01e86-c9f6-f365-2a11-4528d15c7499.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/preparation/formula-tool.html) | Alteryx Preparation Tool Group | Formula Tool
+
 #### Alteryx Preparation Group
 - Using Formula Tool in Alteryx
 **![Formula.png](Workflow-Screens/Formula.png)**
