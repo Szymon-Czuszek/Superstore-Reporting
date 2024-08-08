@@ -170,6 +170,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Header Tool in Alteryx
 **![Layout.png](Workflow-Screens/Layout.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-d4fa5b87-25bb-b657-ae17-8bfa92c3f4d4.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/developer/message-tool.html) | Alteryx Developer Tool Group | Message Tool
+
 #### Alteryx Developer Tool Group
 - Using Message Tool in Alteryx
 **![Msg.png](Workflow-Screens/Msg.png)**
