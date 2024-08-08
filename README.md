@@ -70,13 +70,13 @@ The folder contains screens of the workflow, as is in the file.
 - Using Action Tool in Alteryx
 **![Action.png](Workflow-Screens/Action.png)**
 
-### <img src="[https://community.alteryx.com/t5/image/serverpage/image-id/7937iD0AEDC3A57737F47/image-size/large?v=v2&px=999](https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png)" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | Alteryx Join Tool Group | Append Fields Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | Alteryx Join Tool Group | Append Fields Tool
 
 #### Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
 **![Append.png](Workflow-Screens/Append.png)**
 
-### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/13686i8C7DFB7FE4CCD355?v=v2" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-b7347050-71b7-b0da-cd14-6420f0a8eca9.png" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
 
 #### Using Auto Field Tool in Alteryx - Input
 - Screen-shot below presents the configuration of the auto filed tool. The metadata tab is selected on purpouse, as the tool will convert the string data types, as in the output anchor. The configuration of the tool comes down only to selection of the fileds, of which types we whish to adjust.
