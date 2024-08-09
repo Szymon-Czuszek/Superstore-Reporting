@@ -194,6 +194,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Random Sample Tool in Alteryx
 **![Random.png](Workflow-Screens/Random.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-915aa92e-03af-6633-3a22-cdf42b45f1a0.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/preparation/record-id-tool.html) | Alteryx Preparation Tool Group | Record ID Tool
+
 #### Alteryx Data Preparation Group
 - Using Record ID Tool in Alteryx
 **![Record ID.png](Workflow-Screens/Record%20ID.png)**
