@@ -200,6 +200,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Record ID Tool in Alteryx
 **![Record ID.png](Workflow-Screens/Record%20ID.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-c0b1d777-4b86-3f21-687f-75255991ba5d.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/reporting/render-tool.html) | Alteryx Reporting Tool Group | Render Tool
+
 #### Alteryx Reporting Group
 - Using Render Tool in Alteryx
 **![Render.png](Workflow-Screens/Render.png)**
