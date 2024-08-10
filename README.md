@@ -218,6 +218,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Text Tool in Alteryx
 **![ReportText.png](Workflow-Screens/ReportText.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-8fec8c20-cc8b-21e1-195f-c698c45344fd.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/transform/running-total-tool.html) | Alteryx Transform Tool Group | Running Total Tool
+
 #### Alteryx Transformation Group
 - Using Running Total Tool in Alteryx
 **![RunningTotal.png](Workflow-Screens/RunningTotal.png)**
