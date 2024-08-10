@@ -212,6 +212,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Report Map Tool in Alteryx
 **![ReportMap.png](Workflow-Screens/ReportMap.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-9ff5db68-a24a-c353-89d2-7fe601852fe3.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/reporting/report-text-tool.html) | Alteryx Reporting Tool Group | Report Text Tool
+
 #### Alteryx Reporting Group
 - Using Report Text Tool in Alteryx
 **![ReportText.png](Workflow-Screens/ReportText.png)**
