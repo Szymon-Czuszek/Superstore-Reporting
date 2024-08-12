@@ -260,6 +260,8 @@ The folder contains screens of the workflow, as is in the file.
 - Using Table Tool in Alteryx
 **![Table.png](Workflow-Screens/Table.png)**
 
+### <img src="https://help.alteryx.com/current/en/image/uuid-ff4b293c-67ce-5319-56bf-c654313de524.png" width="60" /> [Tool Mastery](https://help.alteryx.com/current/en/designer/tools/join/union-tool.html##) | Alteryx Join Tool Group | Union Tool
+
 #### Alteryx Join Tool Group
 - Using Union Tool in Alteryx
 **![UnionTool.png](Workflow-Screens/UnionTool.png)**
