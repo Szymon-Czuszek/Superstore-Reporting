@@ -1,4 +1,4 @@
-# Superstore-Reporting
+# 🧭 Superstore-Reporting
 This project aims to show capabilities of Alteryx software on the Kaggle data named "Superstore". The project includes creation of an analytic application, spatial analysis, creating report visualisations, exploratory data analysis, and a unique Alteryx approach to the traveling salesman problem.
 
 ### Workflow graphical representation: Loading Data.
