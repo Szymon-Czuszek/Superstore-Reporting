@@ -1,6 +1,8 @@
 # 🧭 Superstore-Reporting
 This project aims to show capabilities of Alteryx software on the Kaggle data named "Superstore". The project includes creation of an analytic application, spatial analysis, creating report visualisations, exploratory data analysis, and a unique Alteryx approach to the traveling salesman problem.
 
+The project includes:
+
 ### Workflow graphical representation: Loading Data.
 - Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
 **![WF1.png](Workflow-Screens/WF1.png)**
