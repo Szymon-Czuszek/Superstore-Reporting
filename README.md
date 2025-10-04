@@ -3,6 +3,7 @@ This project aims to show capabilities of Alteryx software on the Kaggle data na
 
 The project includes:
 - 🧰 Creation of an analytic application
+- 🌐 Spatial analysis
 
 ### Workflow graphical representation: Loading Data.
 - Using Alteryx Tools: Input Data Tool, Auto Field Tool, DateTime Tool, Join Tool, Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
