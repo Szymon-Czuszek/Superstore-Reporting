@@ -28,7 +28,7 @@ The project includes:
 - Using Alteryx Tools: Spearman Correlation, Pearson Correlation, and more.
 **![WF5.png](Workflow-Screens/WF5.png)**
 
-### Workflow graphical representation: Spatial Analysis.
+### 🌍 Workflow graphical representation: Spatial Analysis.
 - Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
 **![WF6.png](Workflow-Screens/WF6.png)**
 
