@@ -43,7 +43,7 @@ This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the
 - Investigating Custom Made Iterative Macro
 **![IterativeMacro.png](Workflow-Screens/IterativeMacro.png)**
 
-## Batch Macro used in the "Superstore" Project.
+## 📦 Batch Macro used in the "Superstore" Project.
 This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", and it is used to produce many outputs using batches. It needs an upstream macro, that will actually find the most optimal route, using MIN function, which is tackled further in the "Shortest Route Checker" Standard Macro.
 
 ### Alteryx Custom Made Macro Group
