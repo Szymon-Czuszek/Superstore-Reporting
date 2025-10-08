@@ -50,7 +50,7 @@ This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the
 - Using Custom Made Batch Macro
 **![CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
 
-### Alteryx Custom Made Macro Group
+### 🧠 Alteryx Custom Made Macro Group
 - Investigating Custom Made Batch Macro
 **![BatchMacro.png](Workflow-Screens/BatchMacro.png)**
 
