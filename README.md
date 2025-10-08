@@ -54,7 +54,7 @@ This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process to find the
 - Investigating Custom Made Batch Macro
 **![BatchMacro.png](Workflow-Screens/BatchMacro.png)**
 
-## Standard Macro used in "Superstore" project.
+## 🧠 Standard Macro used in "Superstore" project.
 This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it's limitation is the longer run times, depending on the amount of locations it needs to connect and check.
 
 ### Alteryx Custom Made Macro Group
