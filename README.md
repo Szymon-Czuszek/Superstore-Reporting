@@ -65,7 +65,7 @@ This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch
 - Investigating Custom Made Standard Macro
 **![Custom-Made Standard Macro](Workflow-Screens/StandardMacro.png)**
 
-## Project "Superstore" - Analytic Application only.
+## 🖥️ Project "Superstore" - Analytic Application only.
 An [analytic app](ProjectSuperstore.yxwz) containing the user interface, spatial, reporting, macros, and other advanced functionalities.
 
 ## Workflow-Screens Folder
