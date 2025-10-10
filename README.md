@@ -89,7 +89,7 @@ The folder contains screens of the workflow, as is in the file.
 - Screen-shot below presents the configuration of the auto filed tool. The metadata tab is selected on purpouse, as the tool will convert the string data types, as in the output anchor. The configuration of the tool comes down only to selection of the fileds, of which types we whish to adjust.
 **![Auto1.png](Workflow-Screens/Auto1.png)** 
 
-#### Using Auto Field Tool in Alteryx - Output
+#### 📚 Using Auto Field Tool in Alteryx - Output
 - Screen-shot below presents the output anchor of the auto field tool, with already converted file types. As seen, some types like double or byte were easily recognizable by the tool, and got changed from string.
 **![Auto2.png](Workflow-Screens/Auto2.png)**
 
