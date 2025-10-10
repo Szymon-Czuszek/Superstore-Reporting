@@ -79,7 +79,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | Alteryx Join Tool Group | Append Fields Tool
 
-#### Alteryx Join Tool Group
+#### 🔄 Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
 **![Append.png](Workflow-Screens/Append.png)**
 
