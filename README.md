@@ -85,7 +85,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-b7347050-71b7-b0da-cd14-6420f0a8eca9.png" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | Alteryx Preparation Tool Group | Auto Field Tool
 
-#### Using Auto Field Tool in Alteryx - Input
+#### 🛠️ Using Auto Field Tool in Alteryx - Input
 - Screen-shot below presents the configuration of the auto filed tool. The metadata tab is selected on purpouse, as the tool will convert the string data types, as in the output anchor. The configuration of the tool comes down only to selection of the fileds, of which types we whish to adjust.
 **![Auto1.png](Workflow-Screens/Auto1.png)** 
 
