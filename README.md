@@ -113,7 +113,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-e3bb418c-d6cc-4b4b-136c-8d60034b6242.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/interactive-chart-tool.html) | Alteryx Reporting Tool Group | Interactive Chart Tool
 
-#### Alteryx Reporting Group
+#### 📝 Alteryx Reporting Group
 - Using Interactive Chart Tool in Alteryx
 **![Chart.png](Workflow-Screens/Chart.png)**
 
