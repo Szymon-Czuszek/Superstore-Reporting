@@ -125,7 +125,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-9b8a711a-c9ee-ef6b-7e54-6f2f4a40d1db.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/transform/count-records-tool.html##) | Alteryx Transform Tool Group | Count Records Tool
 
-#### Alteryx Transformation Group
+#### 📊 Alteryx Transformation Group
 - Using Count Records Tool in Alteryx
 **![Count.png](Workflow-Screens/Count.png)**
 
