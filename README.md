@@ -119,7 +119,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-56a84855-008e-d04c-d237-a04c11ddd488.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/transform/count-records-tool.html##) | Alteryx Interface Tool Group | Control Parameter Tool
 
-#### Alteryx Interface Group
+#### 🧮 Alteryx Interface Group
 - Using Control Parameter Tool in Alteryx
 **![ControlParameter.png](Workflow-Screens/ControlParameter.png)**
 
