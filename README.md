@@ -137,7 +137,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8b46f1d2-43ef-5744-5b66-936ff167f23d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/field-summary-tool.html) | Alteryx Data Investigation Tool Group | Field Summary Tool
 
-#### Alteryx Data Investigation Group
+#### 🔍 Alteryx Data Investigation Group
 - Using Field Summary Tool in Alteryx
 **![FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 
