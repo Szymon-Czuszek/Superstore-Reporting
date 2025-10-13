@@ -161,7 +161,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-c83f681c-0283-6b3a-504e-b331ebd7cc3f.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-header-tool.html) | Alteryx Reporting Tool Group | Report Header Tool
 
-#### Alteryx Reporting Group
+#### 📝 Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 **![Head.png](Workflow-Screens/Head.png)**
 
