@@ -143,7 +143,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-69122228-92d1-770a-c737-0ffe904b58ad.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | Alteryx Preparation Tool Group | Filter Tool
 
-#### Alteryx Preparation Group
+#### 📦 Alteryx Preparation Group
 - Using Filter Tool in Alteryx
 **![Filter.png](Workflow-Screens/Filter.png)**
 
