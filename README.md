@@ -173,7 +173,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8ecd5bdf-cd31-a5fb-f6fd-7b90443cee38.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/layout-tool.html) | Alteryx Reporting Tool Group | Layout Tool
 
-#### Alteryx Reporting Group
+#### 📝 Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
 **![Layout.png](Workflow-Screens/Layout.png)**
 
