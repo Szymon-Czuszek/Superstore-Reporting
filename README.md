@@ -167,7 +167,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-f9b13cd1-5718-a091-fdfa-c936c74743db.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/join-tool.html) | Alteryx Join Tool Group | Join Tool
 
-#### Alteryx Join Tool Group
+#### 🔄 Alteryx Join Tool Group
 - Using Join Tool in Alteryx
 **![Join.png](Workflow-Screens/Join.png)**
 
