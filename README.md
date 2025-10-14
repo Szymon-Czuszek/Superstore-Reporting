@@ -185,7 +185,7 @@ The folder contains screens of the workflow, as is in the file.
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a1e53169-3eea-ba91-aa40-b58af5ec610b.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/interface-tools/numeric-up-down-tool.html) | Alteryx Interface Tool Group | Numeric Up Down Tool
 
-#### Alteryx Interface Tool Group
+#### 🧮 Alteryx Interface Tool Group
 - Using Numeric Up Down Tool in Alteryx
 **![NumericUpDown.png](Workflow-Screens/NumericUpDown.png)**
 
