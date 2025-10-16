@@ -9,7 +9,7 @@ The project includes:
 - 🧮 A unique Alteryx approach to the Traveling Salesman Problem
 
 ### 🗂️ Workflow graphical representation: Loading Data
-- Using Alteryx Tools: 🧾 Input Data Tool, 🔠 Auto Field Tool, 🕓 DateTime Tool, 🔗 Join Tool, ➕ Union Tool, Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
+- Using Alteryx Tools: 🧾 Input Data Tool, 🔠 Auto Field Tool, 🕓 DateTime Tool, 🔗 Join Tool, ➕ Union Tool, 🧮 Formula Tool, Select Tool, Create Points Tool, File Browse Tool, Text Box Tool, Action Tool, Radio Button Tool, Summarize Tool.
 **![WF1.png](Workflow-Screens/WF1.png)**
 
 ### 🧪 Workflow graphical representation: Data manipulation.
