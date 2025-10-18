@@ -13,7 +13,7 @@ The project includes:
 **![WF1.png](Workflow-Screens/WF1.png)**
 
 ### 🧪 Workflow graphical representation: Data manipulation.
-- Using Alteryx Tools: 📊 Summarize Tool, Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
+- Using Alteryx Tools: 📊 Summarize Tool, 🧮 Formula Tool, Sample Tool, Sort Tool, Join Tool, Union Tool, Filter Tool, and more.
 **![WF2.png](Workflow-Screens/WF2.png)**
 
 ### 📈 Workflow graphical representation: Aggregation and reporting.
