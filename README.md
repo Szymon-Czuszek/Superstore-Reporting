@@ -21,7 +21,7 @@ The project includes:
 **![WF3.png](Workflow-Screens/WF3.png)**
 
 ### 📈 Workflow graphical representation: Aggregation and reporting.
-- Using Alteryx Tools: ➕ Union Tool, Interactive Chart Tool, Layout Tool, and more
+- Using Alteryx Tools: ➕ Union Tool, 📉 Interactive Chart Tool, Layout Tool, and more
 **![WF4.png](Workflow-Screens/WF4.png)**
 
 ### 🕵️ Workflow graphical representation: Data Investigation.
