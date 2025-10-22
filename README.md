@@ -39,7 +39,7 @@ This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the
 - 🌀 Using Custom Made Iterative Macro
 **![CustomMacro3.png](Workflow-Screens/CustomMacro3.png)**
 
-### 🧠 Alteryx Custom Made Macro Group
+### 🧩 Alteryx Custom Made Macro Group
 - Investigating Custom Made Iterative Macro
 **![IterativeMacro.png](Workflow-Screens/IterativeMacro.png)**
 
