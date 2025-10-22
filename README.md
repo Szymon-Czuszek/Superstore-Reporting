@@ -36,7 +36,7 @@ The project includes:
 This [iterative macro](Shortest%20Route.yxmc) uses iterative process to find the nearest location using spatial analytics. This macro aims to solve the "Traveling Salesman Problem", but it needs an upstream macro that will run this process for other combination of starting points, which is further solved in "Shortest Route Batch" Macro.
 
 ### 🧠 Alteryx Custom Made Macro Group
-- Using Custom Made Iterative Macro
+- 🌀 Using Custom Made Iterative Macro
 **![CustomMacro3.png](Workflow-Screens/CustomMacro3.png)**
 
 ### 🧠 Alteryx Custom Made Macro Group
