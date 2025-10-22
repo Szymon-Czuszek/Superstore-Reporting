@@ -29,7 +29,7 @@ The project includes:
 **![WF5.png](Workflow-Screens/WF5.png)**
 
 ### 🌍 Workflow graphical representation: Spatial Analysis.
-- Using Alteryx Tools: Poly-Build Tool, Make Points Tool.
+- Using Alteryx Tools: 🗺️ Poly-Build Tool, Make Points Tool.
 **![WF6.png](Workflow-Screens/WF6.png)**
 
 ## 🔁 Iterative Macro used in the "Superstore" project.
