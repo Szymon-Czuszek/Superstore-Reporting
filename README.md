@@ -51,7 +51,7 @@ This [batch macro](Shortest%20Route%20Batch.yxmc) uses batch process 🧮 to fin
 **![CustomMacro2.png](Workflow-Screens/CustomMacro2.png)**
 
 ### 🧠 Alteryx Custom Made Macro Group
-- Investigating Custom Made Batch Macro
+- 🔍 Investigating Custom Made Batch Macro
 **![BatchMacro.png](Workflow-Screens/BatchMacro.png)**
 
 ## 🧠 Standard Macro used in "Superstore" project.
