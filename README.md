@@ -62,7 +62,7 @@ This [standard macro](Shortest%20Route%20Checker.yxmc) feeds iterative and batch
 **![CustomMacro.png](Workflow-Screens/CustomMacro.png)**
 
 ### 🧠 Alteryx Custom Made Macro Group
-- Investigating Custom Made Standard Macro
+- 🔍 Investigating Custom Made Standard Macro
 **![Custom-Made Standard Macro](Workflow-Screens/StandardMacro.png)**
 
 ## 🖥️ Project "Superstore" - Analytic Application only.
