@@ -77,7 +77,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🖱️ Using Action Tool in Alteryx
 **![Action.png](Workflow-Screens/Action.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | 🔄 Alteryx Join Tool Group | Append Fields Tool 📎
+### <img src="https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | 🔄 Alteryx Join Tool Group | 📎 Append Fields Tool
 
 #### 🔄 Alteryx Join Tool Group
 - Using Append Fields Tool in Alteryx
