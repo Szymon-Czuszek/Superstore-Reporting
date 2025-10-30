@@ -96,7 +96,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/8175i912ACB670A1F9F1C/image-size/original?v=v2&px=-1" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Basic-Data-Profile/ta-p/28610) | 🔍 Alteryx Data Investigation Tool Group | 🧰 Basic Data Profile Tool
 
 #### 🕵️ Alteryx Data Investigation Group
-- Using Basic Data Profile Tool in Alteryx
+- 📝 Using Basic Data Profile Tool in Alteryx
 **![BasicDataProfile.png](Workflow-Screens/BasicDataProfile.png)**
 
 ### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/9900iAB3EC61959EFE81D/image-size/large?v=v2&px=999" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Browse/ta-p/1208) | Alteryx In/Out Tool Group | Browse Tool
