@@ -80,7 +80,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a859e43c-5d1c-398e-ebaf-5114987a3544.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/append-fields-tool.html) | 🔄 Alteryx Join Tool Group | 📎 Append Fields Tool
 
 #### 🔄 Alteryx Join Tool Group
-- Using Append Fields Tool in Alteryx
+- 🧰 Using Append Fields Tool in Alteryx
 **![Append.png](Workflow-Screens/Append.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-b7347050-71b7-b0da-cd14-6420f0a8eca9.png" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Auto-Field/ta-p/49731?lightbox-message-images-49731=13686i8C7DFB7FE4CCD355) | 🛠️ Alteryx Preparation Tool Group | 🔠 Auto Field Tool
