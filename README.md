@@ -108,7 +108,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-da6558a8-7881-c24f-4dbd-23ab3ba4ada1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/spatial/poly-build-tool.html#poly-build-tool) | Alteryx Spatial Tool Group | Poly-Build Tool
 
 #### 🌍 Alteryx Spatial Group
-- Using Poly-Build Tool in Alteryx
+- 🗺️ Using Poly-Build Tool in Alteryx
 **![BuildingSequenceLine.png](Workflow-Screens/BuildingSequenceLine.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-e3bb418c-d6cc-4b4b-136c-8d60034b6242.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/interactive-chart-tool.html) | Alteryx Reporting Tool Group | Interactive Chart Tool
