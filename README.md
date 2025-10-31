@@ -102,7 +102,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://community.alteryx.com/t5/image/serverpage/image-id/9900iAB3EC61959EFE81D/image-size/large?v=v2&px=999" width="60" /> [Tool Mastery](https://community.alteryx.com/t5/Tool-Mastery/Tool-Mastery-Browse/ta-p/1208) | 🖥️ Alteryx In/Out Tool Group | 👁️ Browse Tool
 
 #### 🖥️ Alteryx In/Out Group
-- Using Browse Tool in Alteryx
+- 🔍 Using Browse Tool in Alteryx
 **![Browse.png](Workflow-Screens/Browse.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-da6558a8-7881-c24f-4dbd-23ab3ba4ada1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/spatial/poly-build-tool.html#poly-build-tool) | Alteryx Spatial Tool Group | Poly-Build Tool
