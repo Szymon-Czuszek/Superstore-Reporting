@@ -114,7 +114,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-e3bb418c-d6cc-4b4b-136c-8d60034b6242.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/interactive-chart-tool.html) | 🖼️ Alteryx Reporting Tool Group | 📊 Interactive Chart Tool
 
 #### 📝 Alteryx Reporting Group
-- Using Interactive Chart Tool in Alteryx
+- Using 📊 Interactive Chart Tool in Alteryx
 **![Chart.png](Workflow-Screens/Chart.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-56a84855-008e-d04c-d237-a04c11ddd488.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/transform/count-records-tool.html##) | 🧮 Alteryx Interface Tool Group | 🎚️ Control Parameter Tool
