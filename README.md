@@ -129,7 +129,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🔢 Using Count Records Tool in Alteryx
 **![Count.png](Workflow-Screens/Count.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-b9c2ec12-3d7e-1bc1-541b-08e82f62ad23.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/parse/datetime-tool.html) | Alteryx Parse Tool Group | DateTime Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-b9c2ec12-3d7e-1bc1-541b-08e82f62ad23.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/parse/datetime-tool.html) | Alteryx Parse Tool Group | ⏱️ DateTime Tool
 
 #### 🧰 Alteryx Parse Group
 - 🕒 Using DateTime Tool in Alteryx
