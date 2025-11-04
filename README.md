@@ -135,7 +135,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🕒 Using DateTime Tool in Alteryx
 **![DateParse.png](Workflow-Screens/DateParse.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-8b46f1d2-43ef-5744-5b66-936ff167f23d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/field-summary-tool.html) | Alteryx Data Investigation Tool Group | 📋 Field Summary Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-8b46f1d2-43ef-5744-5b66-936ff167f23d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/field-summary-tool.html) | 📈 Alteryx Data Investigation Tool Group | 📋 Field Summary Tool
 
 #### 🔍 Alteryx Data Investigation Group
 - Using Field Summary Tool in Alteryx
