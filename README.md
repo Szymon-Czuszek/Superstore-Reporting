@@ -138,7 +138,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8b46f1d2-43ef-5744-5b66-936ff167f23d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/field-summary-tool.html) | 📈 Alteryx Data Investigation Tool Group | 📋 Field Summary Tool
 
 #### 🔍 Alteryx Data Investigation Group
-- Using Field Summary Tool in Alteryx
+- 📋 Using Field Summary Tool in Alteryx
 **![FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-69122228-92d1-770a-c737-0ffe904b58ad.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | Alteryx Preparation Tool Group | Filter Tool
