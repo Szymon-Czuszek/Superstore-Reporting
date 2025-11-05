@@ -144,7 +144,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-69122228-92d1-770a-c737-0ffe904b58ad.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | 🧪 Alteryx Preparation Tool Group | 🚿 Filter Tool
 
 #### 📦 Alteryx Preparation Group
-- Using Filter Tool in Alteryx
+- 🚿 Using Filter Tool in Alteryx
 **![Filter.png](Workflow-Screens/Filter.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-4da60bda-dd8b-31d5-aa21-adfa8a201b08.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-footer-tool.html) | Alteryx Reporting Tool Group | Report Footer Tool
