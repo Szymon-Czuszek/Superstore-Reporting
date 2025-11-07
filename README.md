@@ -156,7 +156,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-9dc01e86-c9f6-f365-2a11-4528d15c7499.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/formula-tool.html) | 📦 Alteryx Preparation Tool Group | Formula Tool
 
 #### 📦 Alteryx Preparation Group
-- Using Formula Tool in Alteryx
+- 🧮 Using Formula Tool in Alteryx
 **![Formula.png](Workflow-Screens/Formula.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-c83f681c-0283-6b3a-504e-b331ebd7cc3f.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-header-tool.html) | Alteryx Reporting Tool Group | Report Header Tool
