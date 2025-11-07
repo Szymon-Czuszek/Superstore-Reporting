@@ -159,7 +159,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🧮 Using Formula Tool in Alteryx
 **![Formula.png](Workflow-Screens/Formula.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-c83f681c-0283-6b3a-504e-b331ebd7cc3f.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-header-tool.html) | Alteryx Reporting Tool Group | Report Header Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-c83f681c-0283-6b3a-504e-b331ebd7cc3f.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-header-tool.html) | 📝 Alteryx Reporting Tool Group | Report Header Tool
 
 #### 📝 Alteryx Reporting Group
 - Using Report Header Tool in Alteryx
