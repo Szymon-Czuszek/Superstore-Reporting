@@ -168,7 +168,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-f9b13cd1-5718-a091-fdfa-c936c74743db.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/join-tool.html) | 🔄 Alteryx Join Tool Group | 🔗 Join Tool
 
 #### 🔄 Alteryx Join Tool Group
-- Using Join Tool in Alteryx
+- 🔗 Using Join Tool in Alteryx
 **![Join.png](Workflow-Screens/Join.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8ecd5bdf-cd31-a5fb-f6fd-7b90443cee38.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/layout-tool.html) | Alteryx Reporting Tool Group | Layout Tool
