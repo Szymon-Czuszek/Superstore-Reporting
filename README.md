@@ -174,7 +174,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8ecd5bdf-cd31-a5fb-f6fd-7b90443cee38.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/layout-tool.html) | 🖼️ Alteryx Reporting Tool Group | 🧾 Layout Tool
 
 #### 📝 Alteryx Reporting Group
-- Using Report Header Tool in Alteryx
+- 📰 Using Report Header Tool in Alteryx
 **![Layout.png](Workflow-Screens/Layout.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-d4fa5b87-25bb-b657-ae17-8bfa92c3f4d4.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/message-tool.html) | Alteryx Developer Tool Group | Message Tool
