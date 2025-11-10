@@ -180,7 +180,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-d4fa5b87-25bb-b657-ae17-8bfa92c3f4d4.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/message-tool.html) | 🧑‍💻 Alteryx Developer Tool Group | 📤 Message Tool
 
 #### 🛠️ Alteryx Developer Tool Group
-- Using Message Tool in Alteryx
+- 📤 Using Message Tool in Alteryx
 **![Msg.png](Workflow-Screens/Msg.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a1e53169-3eea-ba91-aa40-b58af5ec610b.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/interface-tools/numeric-up-down-tool.html) | Alteryx Interface Tool Group | Numeric Up Down Tool
