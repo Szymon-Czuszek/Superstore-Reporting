@@ -186,7 +186,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a1e53169-3eea-ba91-aa40-b58af5ec610b.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/interface-tools/numeric-up-down-tool.html) | 🎛️ Alteryx Interface Tool Group | 🧩 Numeric Up Down Tool
 
 #### 🧮 Alteryx Interface Tool Group
-- Using Numeric Up Down Tool in Alteryx
+- 🧩 Using Numeric Up Down Tool in Alteryx
 **![NumericUpDown.png](Workflow-Screens/NumericUpDown.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-17670fc7-0e8c-699e-1907-cf66553471eb.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/pearson-correlation-tool.html) | Alteryx Data Investigation Tool Group | Pearson Correlation Tool
