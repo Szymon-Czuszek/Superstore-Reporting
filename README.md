@@ -204,7 +204,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-915aa92e-03af-6633-3a22-cdf42b45f1a0.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/record-id-tool.html) | Alteryx Preparation Tool Group | Record ID Tool
 
 #### Alteryx Data Preparation Group
-- Using Record ID Tool in Alteryx
+- 🧰 Using Record ID Tool in Alteryx
 **![Record ID.png](Workflow-Screens/Record%20ID.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-c0b1d777-4b86-3f21-687f-75255991ba5d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/render-tool.html) | Alteryx Reporting Tool Group | Render Tool
