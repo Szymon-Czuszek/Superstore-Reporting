@@ -195,7 +195,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🧪 Using Pearson Correlation Tool in Alteryx
 **![Pearson.png](Workflow-Screens/Pearson.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-b4b16910-3ed6-7de0-76d7-de55a231c245.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/random---sample-tool.html) | Alteryx Preparation Tool Group | Random % Sample Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-b4b16910-3ed6-7de0-76d7-de55a231c245.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/random---sample-tool.html) | 🧹 Alteryx Preparation Tool Group | Random % Sample Tool
 
 #### Alteryx Data Preparation Group
 - Using Random Sample Tool in Alteryx
