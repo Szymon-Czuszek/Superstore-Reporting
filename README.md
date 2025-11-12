@@ -198,7 +198,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-b4b16910-3ed6-7de0-76d7-de55a231c245.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/random---sample-tool.html) | 🧹 Alteryx Preparation Tool Group | 🧮 Random % Sample Tool
 
 #### Alteryx Data Preparation Group
-- Using Random Sample Tool in Alteryx
+- 🧮 Using Random Sample Tool in Alteryx
 **![Random.png](Workflow-Screens/Random.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-915aa92e-03af-6633-3a22-cdf42b45f1a0.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/record-id-tool.html) | Alteryx Preparation Tool Group | Record ID Tool
