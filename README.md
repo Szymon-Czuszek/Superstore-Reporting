@@ -207,7 +207,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🧰 Using Record ID Tool in Alteryx
 **![Record ID.png](Workflow-Screens/Record%20ID.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-c0b1d777-4b86-3f21-687f-75255991ba5d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/render-tool.html) | Alteryx Reporting Tool Group | Render Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-c0b1d777-4b86-3f21-687f-75255991ba5d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/render-tool.html) | 🧹 Alteryx Reporting Tool Group | Render Tool
 
 #### Alteryx Reporting Group
 - Using Render Tool in Alteryx
