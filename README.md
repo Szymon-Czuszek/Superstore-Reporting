@@ -210,7 +210,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-c0b1d777-4b86-3f21-687f-75255991ba5d.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/render-tool.html) | 🧹 Alteryx Reporting Tool Group | 🖼️ Render Tool
 
 #### Alteryx Reporting Group
-- Using Render Tool in Alteryx
+- 📰 Using Render Tool in Alteryx
 **![Render.png](Workflow-Screens/Render.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-935e0072-f113-fb2d-d615-0348c7a755c1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-map-tool.html) | Alteryx Reporting Tool Group | Report Map Tool
