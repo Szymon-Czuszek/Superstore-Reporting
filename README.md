@@ -219,7 +219,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🖼️ Using Report Map Tool in Alteryx
 **![ReportMap.png](Workflow-Screens/ReportMap.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-9ff5db68-a24a-c353-89d2-7fe601852fe3.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-text-tool.html) | Alteryx Reporting Tool Group | Report Text Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-9ff5db68-a24a-c353-89d2-7fe601852fe3.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-text-tool.html) | 🧾 Alteryx Reporting Tool Group | Report Text Tool
 
 #### Alteryx Reporting Group
 - Using Report Text Tool in Alteryx
