@@ -222,7 +222,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-9ff5db68-a24a-c353-89d2-7fe601852fe3.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/report-text-tool.html) | 🧾 Alteryx Reporting Tool Group | 🖼️ Report Text Tool
 
 #### Alteryx Reporting Group
-- Using Report Text Tool in Alteryx
+- 🧾 Using Report Text Tool in Alteryx
 **![ReportText.png](Workflow-Screens/ReportText.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-8fec8c20-cc8b-21e1-195f-c698c45344fd.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/transform/running-total-tool.html) | Alteryx Transform Tool Group | Running Total Tool
