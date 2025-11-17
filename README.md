@@ -234,7 +234,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-d779826a-75e6-81f3-2e95-4c92c87cad7b.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/select-tool.html) | 🧹 Alteryx Preparation Tool Group | 🧰 Select Tool
 
 #### Alteryx Data Preparation Group
-- Using Select Tool in Alteryx
+- 🧰 Using Select Tool in Alteryx
 **![Select.png](Workflow-Screens/Select.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-3c3c14a7-a68a-dad6-83ec-a92ac54473a1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/dynamic-select-tool.html) | Alteryx Developer Tool Group | Dynamic Select Tool
