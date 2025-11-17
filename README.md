@@ -237,7 +237,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🧰 Using Select Tool in Alteryx
 **![Select.png](Workflow-Screens/Select.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-3c3c14a7-a68a-dad6-83ec-a92ac54473a1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/dynamic-select-tool.html) | Alteryx Developer Tool Group | Dynamic Select Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-3c3c14a7-a68a-dad6-83ec-a92ac54473a1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/dynamic-select-tool.html) | 🧑‍💻 Alteryx Developer Tool Group | Dynamic Select Tool
 
 #### Alteryx Developer Tool Group
 - Using Dynamic Select Tool in Alteryx
