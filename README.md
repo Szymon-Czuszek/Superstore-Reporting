@@ -246,7 +246,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a2f4af98-8265-6ce1-2f10-7f0a2ee4c737.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/sort-tool.html) | 🧹 Alteryx Preparation Tool Group | 🔀 Sort Tool
 
 #### Alteryx Data Preparation Group
-- Using Sort Tool in Alteryx
+- 🔁 Using Sort Tool in Alteryx
 **![Sort.png](Workflow-Screens/Sort.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a263df76-ab6f-5513-c077-2e79d7420c58.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/spearman-correlation-tool.html) | Alteryx Data Investigation Tool Group | Spearman Correlation Tool
