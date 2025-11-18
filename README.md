@@ -240,7 +240,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-3c3c14a7-a68a-dad6-83ec-a92ac54473a1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/developer/dynamic-select-tool.html) | 🧑‍💻 Alteryx Developer Tool Group | 🧪 Dynamic Select Tool
 
 #### Alteryx Developer Tool Group
-- Using Dynamic Select Tool in Alteryx
+- 🧪 Using Dynamic Select Tool in Alteryx
 **![SelectDynamic.png](Workflow-Screens/SelectDynamic.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a2f4af98-8265-6ce1-2f10-7f0a2ee4c737.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/sort-tool.html) | Alteryx Preparation Tool Group | Sort Tool
