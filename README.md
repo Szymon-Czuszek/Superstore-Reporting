@@ -252,7 +252,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-a263df76-ab6f-5513-c077-2e79d7420c58.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/data-investigation/spearman-correlation-tool.html) | 🔬 Alteryx Data Investigation Tool Group | 🧪 Spearman Correlation Tool
 
 #### Alteryx Data Investigation Group
-- Using Spearman Correlation Tool in Alteryx
+- 🧪 Using Spearman Correlation Tool in Alteryx
 **![Spearman Tool](Workflow-Screens/Spearman.png)**
 
 ### <img src="https://help.alteryx.com/current/en/image/uuid-ef196a68-f526-d2ab-955f-f605cf07cfe7.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/transform/summarize-tool.html) | Alteryx Transform Tool Group | Summarize Tool
