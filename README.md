@@ -270,7 +270,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 ### <img src="https://help.alteryx.com/current/en/image/uuid-ff4b293c-67ce-5319-56bf-c654313de524.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/union-tool.html##) | 🔀 Alteryx Join Tool Group | 🤝 Union Tool
 
 #### Alteryx Join Tool Group
-- Using Union Tool in Alteryx
+- 🤝 Using Union Tool in Alteryx
 **![UnionTool.png](Workflow-Screens/UnionTool.png)**
 
 ## Disclaimer
