@@ -267,7 +267,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - Using Table Tool in Alteryx
 **![Table.png](Workflow-Screens/Table.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-ff4b293c-67ce-5319-56bf-c654313de524.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/union-tool.html##) | Alteryx Join Tool Group | Union Tool
+### <img src="https://help.alteryx.com/current/en/image/uuid-ff4b293c-67ce-5319-56bf-c654313de524.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/join/union-tool.html##) | 🔀 Alteryx Join Tool Group | Union Tool
 
 #### Alteryx Join Tool Group
 - Using Union Tool in Alteryx
