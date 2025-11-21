@@ -274,4 +274,4 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 **![UnionTool.png](Workflow-Screens/UnionTool.png)**
 
 ## Disclaimer
-The images used in this README are the property of Alteryx, Inc. and are used here for informational purposes only. All rights to these images are retained by Alteryx, Inc. No copyright infringement is intended.
+🧑‍💻 The images used in this README are the property of Alteryx, Inc. and are used here for informational purposes only. All rights to these images are retained by Alteryx, Inc. No copyright infringement is intended.
