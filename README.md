@@ -105,7 +105,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🔍 Using Browse Tool in Alteryx
 **![Browse.png](Workflow-Screens/Browse.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-da6558a8-7881-c24f-4dbd-23ab3ba4ada1.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/spatial/poly-build-tool.html#poly-build-tool) | 🌍 Alteryx Spatial Tool Group | 🗺️ Poly-Build Tool
+### [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/spatial/poly-build-tool.html#poly-build-tool) | 🌍 Alteryx Spatial Tool Group | 🗺️ Poly-Build Tool
 
 #### 🌍 Alteryx Spatial Group
 - 🗺️ Using Poly-Build Tool in Alteryx
