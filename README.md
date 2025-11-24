@@ -141,7 +141,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 📋 Using Field Summary Tool in Alteryx
 **![FieldSummary.png](Workflow-Screens/FieldSummary.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-69122228-92d1-770a-c737-0ffe904b58ad.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | 🧪 Alteryx Preparation Tool Group | 🚿 Filter Tool
+### [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/filter-tool.html) | 🧪 Alteryx Preparation Tool Group | 🚿 Filter Tool
 
 #### 📦 Alteryx Preparation Group
 - 🚿 Using Filter Tool in Alteryx
