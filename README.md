@@ -243,7 +243,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - 🧪 Using Dynamic Select Tool in Alteryx
 **![SelectDynamic.png](Workflow-Screens/SelectDynamic.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-a2f4af98-8265-6ce1-2f10-7f0a2ee4c737.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/sort-tool.html) | 🧹 Alteryx Preparation Tool Group | 🔀 Sort Tool
+### [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/preparation/sort-tool.html) | 🧹 Alteryx Preparation Tool Group | 🔀 Sort Tool
 
 #### Alteryx Data Preparation Group
 - 🔁 Using Sort Tool in Alteryx
