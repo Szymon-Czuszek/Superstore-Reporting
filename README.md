@@ -261,7 +261,7 @@ An [analytic app](ProjectSuperstore.yxwz) containing the user interface 🧰, sp
 - Using 🧠 Summarize Tool in Alteryx
 **![Summarize Tool](Workflow-Screens/Summarize.png)**
 
-### <img src="https://help.alteryx.com/current/en/image/uuid-ef196a68-f526-d2ab-955f-f605cf07cfe7.png" width="60" /> [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/table-tool.html) | 🖼️ Alteryx Reporting Tool Group | 📰 Table Tool
+### [Alteryx Help](https://help.alteryx.com/current/en/designer/tools/reporting/table-tool.html) | 🖼️ Alteryx Reporting Tool Group | 📰 Table Tool
 
 #### Alteryx Reporting Group
 - Using Table Tool in Alteryx
