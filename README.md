@@ -5,7 +5,7 @@ The project includes:
 - 🧰 Creation of an analytic application
 - 🌐 Spatial analysis
 - 📊 Report visualisations
-- 🔍 Exploratory data analysis
+- 🔍 Exploratory data analysis (EDA)
 - 🧮 A unique Alteryx approach to the Traveling Salesman Problem
 
 ### 🗂️ Workflow graphical representation: Loading Data
