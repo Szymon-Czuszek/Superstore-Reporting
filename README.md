@@ -3,7 +3,7 @@ This project aims to show capabilities of Alteryx software on the Kaggle data na
 
 The project includes:
 - 🧰 Creation of an analytic application
-- 🌐 Spatial analysis
+- 🌐 Spatial analysis (Use of spatial tools)
 - 📊 Report visualisations
 - 🔍 Exploratory data analysis (EDA)
 - 🧮 A unique Alteryx approach to the Traveling Salesman Problem
